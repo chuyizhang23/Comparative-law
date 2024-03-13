@@ -32,14 +32,32 @@ Comparative law studies concrete cases, not to make theories about law but to co
 
 ### Difficulties faced by comparative law
 
-We will need to be capable of differentiating the differences between different legal systems.
+We will need to be capable of differentiating the differences between different legal systems. However, it is difficult to determine the criteria of comparing and what could be comparable.
 
-It is difficult to determine the criteria of comparing and what could be comparable.
-
-Sometimes, it’s hard to make comparisons between different legal systems with distinct backgrounds, such as Western, Chinese, and Islamic.
-
-Legal systems that are very close are also hard to compare.
+Sometimes, it’s hard to make comparisons between different legal systems with distinct backgrounds, such as Western, Chinese, and Islamic. But legal systems that are very close are also hard to compare.
 
 It is harder to compare more than two systems due to the analysis approach.
 
 ## Elements of classification
+
+Traditionally, different legal systems are classified into several groups based on geographical justification. There are different areas of civilization, and must see it from different points of view.
+
+In the oriental, we have Muslim and Chinese legal systems.
+
+In the occidental, we have two main legal systems: the continental law system (civil law) and the general law system.
+
+### Continental law system
+
+The civil law system is of romaine origin -- *Body of civil law*. It was settled during the romaine empire and the main collects, *code of Justina*. The principle is that all laws are put into the same book as a codex.
+
+> The *Corpus Juris* (or *Iuris*) *Civilis* ("Body of Civil Law") is the modern name for a collection of fundamental works in jurisprudence, issued (vague) from 529 to 534 by order of Byzantine Emperor Justinian I.
+>
+> The work as planned had three parts: the *Code* (*Codex*) is a compilation, by selection and extraction, of imperial enactments to date; the *Digest* or *Pandects* (the Latin title contains both *Digesta* and *Pandectae*) is an encyclopedia composed of mostly brief extracts from the writings of Roman jurists; and the *Institutes* (*Institutiones*) is a student textbook, mainly introducing the Code, although it has important conceptual elements that are less developed in the Code or the Digest. All three parts, even the textbook, were given force of law. They were intended to be, together, the sole source of law; reference to any other source, including the original texts from which the *Code* and the *Digest* had been taken, was forbidden. Nonetheless, Justinian found himself having to enact further laws; today these are counted as a fourth part of the Corpus, the *Novellae Constitutiones* (*Novels*, literally *New Laws*).
+>
+> The "Codex Justinianus", "Codex Justinianeus" or "Codex Justiniani" (Latin for "Justinian's Code") was the first part to be finished, on 7 April 529.
+
+Roman law has a profound influence on our modern legal system. We have guidelines in Latin to determine and analyze cases. In the Common law system, there are no exact codes but still Roman legacies.
+
+Roman law was influenced during the Middle Ages by the legal practices of the barbarians from Eastern Europe, particularly Germany. These people had no written laws but only oral custom law that was applied case-by-case by the judges.
+
+### General law system
