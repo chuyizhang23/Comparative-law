@@ -58,6 +58,12 @@ The civil law system is of romaine origin -- *Body of civil law*. It was settled
 
 Roman law has a profound influence on our modern legal system. We have guidelines in Latin to determine and analyze cases. In the Common law system, there are no exact codes but still Roman legacies.
 
-Roman law was influenced during the Middle Ages by the legal practices of the barbarians from Eastern Europe, particularly Germany. These people had no written laws but only oral custom law that was applied case-by-case by the judges.
+Roman law was influenced during the Middle Ages by the legal practices of the barbarians from Eastern Europe, particularly Germany. These people had no written laws but only oral custom law that was applied case-by-case by the judges. Roman and Barbarians coexistence, meaning there was no general legal system that applied to all people. Different rules applied to different people according to their origins: most of the population is ruled by Roman law, while Germans are ruled by their local customs. During this period, there were intermarriages between them, which led to the mix of these two legal systems.
+
+Example: The application of the traditional custom in France. On the succession of the tribes, only sons but not daughters could inherit after their father died. So the succession of the monarchy is similar in France, according to which women were not legally attending to the throne. Compared to the situation in the UK where women could hold the throne.
+
+In the North of Europe, the legal systems are based on the application of oral law with the influence of the German tribes' legal customs. Notice that the German tribes' legal customs are mixed with the principle of Roman law.
+
+In Italy and northern Spain, which were not occupied by the Muslims, romaine law is applied. The universities have been the place where romaine law was studied as a kind of philosophy of law, "what could be law?" The lawyers graduated in the Romaine law environment, and when they moved north they brought with them the Romaine law principle. There are also legal vocabularies inherited from Romains.
 
 ### General law system
