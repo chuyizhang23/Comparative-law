@@ -91,9 +91,13 @@ A large part of the law is made with customs and the rule of precedent. The judg
 > Key aspects of the rule of precedent include:
 >
 > 1. **Binding Authority**: When a higher court issues a decision on a particular legal issue, that decision becomes binding precedent for lower courts within the same jurisdiction. Lower courts are required to follow the legal reasoning and outcome established by the higher court.
+>
 > 2. **Hierarchy of Courts**: Precedents set by higher courts carry more weight than those set by lower courts. Decisions from appellate courts, such as the Supreme Court in the United States or the Court of Appeal in the United Kingdom, have greater precedential value than decisions from trial courts.
+>
 > 3. **Consistency and Predictability**: The rule of precedent promotes consistency and predictability in the legal system by ensuring that similar cases are treated similarly over time. It helps to establish clear legal principles and standards that guide future decisions.
+>
 > 4. **Flexibility and Adaptability**: While the rule of precedent provides stability and consistency, it also allows for the evolution of the law over time. Courts can distinguish earlier precedents or overturn them in exceptional cases when circumstances warrant a change in legal interpretation or when the precedent is found to be incorrect or outdated.
+>
 > 5. **Exceptions and Overruling**: In certain circumstances, courts may depart from established precedent. This can occur when a higher court explicitly overrules a previous decision, when a precedent is found to be inconsistent with higher legal principles or developments, or when significant societal or legal changes necessitate a different approach.
 >
 > Overall, the rule of precedent is a cornerstone of the common law system, promoting legal stability, consistency, and fairness while allowing for the gradual development and adaptation of the law in response to changing circumstances and societal values.
@@ -109,9 +113,13 @@ Common laws exist not only in England but are also exported to other countries. 
 > Key aspects of the Rule of Reason include:
 >
 > 1. **Analysis of Competitive Effects**: Under the Rule of Reason, courts evaluate whether a particular business practice has an anticompetitive effect on the market. This involves considering factors such as market power, potential consumer harm, innovation, and efficiency.
+>
 > 2. **Balancing Procompetitive and Anticompetitive Effects**: The Rule of Reason requires courts to weigh the potential benefits of the challenged conduct against its potential harm to competition. Practices that enhance competition, promote consumer welfare, or improve efficiency are more likely to be considered lawful under this analysis.
+>
 > 3. **Case-by-Case Evaluation**: Rather than applying a blanket rule to all similar types of conduct, the Rule of Reason necessitates a case-by-case evaluation of the specific facts and circumstances. This allows courts to assess the competitive impact of the conduct in question and tailor their analysis accordingly.
+>
 > 4. **Evidentiary Burden**: Both plaintiffs and defendants in antitrust cases bear the burden of presenting evidence to support their respective positions under the Rule of Reason. Plaintiffs must demonstrate that the challenged conduct harms competition, while defendants may argue that the conduct benefits consumers or enhances efficiency.
+>
 > 5. **Judicial Discretion**: Courts have considerable discretion in applying the Rule of Reason, allowing them to adapt the analysis to evolving market conditions and legal principles.
 >
 > Overall, the Rule of Reason serves as a flexible framework for evaluating potentially anticompetitive business practices, striking a balance between promoting competition and allowing businesses to engage in legitimate procompetitive conduct. It requires courts to carefully weigh the competitive effects of the conduct in question and make informed decisions based on the specific facts of each case.
@@ -149,9 +157,13 @@ In reality, the codes proceed with general principles that are abstractions that
 > Here are some key characteristics of the Napoleonic Code:
 >
 > 1. **Principle-based Approach**: The Napoleonic Code is structured around core legal principles, such as equality before the law, freedom of contract, property rights, and the sanctity of private property. These principles serve as the basis for regulating various legal relationships, including contracts, property rights, family law, and inheritance.
+>
 > 2. **Simplicity and Clarity**: One of the objectives of the Napoleonic Code was to create a concise and accessible legal code that could be easily understood and applied by judges, lawyers, and citizens. As such, the code's language is relatively straightforward, and its provisions are written in a clear and concise manner.
+>
 > 3. **Flexibility and Adaptability**: While the Napoleonic Code provides general principles of law, it also allows for flexibility and adaptation to changing social, economic, and legal circumstances. The code's broad principles can be applied to a wide range of situations, and courts have the authority to interpret and apply its provisions in light of contemporary legal norms and values.
+>
 > 4. **Supplemented by Case Law and Legal Doctrine**: While the Napoleonic Code serves as the foundation of French civil law, it is supplemented by case law (jurisprudence) and legal doctrine (doctrine juridique). Courts interpret and apply the code's provisions in the context of specific cases, and legal scholars provide commentary and analysis to clarify and interpret its principles.
+>
 > 5. **Influence on Civil Law Systems**: The Napoleonic Code has had a significant influence on civil law systems around the world, particularly in Europe and other parts of the former French Empire. Many countries have adopted elements of the code's legal principles and structure in their own civil codes or legal systems.
 >
 > Overall, while the Napoleonic Code contains general principles of law rather than specific details, its provisions provide a foundational framework for regulating civil law matters and have played a crucial role in shaping modern legal systems.
@@ -169,9 +181,13 @@ In civil law, there is the application of what is called the **inquisitorial sy
 > Key characteristics of the inquisitorial system include:
 >
 > 1. **Role of the Judge**: In an inquisitorial system, the judge or panel of judges plays a central role in overseeing the legal proceedings and directing the investigation. The judge takes an active role in questioning witnesses, examining evidence, and seeking to uncover the truth of the matter at hand.
+>
 > 2. **Investigative Procedure**: In contrast to the adversarial system, where the parties conduct their own investigations and present evidence to support their arguments, the inquisitorial system relies on a formalized investigative procedure conducted by the court or an investigating magistrate. This may involve witness testimony, expert reports, documentary evidence, and other means of gathering information.
+>
 > 3. **Emphasis on Truth and Equity**: The inquisitorial system places a strong emphasis on discovering the truth and administering justice in a fair and equitable manner. Judges are tasked with ensuring that all relevant evidence is considered, and that the rights of the parties are protected throughout the legal proceedings.
+>
 > 4. **Limited Role for Parties**: While parties to a case in an inquisitorial system have the opportunity to present their arguments and evidence, their role is typically more limited compared to the adversarial system. Parties may be questioned by the judge, but they do not have the same level of control over the proceedings as in an adversarial system.
+>
 > 5. **Use of Legal Professionals**: In inquisitorial systems, legal professionals such as judges, prosecutors, and investigating magistrates play a significant role in conducting the legal process. These professionals are responsible for conducting investigations, presenting evidence, and making legal arguments on behalf of the state or the parties involved in the case.
 >
 > It's important to note that while the inquisitorial system is used in some countries, many legal systems around the world, including common law jurisdictions like the United States and the United Kingdom, primarily use the adversarial system. Each system has its own advantages and disadvantages, and the choice between them often reflects historical, cultural, and institutional factors within a particular country or legal tradition.
