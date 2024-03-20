@@ -115,3 +115,65 @@ Common laws exist not only in England but are also exported to other countries. 
 > 5. **Judicial Discretion**: Courts have considerable discretion in applying the Rule of Reason, allowing them to adapt the analysis to evolving market conditions and legal principles.
 >
 > Overall, the Rule of Reason serves as a flexible framework for evaluating potentially anticompetitive business practices, striking a balance between promoting competition and allowing businesses to engage in legitimate procompetitive conduct. It requires courts to carefully weigh the competitive effects of the conduct in question and make informed decisions based on the specific facts of each case.
+
+## Principles of civil law systems
+
+### Written law
+
+The civil law system comes from continental Europe. It was very influenced by Roman law. The main characteristic is that it is a legal system organized with statutes, meaning written laws written by the institution and voted by parliaments.
+
+> ==Statutes==, in the legal context, are laws enacted by a legislative body, such as a parliament, congress, or local government. They are one of the primary sources of law in most legal systems. Statutes are typically written and codified into law books or codes, organized by subject matter.
+
+#### Customs in civil law systems
+
+However, customs do exist in civil law systems in addition to the written laws. The situation is different from country to country.
+
+In France, there are very few customs still in place since there were few customs that applied to the whole country during the old regime. In 1781, the new regime wanted to apply the principle of unity, which still applies in the Constitution of 1968. During the revolution, one legislation and one government were wanted.
+
+*Example: in France, the judge can refer to local customs to review the fences.*
+
+> In French law, the concept of "enclosure" or "clôture" refers to the legal framework surrounding property boundaries and fencing. The French Civil Code, particularly Articles 646 to 682, provides regulations concerning the establishment, maintenance, and disputes related to fences and property boundaries.
+
+The reason local customs exist in the French legal system is because France has overseas territories. Take family law or funeral law as examples. They have to do with the regime of the property. There is a collective property regulation in the tribe, and the tribe leader is elected. The tribal members have the choice of being ruled by national law or local customary laws.
+
+In Germany and Italy (divided into several kingdoms), customary laws still apply.
+
+#### Codes
+
+The texts of law are based on regional laws on statues, characters, and the existence of qualifications. The laws are not only voted on but also presented in a book called Codex. This is a Roman tradition that was adopted again during the Napoleonic period. The empire decided the state would print some ‘codes thématiques’, such as penal code, administrative code, tax code, and trading code. About 20 codes existed in France at that time. The lawyers find it easier to work with the codes; while writing sentences, they just have to refer to the article.
+
+In reality, the codes proceed with general principles that are abstractions that the lawyer will apply to the concrete situations that he has to solve.
+
+> The Napoleonic Code, also known as the French Civil Code (Code civil des Français), primarily contains general principles of law rather than specific details. It was promulgated by Napoleon Bonaparte in 1804 and served as the foundation of modern French civil law. While the code provides a comprehensive framework for civil law matters, its provisions are framed in broad and general terms, outlining fundamental legal principles and concepts.
+>
+> Here are some key characteristics of the Napoleonic Code:
+>
+> 1. **Principle-based Approach**: The Napoleonic Code is structured around core legal principles, such as equality before the law, freedom of contract, property rights, and the sanctity of private property. These principles serve as the basis for regulating various legal relationships, including contracts, property rights, family law, and inheritance.
+> 2. **Simplicity and Clarity**: One of the objectives of the Napoleonic Code was to create a concise and accessible legal code that could be easily understood and applied by judges, lawyers, and citizens. As such, the code's language is relatively straightforward, and its provisions are written in a clear and concise manner.
+> 3. **Flexibility and Adaptability**: While the Napoleonic Code provides general principles of law, it also allows for flexibility and adaptation to changing social, economic, and legal circumstances. The code's broad principles can be applied to a wide range of situations, and courts have the authority to interpret and apply its provisions in light of contemporary legal norms and values.
+> 4. **Supplemented by Case Law and Legal Doctrine**: While the Napoleonic Code serves as the foundation of French civil law, it is supplemented by case law (jurisprudence) and legal doctrine (doctrine juridique). Courts interpret and apply the code's provisions in the context of specific cases, and legal scholars provide commentary and analysis to clarify and interpret its principles.
+> 5. **Influence on Civil Law Systems**: The Napoleonic Code has had a significant influence on civil law systems around the world, particularly in Europe and other parts of the former French Empire. Many countries have adopted elements of the code's legal principles and structure in their own civil codes or legal systems.
+>
+> Overall, while the Napoleonic Code contains general principles of law rather than specific details, its provisions provide a foundational framework for regulating civil law matters and have played a crucial role in shaping modern legal systems.
+
+Example: Art. 1240. Civil Code in 1804: “If someone provokes some torts to anyone, it has to pay back amenities to the victim.” It is an abstraction. This text is completely applied by judges, meaning the judge has to check in each case if any crime committed by someone can be considered a fault. Fault means any illegal behavior. The job of the judge is to determine first if there is a tort and, secondly, whether this tort is coming from a fault or not. If a fact is made by the victim, the victim normally has the right to receive compensation, but in this case, the judge has the responsibility to assess both parties to determine if there are any shared responsibilities, like what is the fault of the victim or the other.
+
+To determine the amount of compensation, the judge also has to make an analysis. He has to check what difficulties the victim is facing after the accident. Here in the civil law system, the judge is not a lawmaker because his duty is just to apply the abstractive law to the case he has to solve, but he cannot make any interpretation of the law. He can make determinations, but he is leaned to the law. Even if the judge is not a lawmaker, his job is still important. The judge has quite the power to decide how to apply the law, for example, the tort law in France.
+
+### Role of judges
+
+In civil law, there is the application of what is called the **inquisitorial system**, meaning that during the trial, the judge dominates and leads the trial. The judge is not neutral, but inside the process, he is not just waiting for all the comments; he is active and leading the trial. In this system, the prosecutors are involved in the case and in the investigation. During a criminal trial, the judge listens to the representatives; he can also directly act by himself, not being led by the arguments made by the barrister in front of him.
+
+> The ==inquisitorial system== is a legal system used in some countries, primarily in continental Europe and parts of Latin America, as an alternative to the adversarial system. In an inquisitorial system, the court or tribunal takes a more active role in investigating the facts of a case, gathering evidence, and determining the truth, compared to the adversarial system where the parties themselves are primarily responsible for presenting evidence and arguments.
+>
+> Key characteristics of the inquisitorial system include:
+>
+> 1. **Role of the Judge**: In an inquisitorial system, the judge or panel of judges plays a central role in overseeing the legal proceedings and directing the investigation. The judge takes an active role in questioning witnesses, examining evidence, and seeking to uncover the truth of the matter at hand.
+> 2. **Investigative Procedure**: In contrast to the adversarial system, where the parties conduct their own investigations and present evidence to support their arguments, the inquisitorial system relies on a formalized investigative procedure conducted by the court or an investigating magistrate. This may involve witness testimony, expert reports, documentary evidence, and other means of gathering information.
+> 3. **Emphasis on Truth and Equity**: The inquisitorial system places a strong emphasis on discovering the truth and administering justice in a fair and equitable manner. Judges are tasked with ensuring that all relevant evidence is considered, and that the rights of the parties are protected throughout the legal proceedings.
+> 4. **Limited Role for Parties**: While parties to a case in an inquisitorial system have the opportunity to present their arguments and evidence, their role is typically more limited compared to the adversarial system. Parties may be questioned by the judge, but they do not have the same level of control over the proceedings as in an adversarial system.
+> 5. **Use of Legal Professionals**: In inquisitorial systems, legal professionals such as judges, prosecutors, and investigating magistrates play a significant role in conducting the legal process. These professionals are responsible for conducting investigations, presenting evidence, and making legal arguments on behalf of the state or the parties involved in the case.
+>
+> It's important to note that while the inquisitorial system is used in some countries, many legal systems around the world, including common law jurisdictions like the United States and the United Kingdom, primarily use the adversarial system. Each system has its own advantages and disadvantages, and the choice between them often reflects historical, cultural, and institutional factors within a particular country or legal tradition.
+
+Another characteristic is that in the civil law system, judges act as civil servants. Comparing the situation In the US, federal and local judges are elected or appointed by the government. In the common law system, being a judge is not a career. However, in the civil law system, being a judge is a choice of career, starting quite young. Students need to have a master degree, which means in their 20s they have to have some internships, legal exams, training in school in Paris, then start their career as barristers and in the administrative system of justice. They are public or civil servants because they are working for the states, controlled by the administration of justice. They are not involved with lobbying, etc. They are arriving young, without much leaning toward other interests. But a young judge with too little experience can make mistakes.
