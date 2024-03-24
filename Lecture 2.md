@@ -114,9 +114,7 @@ The result of the Congress of Vienna was that France would remain what it was be
 >
 > The decisions made at the Congress of Vienna had a profound impact on the political map of Europe and shaped the continent's geopolitical landscape for decades to come. While the Congress succeeded in restoring stability to Europe in the short term, it also laid the groundwork for future tensions and conflicts, particularly as nationalist aspirations and rivalries continued to simmer beneath the surface.
 
-France had multiple colonial empires where the French law system applied, including many Muslim countries.
-
-There was the "**domestic principle**," which means that in the colonies, the Muslim population was ruled by Muslim law, while the French legal system applied to the French population and foreigners coming from other areas.
+France had multiple colonial empires where the French law system applied, including many Muslim countries. There was the "**domestic principle**." In the colonies, the Muslim population was ruled by Muslim law, while the French legal system applied to the French population and foreigners coming from other areas.
 
 > The "==domestic principle== (principe de l'indigénat in French)" in the context of the French colonial legal system refers to a legal doctrine that governed the administration of justice within French colonies. This principle dictated that the laws and legal institutions of France applied within the colonial territories, effectively extending French law to overseas territories.
 >
@@ -138,7 +136,41 @@ In the French legal system, there is the notion of “**service publique**," whi
 
 In some colonies, the Muslims are ruled by Muslim law in the private domain, including marriage, inheritance, some taxes, contracts, etc. While in the public domain, such as public service and administration, French laws were applied, making the institution more western.
 
-The general application of French law (la réunion): in French territories such as Madagascar, when the French troops arrived, there were no inhabitants in the territory; in this case, all the population were ruled by the general French law.
+The general application of French law: in French territories such as Madagascar (l'île de la réunion), when the French troops arrived, there were no inhabitants in the territory; in this case, all the population were ruled by the general French law.
+
+The justice systems in French colonies are also inspired by the French legal system. There were French justice systems for the application of French law, but Muslin justice instructions also existed for the Muslin law. For example, in Algeria, where the majority are Muslims, before its independence, we had the national justice system inspired by the French system and local Muslim tribunals that existed mainly for family law. The **Wilayas** (provinces) in Algeria look like French departments, where there is a prefecture and the administrative code is applied with the principles of service publique.
+
+After Algeria became independent, a huge part of the French legal system was kept. Nowadays, the main difference between the Algerian legal system and the French legal system is the family law, since the family law in Algeria is inspired by Islamic law, but they are quite close in other domains. The link between the two legal systems still exists, and the influence continues. There are many cooperations between France and its formal colonies; people come from formal colonies to France for internships and studies.
+
+There are other countries whose legal systems are inspired by the French legal system, not because of colonization but because they think the French legal system is good. For example, the Malta island, which is a former British colony, had many lawyers study in France and Italy. Therefore, Malta is influenced by the civil law system rather than the British common law system. There are some South-American countries, like Chile, whose legal systems are also influenced by the French legal system.
+
+#### Concept of public service
+
+During the 1950s and 1960s, the French legal system was very well recognized in many other countries whose lawyers studied the French legal system. These countries established French-style public administrations inspired by French conceptions of public service.
+
+In the 1970s, the School of New Public Administration developed in the US, where there was rapid growth in the public service due to extensive suburbanization and urbanization. This theory, which also emphasizes the importance of results and benefits, has nowadays become the main theory of public administration and has substituted for the French theory in many foreign countries.
+
+> ==New Public Administration== (NPA) is a term that refers to a movement within the field of public administration that emerged in the United States during the late 20th century. NPA represents a shift away from traditional bureaucratic models of public administration towards a more humanistic, democratic, and participatory approach to governance.
+>
+> Key features of New Public Administration include:
+>
+> 1. **Emphasis on Public Service Values**: NPA advocates for a focus on public service values such as accountability, transparency, equity, and social justice. It emphasizes the importance of public administrators serving the public interest and addressing the needs of all citizens, particularly marginalized and underserved populations.
+>
+> 2. **Democratic Governance**: NPA promotes democratic principles and practices within public administration, including citizen participation, deliberative decision-making processes, and collaboration between government agencies, civil society organizations, and citizens. It seeks to enhance the democratic legitimacy and responsiveness of public institutions.
+>
+> 3. **Management Reform**: NPA calls for reforms in the management and organization of public agencies to improve efficiency, effectiveness, and responsiveness. This includes adopting management techniques from the private sector, such as performance measurement, strategic planning, and outcome-based evaluation, while also recognizing the unique challenges and responsibilities of public service delivery.
+>
+> 4. **Social Equity and Inclusion**: NPA places a strong emphasis on promoting social equity and inclusion in public policy and administration. It seeks to address systemic inequalities and barriers to access and participation in government services, programs, and decision-making processes, particularly for disadvantaged and marginalized groups.
+>
+> 5. **Public-Private Partnerships**: NPA encourages collaboration and partnerships between government agencies, private sector organizations, non-profit organizations, and community groups to address complex public problems and deliver services more effectively. It recognizes the importance of leveraging diverse resources and expertise to achieve common goals.
+>
+> 6. **Ethical Leadership**: NPA emphasizes the importance of ethical leadership and integrity in public administration. It calls for public administrators to adhere to high ethical standards, demonstrate honesty, integrity, and accountability in their decision-making and conduct, and act in the best interests of the public.
+>
+> Overall, New Public Administration represents a paradigm shift in the theory and practice of public administration, moving towards a more inclusive, participatory, and values-driven approach to governance that seeks to address the evolving challenges and complexities of modern society.
+
+In France, the management of the public service aims to focus on social welfare and not financial benefits. However, in fact, the management of public services is not always good; for example, the SNCF. The reason is that it is not result-oriented.
+
+
 
 ### Germanic system
 
