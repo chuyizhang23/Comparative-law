@@ -200,8 +200,32 @@ There are some people who refuse to accept this transformation of the principle 
 
 ### Germanic system
 
-### Roman dutch system
+The Germanic legal system developed, more or less, in northern Europe and mainly in Germany.
 
-### The nordic civil law system
+From the Middle Ages to the 17^th^ and 18^th^ centuries, the territories of Germany and northern Europe were divided into two areas. The southern part was part of French territory, where the Roman law system was adopted. Its legal system was the merger of Roman law and Germanic customs in continental law. In northern Germany and Scandinavia, there was no influence from the Roman law system. The legal system there is the application of local customs that come from different German tribes.
+
+In the 18^th^ century, Prussia was raised with a developed army. Two kings (Frederick William I and Frederick II) made a lot of reforms to the legal system, which were inspired by Roman law.
+
+> In the 18th century, Prussia underwent significant reforms in its legal system under the leadership of several notable Prussian kings, particularly Frederick William I and Frederick II (Frederick the Great). These reforms aimed to modernize and centralize the administration of justice, promote legal uniformity, and enhance the efficiency and effectiveness of the legal system. Some key aspects of the Prussian legal reforms during this period include:
+>
+> 1. **Codification of Laws**: One of the most significant reforms was the codification of laws to create a unified legal framework. Frederick II initiated the process of codification by commissioning the "Prussian General Law Code" (Allgemeines Landrecht für die Preußischen Staaten) in 1794. This legal code aimed to systematize and simplify the complex patchwork of laws that existed in Prussia at the time, providing a comprehensive set of rules governing civil, criminal, and administrative matters.
+>
+> 2. **Judicial Reorganization**: The Prussian legal reforms also involved reorganizing the judicial system to improve its efficiency and accessibility. This included establishing a hierarchical system of courts with clear jurisdictional boundaries and procedures. Frederick William I and Frederick II implemented reforms to streamline court procedures, enhance judicial independence, and ensure the impartial administration of justice.
+>
+> 3. **Legal Rationalism**: The Prussian legal reforms were influenced by the principles of legal rationalism, which emphasized the importance of reason, logic, and uniformity in the law. Legal rationalists sought to create a legal system based on clear and consistent principles, free from arbitrary rulings and privileges. The codification of laws and the establishment of standardized legal procedures were seen as manifestations of this rationalist approach.
+>
+> 4. **Promotion of Legal Education**: The Prussian kings also promoted legal education and professionalization within the legal profession. They established law schools and academies to train judges, lawyers, and legal scholars, ensuring that the legal system had a well-educated and skilled workforce. These efforts helped to raise the standards of legal practice and expertise in Prussia.
+>
+> 5. **Centralization of Legal Authority**: The legal reforms in Prussia involved centralizing legal authority under the monarchy's control. Frederick William I and Frederick II sought to consolidate power within the state and reduce the influence of local jurisdictions and feudal privileges. The establishment of a unified legal code and a centralized judiciary helped to strengthen the authority of the Prussian state and promote uniformity in legal administration.
+>
+> Overall, the legal reforms of the Prussian kings in the 18th century represented a significant modernization and rationalization of the legal system, laying the foundation for the development of a more efficient, centralized, and uniform system of justice in Prussia. These reforms had a lasting impact on the legal and administrative structure of the Prussian state and influenced legal developments in other German territories and beyond.
+
+In the 19^th^ century, most of the various German states were united into the German Empire. During this time, Prussia was the most powerful state and played a leading role in the unification of Germany. The king of Prussia became the emperor of Germany in 1871 and reformed the legal system in Germany.
+
+After unification, the German Empire established a common legal framework. This legal system is derived in part from Napoleonic law, Roman law, and the New Empire, while still keeping a lot of traditions of customs law from the past.
+
+### Roman Dutch system
+
+### The Nordic civil law system
 
 ## Common law system
