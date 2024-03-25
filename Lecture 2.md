@@ -170,7 +170,33 @@ In the 1970s, the School of New Public Administration developed in the US, where
 
 In France, the management of the public service aims to focus on social welfare and not financial benefits. However, in fact, the management of public services is not always good; for example, the SNCF. The reason is that it is not result-oriented.
 
+According to the theory of the NPA, it is not important whether public services are run by public administrations or private sectors; what is important is the efficiency and the result of the activities. Efficiency is the standard of good administration. The protection of social welfare is no longer the most important; instead, we want to ensure the results of public activities.
 
+With the development of the NPA, public services started to be privatized, sold off, or transferred to the private sector based on the neoliberal theory that the market is more rational and better able to manage such enterprises.
+
+Some governments wanted to adopt the NPA and reform the French public administration system; that's what triggered the social movements in France because many different social groups are willing to maintain the old model of public service as well as the solidarity between rural and urban areas. There is a dispute between the French principle and the Anglo-Saxon principle of public service.
+
+> The principles and ideas of New Public Administration (NPA) have influenced public administration practices in France, albeit to varying degrees and in different ways. While France has its own distinct administrative traditions and institutions, some aspects of NPA have resonated with French policymakers and scholars, leading to adaptations and reforms within the French public administration system. Here are a few ways in which NPA has influenced France:
+>
+> 1. **Decentralization and Local Governance**: One aspect of NPA is its emphasis on decentralization and local governance, promoting greater autonomy and decision-making authority at the local level. In France, there has been a gradual trend towards decentralization, with efforts to devolve administrative responsibilities and resources to regional and local governments. This shift reflects a desire to enhance responsiveness, efficiency, and citizen participation in public service delivery.
+>
+> 2. **Citizen Participation and Engagement**: NPA advocates for increased citizen participation and engagement in public decision-making processes. In France, there has been growing recognition of the importance of citizen involvement in policymaking and governance. Initiatives such as participatory budgeting, citizen consultations, and deliberative democracy forums have been implemented in various municipalities and regions, allowing citizens to have a greater say in local affairs.
+>
+> 3. **Performance Measurement and Accountability**: NPA promotes the use of performance measurement and accountability mechanisms to improve the efficiency and effectiveness of public administration. In France, there has been a push towards greater performance-based management in the public sector, with the implementation of performance indicators, evaluation systems, and outcome-based budgeting practices. These measures aim to enhance transparency, accountability, and the delivery of public services.
+>
+> 4. **Cross-Sector Collaboration**: NPA encourages collaboration and partnerships between government agencies, private sector organizations, non-profit organizations, and civil society groups to address complex public problems. In France, there have been efforts to foster greater collaboration between the public, private, and non-profit sectors through initiatives such as public-private partnerships, social innovation projects, and multi-stakeholder forums. These partnerships aim to leverage diverse resources and expertise to tackle societal challenges more effectively.
+>
+> 5. **Ethical Leadership and Integrity**: NPA emphasizes the importance of ethical leadership and integrity in public administration. In France, there is a strong emphasis on ethical standards and integrity in the civil service, with codes of conduct, ethics training programs, and anti-corruption measures in place to ensure the highest standards of professional conduct among public officials.
+>
+> Overall, while France's administrative tradition remains rooted in its own history and institutional context, the principles and ideas of NPA have contributed to ongoing debates and reforms within the French public administration system, shaping policies and practices in areas such as decentralization, citizen engagement, performance management, collaboration, and ethics.
+
+Take farmers protests as an example. Farmers protests are usually linked to the European level because the European Union has a common ruling on the European economy, and the whole of agriculture today in France is regulated by the EU.
+
+The reason for the riot by the farmers is that the rural areas are empty of people because people moved to town, so rural areas lack public service. This is the result of the application of the NPA principle, according to which the government must take into consideration the cost of maintaining public services. In small villages and territories with little population and few economic activities where there aren't enough demands for public services, you will have difficulties finding public services such as doctors and schools. This gives the feeling that no one cares about the people living there. So they wanted to bring back the old French “service publique," with the idea that all people are able to access the public service.
+
+Just like the Gilets jaunes movement with the same purpose. The farmers need public services to live in rural areas. If not, they will have to pay more to gain access to public services in the urban area. Some people live in suburban areas because it is cheaper there, but they still work in big cities, so they need transport.
+
+There are some people who refuse to accept this transformation of the principle of public service. But because of the public debt, it is impossible for the French government to finance these public services. Furthermore, France doesn’t have a political majority party in parliament, so it is hard to make big political decisions relating to the public service system.
 
 ### Germanic system
 
