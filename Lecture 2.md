@@ -224,6 +224,66 @@ In the 19^th^ century, most of the various German states were united into the Ge
 
 After unification, the German Empire established a common legal framework. This legal system is derived in part from Napoleonic law, Roman law, and the New Empire, while still keeping a lot of traditions of customs law from the past.
 
+The new German Empire is a federalist state. At the federal level, the Napoleonic civil law system is applied, while at the local level, traditional principles and customs are kept. But at the end of World War I, there was a large development of domination from the federal level (the Prussian level) over the local level. There was no equality between different states; it was clear that, in reality, the power was in Berlin and in the Kingdom of Prussia.
+
+At the end of the 19^th^ century and the first half of the 20^th^ century, there was competition between France and Germany. The Prussian government decided that it was not fair to follow the principles of civil law that came from the Napoleonic legal system. Nationalists believed that since Germany defeated France, there was no reason for Germany to keep using the French legal system; Germans were the winners and should follow their own law. There was also an academic fight between French and German lawyers. They had different views, and many articles were written from both sides against each other.
+
+In 1900, a new German civil code, the *Burgerliches Gesetzbuch*, was developed. It is the most generally applicable private law, and it had real success and influence outside Germany as well.
+
+> "Bürgerliches Gesetzbuch," often abbreviated as "BGB," is the German term for "Civil Code." It is the main codification of private law in Germany, governing various aspects of civil law, including contracts, property, family law, inheritance, and torts.
+>
+> The Bürgerliches Gesetzbuch (BGB) was enacted in 1900 and came into force on January 1, 1900. It replaced the diverse legal systems that existed in different German states with a unified and modernized legal framework. The BGB was a significant legal reform aimed at streamlining and codifying civil law principles throughout the German Empire.
+>
+> The BGB is divided into several books, each covering different areas of private law:
+>
+> 1. Book 1: General Part (Allgemeiner Teil) - This book contains general principles of civil law, such as legal capacity, legal transactions, representation, and limitation periods.
+>
+> 2. Book 2: Law of Obligations (Schuldrecht) - This book deals with contractual obligations, including formation of contracts, performance, breach of contract, and remedies for breach.
+>
+> 3. Book 3: Property Law (Sachenrecht) - This book regulates property rights, including ownership, possession, and rights in rem.
+>
+> 4. Book 4: Family Law (Familienrecht) - This book covers family relationships, including marriage, divorce, parentage, and custody.
+>
+> 5. Book 5: Law of Succession (Erbrecht) - This book governs inheritance and succession, including wills, intestate succession, and estate administration.
+>
+> The BGB is considered one of the most influential civil codes in the world and has served as a model for civil law systems in other countries. It has been amended and updated over the years to reflect changes in society, legal doctrine, and jurisprudence.
+
+The BGB came with a very modern concept. The French civil code, during this century, appeared to be an old text and not very applicable to the new economic conditions. The new German civil code is applicable to the period of the industrial revolution.
+
+The BGB has a new philosophy of law, different from the philosophy influenced by French civil law in the 19th century, when academics used to teach the concept of philosophy of law, reflection of law in general, and elements of reflection. All these came to an end with the appearance of BGB.
+
+Many other countries called on German legal expertise for help constructing their own legal systems based on the German civil code. This was the case for Japan in the Meiji era, when Japan also made the division of prefecture.
+
+> The Meiji era in Japan refers to a period of significant political, social, and cultural transformation that occurred during the reign of Emperor Meiji, who ruled from 1868 to 1912. The Meiji era is one of the most pivotal periods in Japanese history and is often characterized by modernization, industrialization, and the establishment of Japan as a major world power.
+>
+> The Meiji Restoration, which began in 1868, marked the end of the feudal Tokugawa shogunate and the restoration of imperial rule under Emperor Meiji. The Meiji government embarked on a series of ambitious reforms aimed at modernizing and strengthening Japan's economy, military, and institutions.
+>
+> During the Meiji Restoration period, Japan reorganized its provinces. After the Meiji Restoration in 1868, Japan embarked on modernization reforms, including restructuring its administrative divisions. The Meiji government abolished the feudal han system and replaced it with prefectures and counties, gradually implementing a modern system of local governance.
+
+The BGB has influence in France as well. Some reforms of French law have been made in the 20 years following the BGB. Firm law and commercial law in France are influenced by the BGB.
+
+Take SARL (société à responsabilité limitée), a specific body for small businesses, as an example. Germany has a very efficient trade system, even for small enterprises, while the French one is good for big companies. It was dangerous if the company was not a success because financial responsibility is based on the owner. It would be a real catastrophe if you lost money because the bank would take back the money from the owner. There is no specific status for the company.
+
+> The Bürgerliches Gesetzbuch (BGB), enacted in Germany in 1900, served as a model for legal reform efforts in various countries, including France. While the BGB primarily focused on civil law matters, its codification and modernization of legal principles also had implications for French firm law and commercial law. Here are some ways in which French firm law and commercial law were influenced or modified after the enactment of the BGB:
+>
+> 1. **Codification and Systematization**: Like the BGB, French legal scholars and lawmakers sought to codify and systematize the law relating to firms and commercial transactions. The BGB's structured organization and clear rules inspired similar efforts in France to codify commercial law.
+>
+> 2. **Modernization of Contract Law**: The BGB introduced modern contract law principles, such as freedom of contract, good faith, and fairness, which influenced French contract law reform efforts. These principles aimed to provide clarity and predictability in commercial transactions, fostering economic development and trade.
+>
+> 3. **Emphasis on Legal Certainty**: The BGB emphasized legal certainty and predictability in commercial transactions, which became guiding principles for French legal reforms. Clarity and certainty in legal rules were seen as essential for fostering business confidence and promoting economic growth.
+>
+> 4. **Recognition of Commercial Practices**: The BGB recognized and incorporated commercial practices and customs into its legal framework, providing flexibility and adaptability to changing business realities. French lawmakers also sought to accommodate commercial practices and customs within the legal system to ensure that the law remained relevant and effective in regulating commercial activities.
+>
+> 5. **Influence on Legal Education and Scholarship**: The BGB's codification of legal principles and its systematic approach influenced legal education and scholarship in France. French legal scholars studied and analyzed the BGB, incorporating its principles and methodologies into their own work and contributing to the development of French commercial law.
+>
+> 6. **Harmonization with International Standards**: The BGB's adoption of modern legal principles aligned with international standards, facilitating the harmonization of French commercial law with international norms and practices. French lawmakers looked to the BGB and other modern legal codes as models for updating and modernizing French commercial law to meet international standards.
+>
+> Overall, while the BGB directly impacted German law, its influence extended beyond Germany's borders and contributed to legal reform efforts in other countries, including France. The BGB's emphasis on modernization, legal certainty, and commercial practices inspired similar efforts to reform and modernize French firm law and commercial law in the early 20th century.
+
+The BGB influenced the French judicial system because, following Germany's defeat in World War I, Alsace-Lorraine, a former German territory, reverted to France. The BGB applied in this region was extended to the rest of France.
+
+Other countries whose legal systems have been influenced by the BGB are Austria, Switzerland, and Scandinavian countries.
+
 ### Roman Dutch system
 
 ### The Nordic civil law system

@@ -176,7 +176,7 @@ To determine the amount of compensation, the judge also has to make an analysis.
 
 In civil law, there is the application of what is called the **inquisitorial system**, meaning that during the trial, the judge dominates and leads the trial. The judge is not neutral, but inside the process, he is not just waiting for all the comments; he is active and leading the trial. In this system, the prosecutors are involved in the case and in the investigation. During a criminal trial, the judge listens to the representatives; he can also directly act by himself, not being led by the arguments made by the barrister in front of him.
 
-> The ==inquisitorial system== is a legal system used in some countries, primarily in continental Europe and parts of Latin America, as an alternative to the adversarial system. In an inquisitorial system, the court or tribunal takes a more active role in investigating the facts of a case, gathering evidence, and determining the truth, compared to the adversarial system where the parties themselves are primarily responsible for presenting evidence and arguments.
+> The ==inquisitorial system== is a legal system used in some countries, primarily in continental Europe and parts of Latin America, as an alternative to the ==adversarial system==. In an inquisitorial system, the court or tribunal takes a more active role in investigating the facts of a case, gathering evidence, and determining the truth, compared to the adversarial system where the parties themselves are primarily responsible for presenting evidence and arguments.
 >
 > Key characteristics of the inquisitorial system include:
 >
