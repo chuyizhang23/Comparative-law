@@ -262,7 +262,7 @@ Many other countries called on German legal expertise for help constructing thei
 
 The BGB has influence in France as well. Some reforms of French law have been made in the 20 years following the BGB. Firm law and commercial law in France are influenced by the BGB.
 
-Take SARL (société à responsabilité limitée), a specific body for small businesses, as an example. Germany has a very efficient trade system, even for small enterprises, while the French one is good for big companies. It was dangerous if the company was not a success because financial responsibility is based on the owner. It would be a real catastrophe if you lost money because the bank would take back the money from the owner. There is no specific status for the company.
+*Take SARL (société à responsabilité limitée), a specific body for small businesses, as an example. Germany has a very efficient trade system, even for small enterprises, while the French one is good for big companies. It was dangerous if the company was not a success because financial responsibility is based on the owner. It would be a real catastrophe if you lost money because the bank would take back the money from the owner. There is no specific status for the company.*
 
 > The Bürgerliches Gesetzbuch (BGB), enacted in Germany in 1900, served as a model for legal reform efforts in various countries, including France. While the BGB primarily focused on civil law matters, its codification and modernization of legal principles also had implications for French firm law and commercial law. Here are some ways in which French firm law and commercial law were influenced or modified after the enactment of the BGB:
 >
@@ -286,6 +286,70 @@ Other countries whose legal systems have been influenced by the BGB are Austria,
 
 ### Roman Dutch system
 
+Practically no code. In these countries, they don’t use the system of codes, or very few. Influenced by the BGB and some codes of European law.
+
+> The Roman-Dutch legal system is a legal tradition that emerged in the Netherlands during the Middle Ages and was later transplanted to the Dutch colonies, including South Africa, Sri Lanka (formerly Ceylon), and Indonesia (formerly the Dutch East Indies). The Roman-Dutch legal system is characterized by its unique blend of Roman law principles and Dutch legal traditions, along with influences from indigenous customary law and local practices.
+>
+> Here are some key characteristics of the Roman-Dutch legal system:
+>
+> 1. **Roman Law Influence**: The Roman-Dutch legal system is rooted in Roman law principles, particularly those developed under the Roman Empire. Roman law provided a foundation for legal concepts such as property rights, contracts, and obligations, which were incorporated into the legal systems of the Netherlands and its colonies.
+>
+> 2. **Dutch Legal Tradition**: In addition to Roman law, the Roman-Dutch legal system also incorporates elements of Dutch legal traditions and practices. Dutch legal scholars and jurists played a significant role in shaping and developing the legal system, adapting Roman law principles to fit the needs and circumstances of Dutch society.
+>
+> 3. **Case Law**: Like the common law system, the Roman-Dutch legal system relies heavily on judicial decisions and precedent. Courts interpret and apply the law based on previous judgments and established legal principles, leading to the development of a body of case law that guides future legal decisions.
+>
+> 4. **Civil Law Structure**: The Roman-Dutch legal system follows a civil law structure, with comprehensive codes and statutes governing various areas of law. However, unlike purely civil law systems, the Roman-Dutch legal system also incorporates elements of common law, particularly in the area of precedent-based decision-making.
+>
+> 5. **Customary Law**: In addition to formal legal codes and statutes, the Roman-Dutch legal system recognizes and incorporates customary law and local practices, particularly in the Dutch colonies. Indigenous customs and traditions were respected and applied alongside Roman-Dutch legal principles, leading to a hybrid legal system that reflects the diversity of the colonial societies.
+>
+> 6. **Continental Influence**: While the Roman-Dutch legal system shares similarities with common law systems, it is more closely aligned with continental European legal traditions. The influence of Roman law, Dutch legal principles, and indigenous customs gives the Roman-Dutch legal system a distinct character that sets it apart from both common law and purely civil law systems.
+>
+> Overall, the Roman-Dutch legal system is characterized by its synthesis of Roman law, Dutch legal traditions, and local customs, creating a unique and adaptable legal framework that has left a lasting legacy in former Dutch colonies around the world.
+
 ### The Nordic civil law system
+
+> The Nordic civil law system, also known as the Scandinavian legal tradition, is a legal system primarily found in the Nordic countries of Denmark, Norway, Sweden, Finland, and Iceland. While each Nordic country has its own legal framework and legal traditions, they share common principles and characteristics that distinguish them from other legal systems. Here are some key features of the Nordic civil law system:
+>
+> 1. **Civil Law Tradition**: The Nordic legal systems are based on civil law principles, which emphasize written laws and statutes as the primary source of law. Unlike common law systems, which rely heavily on judicial precedent, the Nordic civil law system is characterized by comprehensive legal codes and statutes that govern various areas of law.
+>
+> 2. **Codification**: One of the defining features of the Nordic civil law system is the extensive codification of laws and regulations. Legal codes cover a wide range of topics, including civil law, criminal law, administrative law, and procedural law. These codes provide clear and detailed rules for individuals, organizations, and governments to follow, promoting legal certainty and predictability.
+>
+> 3. **Legal Uniformity**: The Nordic countries place a strong emphasis on legal uniformity and consistency across different areas of law. While each country has its own legal codes and statutes, there is a degree of harmonization and standardization of laws among the Nordic countries, particularly in areas such as contract law, property law, and commercial law.
+>
+> 4. **Judicial Independence**: The Nordic civil law system upholds the principle of judicial independence, ensuring that judges are impartial and free from external influence in their decision-making. Courts play a central role in interpreting and applying the law, resolving disputes, and upholding individual rights and liberties.
+>
+> 5. **Legal Education and Profession**: Legal education and the practice of law in the Nordic countries are characterized by a high level of professionalism and expertise. Legal professionals, including judges, lawyers, and legal scholars, undergo rigorous training and education to ensure a thorough understanding of legal principles and procedures.
+>
+> 6. **Social Welfare Orientation**: The Nordic civil law system reflects the social welfare orientation of Nordic societies, with an emphasis on principles such as equality, social justice, and solidarity. Legal protections for workers, consumers, and vulnerable populations are often more extensive in Nordic legal systems compared to other jurisdictions.
+>
+>Overall, the Nordic civil law system is characterized by its emphasis on written laws, codification, legal uniformity, judicial independence, and social welfare orientation. While each Nordic country has its own legal traditions and nuances, they share common principles and values that underpin their legal frameworks.
+
+In Scandinavia, there used to be local customs until they came to the civil code systems through the influence of the Napoleonic legal system. They have codes for some important aspects, but not for all the subjects.
+
+Denmark was allied with France, so there was cooperation between the two countries and academic cooperation with lawyers.
+
+In Sweden, King Bernadotte, who had French origins and was a Marshal of France, came to the throne. One of his sons, Oscar I, studied in France. That's how the Swedish legal system was influenced by the Napoleonic legal system. Later, the Swedish legal system was influenced by the German BGB.
+
+> The introduction of the Napoleonic legal system in Sweden was primarily carried out by King Charles XIV John (formerly Jean-Baptiste Bernadotte), who ascended to the Swedish throne in 1818. As a former French military officer and Marshal of the French Empire under Napoleon Bonaparte, Charles XIV John brought with him a familiarity with the Napoleonic legal system and a desire to modernize Sweden's legal framework. Under his reign, Sweden underwent significant legal reforms influenced by the Napoleonic Code, including the codification of laws and the modernization of civil law. These reforms helped shape the Swedish legal system into its contemporary form.
+
+Norway became independent in 1905, and like Denmark and Sweden, its legal system was influenced by the French legal system.
+
+> The legal systems in Scandinavia have evolved over centuries and have been influenced by various historical, cultural, and political factors. Here is a brief overview of the history of legal systems in Scandinavia:
+>
+> 1. **Medieval Period**: During the medieval period, Scandinavian societies were characterized by tribal laws and customary practices. These laws varied among different regions and were often orally transmitted. However, as centralized monarchies began to emerge in the region, efforts were made to codify and standardize legal practices.
+>
+> 2. **Christianization and Canon Law**: With the Christianization of Scandinavia in the Middle Ages, canon law became increasingly influential in shaping legal institutions and practices. Ecclesiastical courts were established to adjudicate matters related to church law, while secular rulers began to assert their authority over legal matters previously governed by tribal customs.
+>
+> 3. **Union Periods**: Denmark, Norway, and Sweden were united at various points in history, leading to the development of shared legal institutions and practices. For example, during the Kalmar Union (1397-1523), which united Denmark, Norway, and Sweden under a single monarch, efforts were made to harmonize legal systems across the union.
+>
+> 4. **Codification and Modernization**: In the 19th century, efforts were made to modernize and codify legal systems in Scandinavia. Inspired by the codification movements in continental Europe, countries such as Denmark, Norway, and Sweden adopted comprehensive legal codes covering various areas of law, including civil law, criminal law, and procedural law.
+>
+> 5. **Constitutional Reforms**: The 19th century also saw the emergence of constitutional reforms in Scandinavia, with the establishment of constitutional monarchies and the adoption of written constitutions. These constitutions enshrined fundamental rights and established the framework for modern democratic governance.
+>
+> 6. **Social Welfare State**: In the 20th century, Scandinavia emerged as a model for social welfare states, with extensive social welfare programs and protections for workers, families, and vulnerable populations. Legal reforms were enacted to strengthen labor rights, expand social insurance programs, and promote equality and social justice.
+>
+> 7. **European Integration**: In recent decades, Scandinavian legal systems have been influenced by European integration and the harmonization of laws within the European Union. Membership in the EU has led to the adoption of EU directives and regulations, which have had implications for various areas of law, including trade, competition, and human rights.
+>
+>Overall, the legal systems in Scandinavia have evolved from tribal customs and customary practices to modern, codified legal frameworks characterized by democratic governance, rule of law, and social welfare protections. While each Scandinavian country has its own legal traditions and institutions, there are also shared legal principles and values that reflect the region's historical and cultural heritage.
 
 ## Common law system
