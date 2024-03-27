@@ -353,3 +353,48 @@ Norway became independent in 1905, and like Denmark and Sweden, its legal system
 >Overall, the legal systems in Scandinavia have evolved from tribal customs and customary practices to modern, codified legal frameworks characterized by democratic governance, rule of law, and social welfare protections. While each Scandinavian country has its own legal traditions and institutions, there are also shared legal principles and values that reflect the region's historical and cultural heritage.
 
 ## Common law system
+
+The common law system exists mainly in Anglo-Saxon countries and is not based on **statutory law**. Anglo-Saxon is a term used to describe the people who, from the 5^th^ century to the time of the Norman conquest, inhabited and ruled territories that today are part of England and Wales.
+
+> ==Statutory law== refers to laws that are enacted by a legislative body, such as a parliament or congress. These laws are formally written and codified into statutes, ordinances, regulations, or other legislative instruments. Statutory law covers a wide range of legal subjects, including criminal law, civil law, administrative law, and regulatory law.
+>
+> Key characteristics of statutory law include:
+>
+> 1. **Legislative Authority**: Statutory law is created by legislative bodies with the authority to pass laws. This can include national legislatures, state legislatures, municipal councils, or other governing bodies.
+>
+> 2. **Formalization**: Statutory laws are formally written and codified, often in the form of statutes or codes. They are published and made available to the public, providing transparency and clarity regarding legal requirements and obligations.
+>
+> 3. **Scope and Application**: Statutory laws apply to everyone within the jurisdiction governed by the legislative body that enacted them. They have the force of law and are binding on individuals, organizations, and government entities.
+>
+> 4. **Interpretation and Application**: Courts and legal authorities interpret and apply statutory law in specific cases. Judges rely on legal principles, precedents, and legislative intent to interpret statutes and determine their application to particular factual scenarios.
+>
+> 5. **Amendment and Repeal**: Statutory laws can be amended, repealed, or replaced through legislative action. As societal norms, values, and circumstances change, legislatures may revise existing laws or enact new ones to address emerging issues or reflect evolving public policy priorities.
+>
+> Overall, statutory law forms an essential part of the legal system in many countries, providing a framework for governance, regulation, and the administration of justice. It complements other sources of law, such as common law, constitutional law, and administrative law, to create a comprehensive legal framework within a jurisdiction.
+
+The common law system is largely based on customs and on the system of juridical precedent. Therefore, it is the body of law created by judges and similar quasi-judicial tribunals by virtue of being stated in written opinions.
+
+> ==Quasi-judicial tribunals== are administrative bodies or agencies that have been granted powers to adjudicate disputes and make decisions that resemble those made by traditional courts. These tribunals operate outside the regular court system but are tasked with resolving specific types of disputes or enforcing certain regulatory regimes.
+>
+> Key characteristics of quasi-judicial tribunals include:
+>
+> 1. **Limited Jurisdiction**: Quasi-judicial tribunals typically have jurisdiction over specific areas of law or subject matter. For example, they may handle disputes related to labor relations, immigration, taxation, environmental regulations, or professional licensing.
+>
+> 2. **Adjudicative Functions**: Quasi-judicial tribunals conduct hearings, receive evidence, and make decisions or rulings on legal matters within their jurisdiction. These decisions may involve resolving disputes between parties, issuing permits or licenses, imposing penalties or sanctions, or interpreting and applying relevant laws or regulations.
+>
+> 3. **Procedural Rules**: Quasi-judicial tribunals often have their own procedural rules governing the conduct of hearings, the presentation of evidence, and the rights of parties involved. While these rules may differ from those in traditional courts, they are designed to ensure fairness, transparency, and due process.
+>
+> 4. **Expertise and Specialization**: Quasi-judicial tribunals are often staffed by members or adjudicators with expertise in the subject matter over which they have jurisdiction. This specialization allows them to apply technical knowledge and understanding of specific laws or regulations to the cases before them.
+>
+> 5. **Limited Review**: Decisions made by quasi-judicial tribunals are subject to review, but the scope of review may be limited compared to appeals from traditional courts. Review may be conducted by higher administrative bodies, specialized tribunals, or, in some cases, by the regular court system on grounds such as errors of law or jurisdictional issues.
+>
+> Examples of quasi-judicial tribunals include:
+>
+> - Employment tribunals, which adjudicate disputes between employers and employees regarding employment rights, discrimination, and workplace grievances.
+> - Tax tribunals, which hear appeals related to tax assessments, disputes over tax liabilities, and other tax-related matters.
+> - Environmental tribunals, which address disputes concerning environmental regulations, permits, pollution control, and resource management.
+> - Professional regulatory bodies, which oversee the licensing, discipline, and conduct of professionals such as lawyers, doctors, engineers, and accountants.
+>
+> Overall, quasi-judicial tribunals play a crucial role in the administrative justice system, providing specialized dispute resolution mechanisms and enforcing regulatory compliance in various areas of law and governance.
+
+Some common law traditions are no longer applicable today because of the development of statutory law and the welfare system. If we compare the situation now with the situation before World War II, it is quite different. Traditionally, the common system is mainly based on customs and precedent, while statutory law does exist but only covers specific and limited aspects.
