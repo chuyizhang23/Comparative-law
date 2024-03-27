@@ -354,23 +354,7 @@ Norway became independent in 1905, and like Denmark and Sweden, its legal system
 
 ## Common law system
 
-The common law system exists mainly in Anglo-Saxon countries and is not based on **statutory law**. Anglo-Saxon is a term used to describe the people who, from the 5^th^ century to the time of the Norman conquest, inhabited and ruled territories that today are part of England and Wales.
-
-> ==Statutory law== refers to laws that are enacted by a legislative body, such as a parliament or congress. These laws are formally written and codified into statutes, ordinances, regulations, or other legislative instruments. Statutory law covers a wide range of legal subjects, including criminal law, civil law, administrative law, and regulatory law.
->
-> Key characteristics of statutory law include:
->
-> 1. **Legislative Authority**: Statutory law is created by legislative bodies with the authority to pass laws. This can include national legislatures, state legislatures, municipal councils, or other governing bodies.
->
-> 2. **Formalization**: Statutory laws are formally written and codified, often in the form of statutes or codes. They are published and made available to the public, providing transparency and clarity regarding legal requirements and obligations.
->
-> 3. **Scope and Application**: Statutory laws apply to everyone within the jurisdiction governed by the legislative body that enacted them. They have the force of law and are binding on individuals, organizations, and government entities.
->
-> 4. **Interpretation and Application**: Courts and legal authorities interpret and apply statutory law in specific cases. Judges rely on legal principles, precedents, and legislative intent to interpret statutes and determine their application to particular factual scenarios.
->
-> 5. **Amendment and Repeal**: Statutory laws can be amended, repealed, or replaced through legislative action. As societal norms, values, and circumstances change, legislatures may revise existing laws or enact new ones to address emerging issues or reflect evolving public policy priorities.
->
-> Overall, statutory law forms an essential part of the legal system in many countries, providing a framework for governance, regulation, and the administration of justice. It complements other sources of law, such as common law, constitutional law, and administrative law, to create a comprehensive legal framework within a jurisdiction.
+The common law system exists mainly in Anglo-Saxon countries and is not based on statutory law. Anglo-Saxon is a term used to describe the people who, from the 5^th^ century to the time of the Norman conquest, inhabited and ruled territories that today are part of England and Wales.
 
 The common law system is largely based on customs and on the system of juridical precedent. Therefore, it is the body of law created by judges and similar quasi-judicial tribunals by virtue of being stated in written opinions.
 
@@ -398,3 +382,49 @@ The common law system is largely based on customs and on the system of juridical
 > Overall, quasi-judicial tribunals play a crucial role in the administrative justice system, providing specialized dispute resolution mechanisms and enforcing regulatory compliance in various areas of law and governance.
 
 Some common law traditions are no longer applicable today because of the development of statutory law and the welfare system. If we compare the situation now with the situation before World War II, it is quite different. Traditionally, the common system is mainly based on customs and precedent, while statutory law does exist but only covers specific and limited aspects.
+
+*Take the anti-trust law in the US as an example. The United States has strong antitrust laws, which historically have been based on the common law principle of "rule of reason." This principle allows judges to evaluate whether a particular business practice or agreement harms competition. However, there's a concern that this approach may no longer be sufficient to protect competition effectively in modern times.*
+
+*Trusts, including bank trusts, were common, but the Supreme Court initially didn't recognize their creation. To address this, Congress enacted new legislation known as the antitrust law. Judges now refer to this law. In 1940, the Clayton Act was created. Common law traditionally relied heavily on judicial decisions with limited statutory law, but today, there is more statutory law involved.*
+
+> In the US, antitrust law comprises mainly federal statutes aimed at regulating business conduct and organization to foster competition and prevent unjustified monopolies. The "rule of reason" is a legal doctrine used to interpret the Sherman Antitrust Act, a cornerstone of US antitrust law. The Supreme Court has affirmed that analysis under the rule of reason should focus on the economic consequences of a restraint rather than its social implications.
+
+*History of antitrust laws:*
+
+> The antitrust laws in the United States were enacted over a period of time through several key pieces of legislation. The foundation of modern antitrust law in the U.S. was laid in the late 19th and early 20th centuries in response to concerns about monopolistic practices and unfair competition. Here are some significant milestones in the development of antitrust laws in the U.S.:
+>
+> 1. **Sherman Antitrust Act (1890)**: Enacted in 1890, the Sherman Antitrust Act was the first federal law to address anticompetitive behavior and prohibit certain business practices that restrain trade or monopolize markets. It declared illegal any contracts, combinations, or conspiracies in restraint of trade and monopolization, as well as attempts to monopolize.
+>
+> 2. **Clayton Antitrust Act (1914)**: Passed in 1914, the Clayton Antitrust Act expanded upon the Sherman Act and provided additional regulations aimed at preventing anticompetitive practices and protecting competition. It addressed issues such as price discrimination, exclusive dealing, and interlocking directorates.
+>
+> 3. **Federal Trade Commission Act (1914)**: Also enacted in 1914, the Federal Trade Commission Act created the Federal Trade Commission (FTC) as an independent agency responsible for enforcing antitrust laws and promoting fair competition. The FTC has authority to investigate and take action against unfair methods of competition and unfair or deceptive acts or practices.
+>
+> 4. **Robinson-Patman Act (1936)**: The Robinson-Patman Act, passed in 1936, amended the Clayton Antitrust Act and addressed discriminatory pricing practices that harm competition. It prohibits certain forms of price discrimination, such as charging different prices to different buyers when the effect may substantially lessen competition.
+>
+> 5. **Celler-Kefauver Act (1950)**: The Celler-Kefauver Act, passed in 1950, amended the Clayton Act and strengthened antitrust enforcement by addressing anticompetitive mergers and acquisitions. It expanded the scope of review for mergers and prohibited acquisitions that substantially lessen competition or tend to create a monopoly.
+>
+> These laws, along with subsequent amendments and judicial interpretations, form the framework of modern antitrust regulation in the United States. They aim to promote competition, protect consumers, and ensure a level playing field in the marketplace.
+
+*Clayton Act:*
+
+> The creation of antitrust laws in the United States, particularly the Clayton Antitrust Act of 1914, involved a complex interplay between the legislative and judicial branches, including the Supreme Court.
+>
+> Prior to the enactment of the Clayton Act, there was growing concern about the concentration of economic power and the rise of monopolistic practices in various industries. However, the Sherman Antitrust Act of 1890, the first major federal antitrust law, had limitations and ambiguities that led to challenges in its enforcement.
+>
+> The Supreme Court played a significant role in shaping antitrust jurisprudence through its interpretation of the Sherman Act in various cases. Notably, the Court's decision in Standard Oil Co. v. United States (1911) and United States v. American Tobacco Co. (1911) established important precedents regarding the application of antitrust laws to monopolistic practices and restraint of trade.
+>
+> However, despite these rulings, there were calls for stronger and more comprehensive antitrust legislation to address emerging anticompetitive practices. In response to these concerns, Congress passed the Clayton Antitrust Act in 1914, which expanded on the principles of the Sherman Act and addressed certain deficiencies identified by the Supreme Court.
+>
+> The Clayton Act contained provisions aimed at prohibiting specific anticompetitive behaviors such as price discrimination, exclusive dealing, and tying arrangements. It also established the Federal Trade Commission (FTC) to enforce antitrust laws and promote fair competition.
+>
+> While the Supreme Court continued to interpret and apply antitrust laws in subsequent cases, the Clayton Act represented a legislative effort to strengthen antitrust enforcement and provide clearer guidelines for addressing anticompetitive conduct in the marketplace.
+>
+> Overall, the creation of the Clayton Antitrust Act involved a collaborative effort between Congress and the Supreme Court, with both branches playing important roles in shaping the development of antitrust law in the United States.
+
+In Britain, before Brexit, statutory law came from European directives.
+
+> Before Brexit, the United Kingdom (UK) was a member of the European Union (EU), and as such, EU directives played a significant role in shaping UK statutory law. EU directives are legislative acts that set out specific objectives that EU member states are required to achieve through their national laws. Member states have the flexibility to implement these directives into their national legal systems, which often involves passing new statutory laws or amending existing ones to comply with EU requirements. Therefore, EU directives had a direct influence on UK statutory law prior to Brexit.
+
+In the UK, private bills were commonly used during the 19th century for several purposes. They were employed to establish corporations, grant monopolies, and address specific concerns of individuals within Parliament. Today, private bills are still utilized, especially for large infrastructure projects. These bills affect only a small group of people or organizations, focusing on matters that are specific to them rather than the general public.
+
+> In the UK, a private bill is a type of legislation introduced in Parliament that affects specific individuals, organizations, or entities, rather than the general public. These bills typically address private or localized matters, such as granting powers or privileges to particular parties, authorizing activities with limited impact beyond a small group of stakeholders, or addressing individual grievances or interests. Private bills are distinct from public bills, which apply to the general population or the entire country. The process for introducing and passing private bills involves special procedures and may require scrutiny by select committees to ensure fairness and transparency.
