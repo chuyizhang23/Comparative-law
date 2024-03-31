@@ -148,7 +148,7 @@ In Germany and Italy (divided into several kingdoms), customary laws still apply
 
 #### Codes
 
-The texts of law are based on regional laws on statues, characters, and the existence of qualifications. The laws are not only voted on but also presented in a book called Codex. This is a Roman tradition that was adopted again during the Napoleonic period. The empire decided the state would print some ‘codes thématiques’, such as penal code, administrative code, tax code, and trading code. About 20 codes existed in France at that time. The lawyers find it easier to work with the codes; while writing sentences, they just have to refer to the article.
+The texts of law are based on regional laws on statutes, characters, and the existence of qualifications. The laws are not only voted on but also presented in a book called Codex. This is a Roman tradition that was adopted again during the Napoleonic period. The empire decided the state would print some ‘codes thématiques’, such as penal code, administrative code, tax code, and trading code. About 20 codes existed in France at that time. The lawyers find it easier to work with the codes; while writing sentences, they just have to refer to the article.
 
 In reality, the codes proceed with general principles that are abstractions that the lawyer will apply to the concrete situations that he has to solve.
 
