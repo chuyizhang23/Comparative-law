@@ -62,11 +62,11 @@ Example: the Miranda system, a type of notification customarily given by police 
 
 *On June 13, 1966, the Supreme Court issued its landmark decision in Miranda v. Arizona. The Court held that the Fifth Amendment privilege against self-incrimination required law enforcement officers to inform individuals of certain rights before conducting custodial interrogations. These rights included the right to remain silent and the right to consult with an attorney. Because Miranda had not been informed of these rights before confessing, the Court ruled that his confession was inadmissible as evidence.*
 
-*The Fifth Amendment right against compelled self-incrimination is the right to remain silent, which is the right to refuse to answer questions or to otherwise communicate information.*
+The Fifth Amendment right against compelled self-incrimination is the right to remain silent, which is the right to refuse to answer questions or to otherwise communicate information.
 
 > No person shall be ... nor shall be compelled in any criminal case to be a witness against himself...
 
-*The Sixth Amendment right to counsel means that the suspect has the right to consult with an attorney before questioning begins and to have an attorney present during the interrogation.*
+The Sixth Amendment right to counsel means that the suspect has the right to consult with an attorney before questioning begins and to have an attorney present during the interrogation.
 
 > In all criminal prosecutions, the accused shall enjoy the right to ... and to have the Assistance of Counsel for his defence.
 
@@ -113,5 +113,29 @@ The right of the defendant exists in all administrative systems. This Miranda wa
 Notice that the statutory law doesn’t mention anything about the right to remain silent. Only the definitions of what constitutes kidnapping, assault, robbery, etc. are defined by the law. The responsibility of the judge would just be to check how the situation is to be defined in terms of the law: “Shall we say that this is a robbery...?” In this case, the 5^th^ Amendment was interpreted; there was an active involvement of the judge. The judge is not only the servant of the law but also the root of the law.
 
 ## Modern common law
+
+The tradition is that law in liberal states has existed only for several subjects with the objective of protecting public order and public defenses. During the era of revolutions and with the development of common law, the common idea was to protect the liberty of the state and its population. That's why many legal aspects are not ruled by public bodies but by people directly. On one hand, the state can be crucial, and there is always supposed to be a risk of dictatorship; on the other hand, the state is the one to protect its population from dictatorship. In order to do so, the legislative bodies have been regulated, partly by the constitutions and partly by the bodies themselves. The public body must be limited and directly ruled by people; that's why we are also ruled by local parties.
+
+### Equality
+
+Take contract law as an example. Contract law is a large part of the common law system and is usually the issue of local courts.
+
+> In the United States, contract law is primarily governed by state law rather than federal law. Each state has its own set of laws and principles that govern contracts, although many of these laws share similarities due to common legal heritage and influences.
+>
+> While there are some federal laws that impact certain types of contracts or regulate specific industries, such as federal regulations governing contracts with the government or federal securities laws, the vast majority of contract disputes are resolved based on state contract law.
+
+A contract is an agreement between parties, creating mutual obligations that are enforceable by law; it's the law of people. In liberal states during the early years, the idea was to say that when people negotiate, they are free to do what they want, and the only limitation is respect for public order. There are some trades that are illegal, even under the principle of free trade. For example, drugs are out of trade, as are slaveries. For centuries, the trading of slaves was legal, but it became illegal in the 19^th^ century. There was a liberal conception with the idea that, out of the protection of the public order, people are free to do whatever they want, and the statutory law is to define what is in the area of protection of the public order.
+
+There were evolutions in this liberal conception. One is the protection of consumers' rights. Contracts need to be recognized by both parties, meaning that in the liberal conception, if we want a fair contract, we have to make sure the two parties are in the same situation and have the same knowledge. (Is there an inequality between the two parties? Are they in the same status?) Since the consumer, compared to the producer, is the uninformed part of the contract, certain rights need to be guaranteed to sign such a contract. This has its origin in trying to create equality between the supplier and the consumer.
+
+For example, in many agricultural products, such as potatoes, farmers can use a lot of chemicals that violate the health of the consumer. When buying potatoes, consumers can only see the potatoes directly for their physical aspects, but they don't know what happened before and cannot know in what ways the potatoes are cultivated, like if chemical elements such as pesticides are used for the growing. So states have a moral and a political mandate to protect their population from threats to health.
+
+Here comes the notion of the rights of consumers. In traditional trade systems, each person knows the same information, but in modern agriculture, there’s no equal contract between the seller and the consumer; there is one who knows and one who doesn’t. Because of scientific development, there is a heavy risk for consumers to sign a contract that is not fair. With technology, one can fake data or information.
+
+That’s why, in the modern common law system, there's been the development of statutory laws. During the development of welfare states, the public body has to create laws to obligate sellers and protect consumers. We need statutory law to regulate different specific situations, such as conditions of preservation, information, etc., and protect those who don't have the specific knowledge, especially when new technologies are involved. Statutory laws are a tool to educate, create incentives, or deter; mandate safer product design and use of property; and alter the informational, physical, or economic environment, although this also constrains the autonomy, privacy, liberty, and proprietary interests of individuals and businesses. The idea is that the public authorities have to involve themselves in the freedom of trade and protect the rights of consumers.
+
+### Public order
+
+### International treaty
 
 ## Base principle of common law

@@ -40,9 +40,9 @@ In 1789, the French Revolution ended this. The *Declaration of Rights* outlines 
 >
 > The drafting process took several years, with the Napoleonic Code being formally adopted and promulgated on March 21, 1804. This marked the completion of the code and its official entry into force. The Napoleonic Code represented a significant milestone in the history of French law and had a profound impact on legal systems around the world, influencing civil law jurisdictions and serving as a model for subsequent legal codes.
 
-#### The Second Empire in the 19th century
+#### The Second Empire in the 19^th^ century
 
-The First Empire is the one after the French Revolution, and the second one was during the 19th century (1852–1871). Napoleon first abdicated and gave his power to his son (Napoleon II), who never reigned and left France to study in Austria. Napoleon III came into power and built the Second Empire, which was more liberal than the first one. At the end of the Second Empire, France was more or less a democratic country.
+The First Empire is the one after the French Revolution, and the second one was during the 19^th^ century (1852–1871). Napoleon first abdicated and gave his power to his son (Napoleon II), who never reigned and left France to study in Austria. Napoleon III came into power and built the Second Empire, which was more liberal than the first one. At the end of the Second Empire, France was more or less a democratic country.
 
 The industrial revolution happened during the Second Empire, and the economic landscape became different. All systems of trading that are existing today come from the Second Empire. There was the 1867 trade law, which is the foundation of the trade law nowadays. Different types of contracts are also developed.
 
@@ -150,7 +150,7 @@ During the 1950s and 1960s, the French legal system was very well recognized in 
 
 In the 1970s, the School of New Public Administration developed in the US, where there was rapid growth in the public service due to extensive suburbanization and urbanization. This theory, which also emphasizes the importance of results and benefits, has nowadays become the main theory of public administration and has substituted for the French theory in many foreign countries.
 
-> ==New Public Administration== (NPA) is a term that refers to a movement within the field of public administration that emerged in the United States during the late 20th century. NPA represents a shift away from traditional bureaucratic models of public administration towards a more humanistic, democratic, and participatory approach to governance.
+> ==New Public Administration== (NPA) is a term that refers to a movement within the field of public administration that emerged in the United States during the late 20^th^ century. NPA represents a shift away from traditional bureaucratic models of public administration towards a more humanistic, democratic, and participatory approach to governance.
 >
 > Key features of New Public Administration include:
 >
@@ -206,7 +206,7 @@ From the Middle Ages to the 17^th^ and 18^th^ centuries, the territories of Germ
 
 In the 18^th^ century, Prussia was raised with a developed army. Two kings (Frederick William I and Frederick II) made a lot of reforms to the legal system, which were inspired by Roman law.
 
-> In the 18th century, Prussia underwent significant reforms in its legal system under the leadership of several notable Prussian kings, particularly Frederick William I and Frederick II (Frederick the Great). These reforms aimed to modernize and centralize the administration of justice, promote legal uniformity, and enhance the efficiency and effectiveness of the legal system. Some key aspects of the Prussian legal reforms during this period include:
+> In the 18^th^ century, Prussia underwent significant reforms in its legal system under the leadership of several notable Prussian kings, particularly Frederick William I and Frederick II (Frederick the Great). These reforms aimed to modernize and centralize the administration of justice, promote legal uniformity, and enhance the efficiency and effectiveness of the legal system. Some key aspects of the Prussian legal reforms during this period include:
 >
 > 1. **Codification of Laws**: One of the most significant reforms was the codification of laws to create a unified legal framework. Frederick II initiated the process of codification by commissioning the "Prussian General Law Code" (Allgemeines Landrecht für die Preußischen Staaten) in 1794. This legal code aimed to systematize and simplify the complex patchwork of laws that existed in Prussia at the time, providing a comprehensive set of rules governing civil, criminal, and administrative matters.
 >
@@ -218,7 +218,7 @@ In the 18^th^ century, Prussia was raised with a developed army. Two kings (Fred
 >
 > 5. **Centralization of Legal Authority**: The legal reforms in Prussia involved centralizing legal authority under the monarchy's control. Frederick William I and Frederick II sought to consolidate power within the state and reduce the influence of local jurisdictions and feudal privileges. The establishment of a unified legal code and a centralized judiciary helped to strengthen the authority of the Prussian state and promote uniformity in legal administration.
 >
-> Overall, the legal reforms of the Prussian kings in the 18th century represented a significant modernization and rationalization of the legal system, laying the foundation for the development of a more efficient, centralized, and uniform system of justice in Prussia. These reforms had a lasting impact on the legal and administrative structure of the Prussian state and influenced legal developments in other German territories and beyond.
+> Overall, the legal reforms of the Prussian kings in the 18^th^ century represented a significant modernization and rationalization of the legal system, laying the foundation for the development of a more efficient, centralized, and uniform system of justice in Prussia. These reforms had a lasting impact on the legal and administrative structure of the Prussian state and influenced legal developments in other German territories and beyond.
 
 In the 19^th^ century, most of the various German states were united into the German Empire. During this time, Prussia was the most powerful state and played a leading role in the unification of Germany. The king of Prussia became the emperor of Germany in 1871 and reformed the legal system in Germany.
 
@@ -278,7 +278,7 @@ The BGB has influence in France as well. Some reforms of French law have been ma
 >
 > 6. **Harmonization with International Standards**: The BGB's adoption of modern legal principles aligned with international standards, facilitating the harmonization of French commercial law with international norms and practices. French lawmakers looked to the BGB and other modern legal codes as models for updating and modernizing French commercial law to meet international standards.
 >
-> Overall, while the BGB directly impacted German law, its influence extended beyond Germany's borders and contributed to legal reform efforts in other countries, including France. The BGB's emphasis on modernization, legal certainty, and commercial practices inspired similar efforts to reform and modernize French firm law and commercial law in the early 20th century.
+> Overall, while the BGB directly impacted German law, its influence extended beyond Germany's borders and contributed to legal reform efforts in other countries, including France. The BGB's emphasis on modernization, legal certainty, and commercial practices inspired similar efforts to reform and modernize French firm law and commercial law in the early 20^th^ century.
 
 The BGB influenced the French judicial system because, following Germany's defeat in World War I, Alsace-Lorraine, a former German territory, reverted to France. The BGB applied in this region was extended to the rest of France.
 
@@ -342,11 +342,11 @@ Norway became independent in 1905, and like Denmark and Sweden, its legal system
 >
 > 3. **Union Periods**: Denmark, Norway, and Sweden were united at various points in history, leading to the development of shared legal institutions and practices. For example, during the Kalmar Union (1397-1523), which united Denmark, Norway, and Sweden under a single monarch, efforts were made to harmonize legal systems across the union.
 >
-> 4. **Codification and Modernization**: In the 19th century, efforts were made to modernize and codify legal systems in Scandinavia. Inspired by the codification movements in continental Europe, countries such as Denmark, Norway, and Sweden adopted comprehensive legal codes covering various areas of law, including civil law, criminal law, and procedural law.
+> 4. **Codification and Modernization**: In the 19^th^ century, efforts were made to modernize and codify legal systems in Scandinavia. Inspired by the codification movements in continental Europe, countries such as Denmark, Norway, and Sweden adopted comprehensive legal codes covering various areas of law, including civil law, criminal law, and procedural law.
 >
-> 5. **Constitutional Reforms**: The 19th century also saw the emergence of constitutional reforms in Scandinavia, with the establishment of constitutional monarchies and the adoption of written constitutions. These constitutions enshrined fundamental rights and established the framework for modern democratic governance.
+> 5. **Constitutional Reforms**: The 19^th^ century also saw the emergence of constitutional reforms in Scandinavia, with the establishment of constitutional monarchies and the adoption of written constitutions. These constitutions enshrined fundamental rights and established the framework for modern democratic governance.
 >
-> 6. **Social Welfare State**: In the 20th century, Scandinavia emerged as a model for social welfare states, with extensive social welfare programs and protections for workers, families, and vulnerable populations. Legal reforms were enacted to strengthen labor rights, expand social insurance programs, and promote equality and social justice.
+> 6. **Social Welfare State**: In the 20^th^ century, Scandinavia emerged as a model for social welfare states, with extensive social welfare programs and protections for workers, families, and vulnerable populations. Legal reforms were enacted to strengthen labor rights, expand social insurance programs, and promote equality and social justice.
 >
 > 7. **European Integration**: In recent decades, Scandinavian legal systems have been influenced by European integration and the harmonization of laws within the European Union. Membership in the EU has led to the adoption of EU directives and regulations, which have had implications for various areas of law, including trade, competition, and human rights.
 >
@@ -391,7 +391,7 @@ Some common law traditions are no longer applicable today because of the develop
 
 *History of antitrust laws:*
 
-> The antitrust laws in the United States were enacted over a period of time through several key pieces of legislation. The foundation of modern antitrust law in the U.S. was laid in the late 19th and early 20th centuries in response to concerns about monopolistic practices and unfair competition. Here are some significant milestones in the development of antitrust laws in the U.S.:
+> The antitrust laws in the United States were enacted over a period of time through several key pieces of legislation. The foundation of modern antitrust law in the U.S. was laid in the late 19^th^ and early 20^th^ centuries in response to concerns about monopolistic practices and unfair competition. Here are some significant milestones in the development of antitrust laws in the U.S.:
 >
 > 1. **Sherman Antitrust Act (1890)**: Enacted in 1890, the Sherman Antitrust Act was the first federal law to address anticompetitive behavior and prohibit certain business practices that restrain trade or monopolize markets. It declared illegal any contracts, combinations, or conspiracies in restraint of trade and monopolization, as well as attempts to monopolize.
 >
