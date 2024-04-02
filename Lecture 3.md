@@ -132,10 +132,46 @@ For example, in many agricultural products, such as potatoes, farmers can use a 
 
 Here comes the notion of the rights of consumers. In traditional trade systems, each person knows the same information, but in modern agriculture, there’s no equal contract between the seller and the consumer; there is one who knows and one who doesn’t. Because of scientific development, there is a heavy risk for consumers to sign a contract that is not fair. With technology, one can fake data or information.
 
-That’s why, in the modern common law system, there's been the development of statutory laws. During the development of welfare states, the public body has to create laws to obligate sellers and protect consumers. We need statutory law to regulate different specific situations, such as conditions of preservation, information, etc., and protect those who don't have the specific knowledge, especially when new technologies are involved. Statutory laws are a tool to educate, create incentives, or deter; mandate safer product design and use of property; and alter the informational, physical, or economic environment, although this also constrains the autonomy, privacy, liberty, and proprietary interests of individuals and businesses. The idea is that the public authorities have to involve themselves in the freedom of trade and protect the rights of consumers.
+That’s why, in the modern common law system, there's been the development of statutory laws. During the development of welfare states, the public body has to create laws to obligate sellers and protect consumers. We need statutory law to regulate different specific situations, such as conditions of preservation, information, etc., and protect those who don't have the specific knowledge, especially when new technologies are involved.
+
+Statutory laws are a tool to educate, create incentives, or deter; mandate safer product design and use of property; and alter the informational, physical, or economic environment, although this also constrains the autonomy, privacy, liberty, and proprietary interests of individuals and businesses. The idea is that the public authorities have to involve themselves in the freedom of trade and protect the rights of consumers.
+
+> In the United States, there are various statutes and regulations that protect consumers in different aspects of their interactions with businesses. Some examples include:
+>
+> 1. **Fair Credit Reporting Act (FCRA)**: This law regulates the collection, dissemination, and use of consumer credit information. It gives consumers the right to access their credit reports, dispute inaccurate information, and restrict the sharing of their credit information.
+>
+> 2. **Truth in Lending Act (TILA)**: TILA requires lenders to disclose key terms and costs of credit, such as the annual percentage rate (APR), finance charges, and total loan costs. It aims to ensure consumers have clear and accurate information about credit terms before entering into loan agreements.
+>
+> 3. **Fair Debt Collection Practices Act (FDCPA)**: FDCPA prohibits abusive and deceptive practices by debt collectors, such as harassment, false statements, and unfair collection methods. It provides consumers with protections against unfair debt collection practices.
+>
+> 4. **Consumer Product Safety Act (CPSA)**: CPSA establishes safety standards for consumer products to protect against unreasonable risks of injury or death. It authorizes the Consumer Product Safety Commission (CPSC) to regulate and recall unsafe products.
+>
+> 5. **Federal Trade Commission Act (FTC Act)**: The FTC Act empowers the Federal Trade Commission (FTC) to prevent unfair or deceptive acts or practices in commerce. The FTC enforces various consumer protection laws and regulations, such as those related to advertising, marketing, and online privacy.
+>
+> 6. **Health Insurance Portability and Accountability Act (HIPAA)**: HIPAA protects consumers' health information by establishing privacy and security standards for health care providers, health plans, and other entities handling protected health information.
+>
+> 7. **Fair Credit Billing Act (FCBA)**: FCBA provides consumers with rights and procedures for resolving billing errors on their credit card accounts. It allows consumers to dispute and correct inaccurate charges on their credit card statements.
+>
+> These are just a few examples of statutes in the United States that protect consumers in various aspects of their interactions with businesses. There are many other federal and state laws and regulations aimed at safeguarding consumer rights and promoting fair and transparent commerce.
 
 ### Public order
 
-### International treaty
+Another issue is environmental protection. Now, with certain technology, you can estimate the quality of the place where you live with the idea of protecting nature. Take heating as an example. Statutory law requires that you inspect your apartment to determine if any work needs to be done to make the use of heat efficient and avoid wasting energy, and if you want to rent an apartment, you need to obtain certification from the state proving that the apartment is fulfilling the requirements of reasonable energy consumption.
+
+> In the United States, there are assessments and ratings available for homes' environmental performance and energy efficiency. One common system used for this purpose is the Home Energy Rating System (HERS), which is a nationally recognized system for inspecting and calculating a home's energy performance. HERS ratings are typically used to assess factors such as insulation, windows, heating and cooling systems, and overall energy usage.
+>
+> Additionally, there are various voluntary programs and certifications available for homes, such as ENERGY STAR certification and LEED (Leadership in Energy and Environmental Design) certification, which evaluate and recognize homes that meet specific energy efficiency and environmental sustainability standards.
+>
+> While participation in these programs is often voluntary, there may be legal requirements related to energy efficiency and environmental standards for new construction or major renovations in certain jurisdictions. Building codes and regulations at the federal, state, and local levels may include requirements or incentives for energy-efficient building practices, such as minimum insulation standards, efficient heating and cooling systems, and renewable energy options.
+>
+> It's essential for homeowners, builders, and developers to familiarize themselves with applicable building codes, regulations, and certification programs in their area to ensure compliance with legal requirements and best practices for energy efficiency and environmental sustainability.
+
+Energy consumption used to be a straightforward matter, with little intervention from public authorities. However, with the implementation of statutory laws on environmental protection, the landscape has changed. While the principle of freedom still exists, the concept of public order has gained prominence. Public order has become a pervasive idea, leading to increased state control. The state now intervenes in various ways, with the goal of social protection.
+
+Statutory laws are adopted by the parliament because the judge alone is not enough. The common law system is based on respect for customs and the interpretation of case laws. Now the difference is that there are a lot of statutory laws; the application of customs exists but is reduced in many cases. Even though the judge is ruling according to precedent, he still needs to apply the text and refer to the statutory law, so the interpretation of the judge is reduced. There is a transition from the custom and interpretation of the judge to statutory law to a certain degree.
+
+The same thing applies to antitrust law. Statutes are made because we want to avoid the risk of creating unfair monopolies. The Congress passed the first antitrust law, the Sherman Act, in 1890 as a “comprehensive charter of economic liberty aimed at preserving free and unfettered competition as the rule of trade," leaving courts to decide which ones are illegal based on the facts of each case.
+
+### Role of judges
 
 ## Base principle of common law
