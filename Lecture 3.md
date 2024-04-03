@@ -172,6 +172,40 @@ Statutory laws are adopted by the parliament because the judge alone is not enou
 
 The same thing applies to antitrust law. Statutes are made because we want to avoid the risk of creating unfair monopolies. The Congress passed the first antitrust law, the Sherman Act, in 1890 as a “comprehensive charter of economic liberty aimed at preserving free and unfettered competition as the rule of trade," leaving courts to decide which ones are illegal based on the facts of each case.
 
-### Role of judges
+### International treaty
+
+Judges were liberal in interpreting the law before. However, with more statutory law, the judges also have to refer to the statutory law, resulting in less liberty for judges. More precise texts leave less room for interpretation by the judge.
+
+With the fact that there are international treaties in the common law system, judges also have to refer to the treaty texts. Originally, most treaties were about political issues, such as war and the definition of borders. Those treaties are non-administrative. But later on, with the development of international trade, there are also treaties about trade, dealing with specific questions and details.
+
+*Suppose that France and the US have a treaty on mutual exportation. The important question is about the customs tax. For example, if the US imports French wine, what will be the rate of the customs tax? There is an issue of trade protection. On the one hand, the US will protect its own wine producers and therefore impose a fee; on the other hand, they will accept the import of French wine with a lower customs fee.*
+
+*Another example is the importation of American movies to France. After World War II, France set limitations on the importation of non-European films with the intention of protecting the domestic film industry. The importation of foreign films is regulated by the national commission, which sets the conditions for foreign films to be imported to France. The number of imported films is limited, and a certificate is required for a foreign film to be imported to France. There is also the quota policy. As a result, there could be as few as only 10% non-European films in France.*
+
+> The French Film Quota Policy, also known as the "French Cultural Exception," is a regulatory framework implemented by France to preserve and promote its domestic film industry and cultural heritage. At its core, the policy aims to maintain a vibrant national cinema and protect French cultural identity amidst the dominance of Hollywood and other foreign film industries.
+>
+> Key features of the French Film Quota Policy include:
+>
+> 1. **Screen Quotas**: France imposes quotas on the number of domestic and European Union (EU) films that cinemas are required to screen each year. This ensures that a significant proportion of films shown in French theaters are of French or European origin. The exact percentage of screens dedicated to domestic and EU films may vary over time.
+>
+> 2. **Financial Support**: The French government provides financial support to the domestic film industry through subsidies, tax incentives, and grants. These funds assist in the production, distribution, and promotion of French films, enabling local filmmakers to compete with international studios.
+>
+> 3. **TV Broadcast Quotas**: In addition to cinema screens, French television broadcasters are subject to quotas on the amount of French and EU audiovisual content they must air. This extends the policy's reach beyond theaters to ensure the availability of domestic programming on television channels.
+>
+> 4. **Cultural Protection**: The French Film Quota Policy is grounded in the principle of cultural exception, which asserts the importance of protecting cultural diversity and national identity in the face of globalization. By promoting and safeguarding French cinema, the policy aims to preserve France's unique cultural heritage.
+>
+> The French Film Quota Policy has been the subject of debate and scrutiny, both domestically and internationally. While proponents argue that it fosters creativity, diversity, and cultural expression, critics contend that it restricts free market competition and imposes burdensome regulations on the film industry.
+>
+> Overall, the French Film Quota Policy reflects France's commitment to nurturing its national cinema and upholding its cultural values in the global arena.
+
+*So there were trade negotiations between the United States and France, and the result is that the US accepted a low customs tax in exchange for an open quota of American films exported to France.*
+
+Treaties were not specific regarding technical aspects in the past. Nowadays, with globalization, treaties encompass a wide range of technical details. For instance, they include conditions for production, protection of goods, and more.
+
+France is linked to many countries in the agriculture aspect. The local French law has made some technical legislation to reduce the freedom of production for farmers. Farmers in France consider this unfair, especially when they are facing competition with farmers from other countries, such as those in South America, because these regulations make French farmers produce at a higher cost.
+
+There are also WTO agreements that are lengthy and complex because they are legal texts covering a wide range of activities. They deal with agriculture, textiles and clothing, banking, telecommunications, etc. In the common law system, it also includes regulations that conform to WTO requirements, especially regarding exportation and shipping.
+
+So nowadays, in addition to customs when they exist and to the elements of precedence, the judges of the common law system also have to refer to the national statutes and these treaties, which don't deal with general political questions but technical aspects.
 
 ## Base principle of common law
