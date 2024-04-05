@@ -128,7 +128,7 @@ A contract is an agreement between parties, creating mutual obligations that are
 
 There were evolutions in this liberal conception. One is the protection of consumers' rights. Contracts need to be recognized by both parties, meaning that in the liberal conception, if we want a fair contract, we have to make sure the two parties are in the same situation and have the same knowledge. (Is there an inequality between the two parties? Are they in the same status?) Since the consumer, compared to the producer, is the uninformed part of the contract, certain rights need to be guaranteed to sign such a contract. This has its origin in trying to create equality between the supplier and the consumer.
 
-For example, in many agricultural products, such as potatoes, farmers can use a lot of chemicals that violate the health of the consumer. When buying potatoes, consumers can only see the potatoes directly for their physical aspects, but they don't know what happened before and cannot know in what ways the potatoes are cultivated, like if chemical elements such as pesticides are used for the growing. So states have a moral and a political mandate to protect their population from threats to health.
+For example, in many agricultural products, such as potatoes, farmers may use a lot of chemicals that violate the health of the consumer. When buying potatoes, consumers can only see the potatoes directly for their physical aspects, but they don't know what happened before and cannot know in what ways the potatoes are cultivated, like if chemical elements such as pesticides are used for the growing. So states have a moral and a political mandate to protect their population from threats to health.
 
 Here comes the notion of the rights of consumers. In traditional trade systems, each person knows the same information, but in modern agriculture, there’s no equal contract between the seller and the consumer; there is one who knows and one who doesn’t. Because of scientific development, there is a heavy risk for consumers to sign a contract that is not fair. With technology, one can fake data or information.
 
@@ -209,3 +209,37 @@ There are also WTO agreements that are lengthy and complex because they are lega
 So nowadays, in addition to customs when they exist and to the elements of precedence, the judges of the common law system also have to refer to the national statutes and these treaties, which don't deal with general political questions but technical aspects.
 
 ## Base principle of common law
+
+Different elements of the methodologies—steps that common law lawyers have to follow when applying common law—are:
+
+### The determination of law
+
+The judge has to check among the different principles, customs, texts, and treaties that exist, and determine which solution will be applicable to the case.
+
+In the civil law system, the determination of the law is generally not difficult because you know which code is relevant. Normally, there are classifications of different laws within the code, inside which you have chapters and articles to refer to; it's almost like a book with purpose.
+
+*Take the “Code Civil” as an example. There are chapters on individual freedom, contracts, etc. Inside the chapters, there are sub-divisions and interpretations made by the judges. In the chapter dedicated to marriage and family, you can find articles about wedding ceremonies, the solidarity of generations, etc. All these are written in code.*
+
+However, in the common law system, it could be different since there are multiple sources of law. So the first step is to determine what the law applied to the case is.
+
+Statutory law is one of the primary sources of law used in the United States. It encompasses both federal laws and state laws, leading to a diverse set of regulations derived from both federal and local authorities. Consequently, certain cases may be approached differently depending on their circumstances. Typically, criminal cases fall under the jurisdiction of the state, but instances where federal laws are violated result in federal law enforcement taking precedence. However, some cases are intricate and involve overlapping jurisdictions. For instance, when multiple states are involved, the case is handled at the federal level. Examples include crimes like human trafficking spanning across state lines or acts of terrorism involving firearms in more than one state.
+
+### Determine the principles being applied
+
+Lawyers will consult precedents to determine if there are any previous cases similar to the current one. For instance, they might refer to a Supreme Court ruling from one year ago, which applied principles set forth by the judge to analyze a similar case.
+
+When you look into the case law, you may find different cases ruled by different judges with different principles and specifications, leading to different solutions. Judges don't always have common agreements; there is a lack of consistency. In such circumstances, you need to determine which case can be used in your fight.
+
+Imagine you're handling a divorce case. There's a wealth of existing cases on divorce matters. In the United States, family law falls under state jurisdiction, meaning there are 50 sets of family laws across the states. Occasionally, when cases reach the Supreme Court, it may establish new principles by unifying various elements, such as women's rights, among others.
+
+In such scenarios, determining which principles or elements apply and how to combine them can be challenging. You must carefully assess which ones align closest with your case. Nowadays, thanks to the internet, this task is much easier. You can simply use keywords to search for relevant precedent cases, although analysis is still required. Contrastingly, 30 years ago, extensive library research was necessary.
+
+### Determine the different elements that can be used
+
+Refer to the cases you have collected and identify the general principles relevant to your case (human rights, free competition,etc.). Review statements, statutory law, and other legal sources. Conduct an analysis of research by analogy, which involves examining various sources of law, including statutes, customs, and case law, to find solutions applicable to a specific case similar to yours. Try to determine the analytical elements you can utilize for your own case based on this research.
+
+### Classification of the documentation
+
+The question at hand is determining which sources can be relied upon with a high level of certainty, minimizing the risk of errors. For instance, there is generally less risk when relying on a recent precedent set by a higher-level court.
+
+However, there is never absolute security. Sometimes the judges will try to fight the decisions made by higher judges. For example, in 1973, the Supreme Court ruled that the freedom of abortion is an individual right of the woman according to the constitution. 40 years later, there are two possible decisions for local judges: either follow the solution of the court, saying that the prevention of abortion is unconstitutional, or try to test the supreme court in a specific case where there could be a specific situation in which the same decision doesn’t apply. Those who text the decision of the Supreme Court hold that regulating abortion is not a federal competence according to the Constitution; there is no ruling for abortion, so each state can vote for its own law, and each time the result can be different.
