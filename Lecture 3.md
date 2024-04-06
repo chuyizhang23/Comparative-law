@@ -108,7 +108,7 @@ The right of the defendant exists in all administrative systems. This Miranda wa
 >
 > Overall, "le droit de la défense" is a fundamental principle of justice and the rule of law, essential for protecting individuals' rights and ensuring the integrity of legal and administrative proceedings.
 >
-> "le droit de la défense" is recognized as a constitutional right. While it is not explicitly enumerated in the French Constitution, it is derived from various constitutional provisions and is upheld by the French legal system as an essential component of the rule of law and fair administration of justice.
+> "Le droit de la défense" is recognized as a constitutional right. While it is not explicitly enumerated in the French Constitution, it is derived from various constitutional provisions and is upheld by the French legal system as an essential component of the rule of law and fair administration of justice.
 
 Notice that the statutory law doesn’t mention anything about the right to remain silent. Only the definitions of what constitutes kidnapping, assault, robbery, etc. are defined by the law. The responsibility of the judge would just be to check how the situation is to be defined in terms of the law: “Shall we say that this is a robbery...?” In this case, the 5^th^ Amendment was interpreted; there was an active involvement of the judge. The judge is not only the servant of the law but also the root of the law.
 
@@ -208,7 +208,7 @@ There are also WTO agreements that are lengthy and complex because they are lega
 
 So nowadays, in addition to customs when they exist and to the elements of precedence, the judges of the common law system also have to refer to the national statutes and these treaties, which don't deal with general political questions but technical aspects.
 
-## Base principle of common law
+## Basic principle of common law
 
 Different elements of the methodologies—steps that common law lawyers have to follow when applying common law—are:
 
