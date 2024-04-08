@@ -208,7 +208,7 @@ There are also WTO agreements that are lengthy and complex because they are lega
 
 So nowadays, in addition to customs when they exist and to the elements of precedence, the judges of the common law system also have to refer to the national statutes and these treaties, which don't deal with general political questions but technical aspects.
 
-## Basic principle of common law
+## Basic principles of common law
 
 Different elements of the methodologies—steps that common law lawyers have to follow when applying common law—are:
 

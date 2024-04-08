@@ -105,3 +105,131 @@ While civil law and common law systems have traditionally been distinct in their
 > In this decision, the Council of State affirms the existence of a general principle of respect for the rights of the defence that must apply to all measures taken by the administration provided that two conditions are met: the measure must take, for the person concerned, the character of a sanction; it must be, for the person concerned, sufficiently serious.
 >
 > In fact, two essential requirements derive from the principle of respect for the rights of the defence: the person concerned must be informed early enough that a measure will be taken against him and of the facts against him, so as to be able to prepare his defense (EC, 20 January 1956, N...) and, when the texts provide for the communication of his file to the person concerned, it must be complete.
+
+## Introduction to the Islamic legal system
+
+Islamic law, also called **Sharia**, is a law that is applied by Muslim people to Muslim people.
+
+> ==Sharia==, often referred to as Islamic law, is the religious legal system derived from the Quran and the teachings of the Prophet Muhammad. It governs various aspects of Muslim life, including personal morality, religious observances, family law, criminal law, and commercial transactions. Sharia is considered by Muslims to be the divine law prescribed by God for human conduct and is interpreted by Islamic scholars and jurists to address contemporary issues while remaining rooted in the foundational texts of Islam. However, interpretations of Sharia can vary among different Muslim communities and scholars, leading to diverse legal practices in different regions of the Muslim world.
+
+In reality, there are many legal principles in the Islamic legal system, but what is important to keep in mind is that there is no global or similar application of Islamic law. These principles, coming from the Islamic legal system, are some legal elements that are different in every Muslim country.
+
+In various Muslim countries, Islamic law is applied to different degrees. Some nations implement Islamic law partially, meaning it applies to certain activities, while others adopt it more extensively. For instance, Iran fully applies Islamic law, whereas Tunisia and Morocco blend Sharia principles with statutory laws enacted by their parliaments.
+
+Some Muslim countries were colonized and underwent significant changes during that period. Following independence, many of these nations retained certain aspects of the legal systems imposed by their colonial rulers. For instance, Pakistan, once under British rule, adopted elements of the common law system introduced by the British authorities. Similarly, countries like Algeria, which was under French rule, incorporated French legal concepts, evident in the use of Arabic terms corresponding to "Département" and "Préfet" in French, with family and trade law governed by Islamic tenets. Meanwhile, countries like Tunisia and Morocco have family laws grounded in Islamic principles, blending them with local statutory laws influenced by common law or continental law systems during colonization.
+
+In the Islamic legal system, there exist written texts alongside various interpretations of the law. These interpretations are made by different authorities, including judges, governments, and religious authorities. Even when referring to the same text, variations in interpretation arise among these authorities. As a result, different solutions are often proposed for the same question, and conflicting solutions can be observed. From this perspective, the Islamic legal system shares some similarities with common law.
+
+## The definition of Islamic law
+
+### Two main elements of Islamic law
+
+Islamic law is based on the text of the holy book, the **Quran**, which contains approximately 6,200 verses, of which around 600 have legal significance. These verses were revealed by Prophet Muhammad. The Quran serves as both a legal code and a religious text, containing stories about the relationship between individuals and God, as well as guidance on behavior for followers throughout their lives. It intertwines religious and legal aspects, addressing both spiritual and practical matters.
+
+> The Quran, the holy book of Islam, is divided into chapters, known as surahs, and verses, known as ayahs. The arrangement of the Quran is as follows:
+>
+> 1. **Surahs**: The Quran consists of 114 surahs of varying lengths. These surahs are not arranged chronologically; instead, they are organized based on their length, with the longest surahs typically found at the beginning and the shorter ones toward the end.
+>
+> 2. **Meccan and Medinan Surahs**: Another important aspect of the arrangement of the Quran is the distinction between Meccan and Medinan surahs. The surahs revealed in Mecca, during the early period of Prophet Muhammad's prophethood, tend to focus on spiritual and theological themes, while the Medinan surahs, revealed in Medina after the migration of the Prophet, often deal with legal and social matters. The arrangement alternates between Meccan and Medinan surahs, with some exceptions.
+>
+> 3. **Themes and Topics**: The Quran covers a wide range of topics, including monotheism, prophethood, morality, guidance for personal conduct, social justice, legal matters, and eschatology (the study of the end times). These themes are interwoven throughout the surahs, often complementing and reinforcing one another.
+>
+> 4. **Verses (Ayahs)**: Each surah is further divided into verses, or ayahs, which vary in length. The number of verses in each surah can range from a few to several hundred. These verses serve as the fundamental units of the Quranic text and are often cited individually for study, recitation, and reflection.
+>
+> 5. **Opening Chapter (Al-Fatiha)**: The Quran begins with the opening chapter, Al-Fatiha, which is considered the essence of the entire Quran. It is recited in every unit of the Muslim prayer (Salah) and holds special significance in Islamic worship and spirituality.
+>
+> Overall, the arrangement of the Quran reflects a divine order believed by Muslims to have been revealed to Prophet Muhammad over a period of approximately 23 years. It is considered by Muslims to be the literal word of God (Allah) and the ultimate guide for humanity's spiritual, moral, and ethical guidance.
+
+*The Quran is not the only religious holy book containing legal aspects; the Bible also shares this characteristic. Within the Bible, there are verses that prescribe obligations for believers to follow. A journalist authored a book titled “Follow the Rules of the Bible for One Year,” in which he attempted to adhere to the obligations outlined in the Bible. However, he found it impossible to comply with all of them due to conflicts and their incompatibility with modern life.*
+
+**Fiqh** is the interpretation of the legal verses of the Quran by interpreters like religious scholars or religious authorities.
+
+> ==Fiqh== is the Islamic jurisprudence, which refers to the understanding and interpretation of Islamic law derived from the Quran, Hadith (sayings and actions of Prophet Muhammad), Ijma (consensus of scholars), and Qiyas (analogy). It encompasses the practical application of Islamic principles to various aspects of life, including worship, transactions, family law, ethics, and social issues. Fiqh provides guidelines for Muslims on how to conduct themselves in accordance with Islamic teachings and principles. It is studied and interpreted by Islamic scholars to address contemporary issues and adapt to changing circumstances while remaining rooted in Islamic tradition.
+
+The concept here is that the Quran was sent directly to Muhammad, as the chosen one. The Quran is seen as the divine law since it is considered to be the direct expression of what God wants Muslims to behave like. Fiqh, on the other hand, is the human law since it is not given by God but is the result of interpretations made by humans. There is a co-existence of divine law and human law.
+
+### Different catagories of Islamic law
+
+- **Ibadah (Worship)**: This category deals with rituals and acts of worship prescribed in Islam, such as prayer (Salah), fasting (Sawm), charity (Zakat), pilgrimage (Hajj), and other religious duties. It includes rules and guidelines for performing these acts of worship according to Islamic teachings.
+
+- **Mu'amalat (Transactions and Contracts)**: Mu'amalat governs transactions, contracts, and commercial dealings in Islamic law. It includes rules related to buying, selling, lending, borrowing, leasing, partnership, and other financial transactions. Islamic finance, which operates based on Sharia principles, falls under this category.
+
+- **Family Law (Ahwal al-Shakhsiyah)**: Family law deals with matters related to marriage, divorce, inheritance, guardianship, and child custody. It includes rules and procedures for conducting marriage contracts, resolving marital disputes, dividing inheritance, and determining familial rights and obligations.
+
+- **Criminal Law (Jinayat)**: Criminal law encompasses rules and penalties for offenses considered crimes in Islam. These offenses may include theft, adultery, false accusation (Qadhf), apostasy (Riddah), and certain acts of violence. Punishments prescribed by Sharia for these crimes vary, including fines, imprisonment, corporal punishment, or in severe cases, capital punishment.
+
+- **Public Law (Siyasah Shar'iyyah)**: Public law governs matters related to governance, administration, and public policy in an Islamic state. It includes principles of Islamic governance, the role of the state in enforcing Sharia, the duties and responsibilities of rulers and officials, and the administration of justice.
+
+- **Personal Status Law (Ahwal al-Shakhsiyah)**: Personal status law addresses individual legal status and rights, including matters such as citizenship, residency, and legal capacity. It also includes rules related to personal conduct and behavior, such as ethics, manners, and obligations towards others.
+
+- **Ethical and Moral Guidance**: Islamic law provides guidance on ethical and moral conduct, emphasizing virtues such as honesty, justice, kindness, compassion, and integrity. These principles are foundational to Islamic teachings and are intended to guide Muslims in their interactions with others and their behavior in society.
+
+### Globalization
+
+With globalization, significant developments in international law have occurred over the past half-century. Local legal systems are increasingly influenced by globalization and the activities of various international organizations. This influence extends to Islamic legal systems as well. Some challenges faced by Muslim law cannot be addressed solely through classical Islamic legal principles but require reference to international law. For instance, in societies with diverse nationalities, resolving issues may necessitate the application of international laws, even within Muslim-majority countries. In international trade, Islamic law may be influenced by regulations from international bodies such as the WTO. Thus, even when applying Islamic law, it must be interpreted in alignment with international legal norms.
+
+There are significant concerns regarding human rights. For example, there is a global protection agreement from the UN from 1949 that has been recognized by many countries. At the same time, some Muslim countries have recognized the Islamic Declaration of Human Rights, which is a mix of some international declarations protecting human rights and, simultaneously, the integration of several interpretations of Islamic Personal Status Law, such as the right of personality.
+
+> The Cairo Declaration on Human Rights in Islam is a declaration adopted in 1990 by member states of the Organization of Islamic Cooperation (OIC), which is an international organization consisting of 57 member states with predominantly Muslim populations. The declaration was drafted as a response to the Universal Declaration of Human Rights adopted by the United Nations General Assembly in 1948. While the Universal Declaration is a secular document reflecting Western liberal values, the Cairo Declaration seeks to articulate human rights principles from an Islamic perspective.
+>
+> Key points about the Cairo Declaration on Human Rights in Islam:
+>
+> 1. **Islamic Perspective**: The declaration emphasizes that human rights are rooted in Islamic Sharia law and principles. It aims to protect human dignity, freedom, and justice within the framework of Islamic teachings.
+>
+> 2. **Equal Rights and Non-Discrimination**: The Cairo Declaration affirms the equality of all human beings regardless of race, color, language, sex, religion, political affiliation, social status, or other factors. It prohibits discrimination and emphasizes the right to equal treatment before the law.
+>
+> 3. **Freedom and Justice**: The declaration recognizes the right to freedom of expression, belief, and association, as long as they do not contradict Sharia law. It also emphasizes the right to due process and fair trial, as well as the presumption of innocence until proven guilty.
+>
+> 4. **Individual Rights and Responsibilities**: The Cairo Declaration emphasizes the importance of individual rights and freedoms, while also stressing the responsibility of individuals to uphold moral and social values prescribed by Islam.
+>
+> 5. **Compatibility with Sharia**: While affirming certain universal human rights principles, the Cairo Declaration states that human rights in Islam are subject to Sharia law and may be limited or modified based on Islamic legal principles.
+>
+> Criticism of the Cairo Declaration:
+>
+> 1. **Limitations on Rights**: Critics argue that the declaration falls short of international human rights standards, as it allows for limitations on rights based on Sharia law, which may result in restrictions on freedom of expression, religion, and other fundamental freedoms.
+>
+> 2. **Gender Equality**: The declaration has been criticized for its treatment of women's rights, as it does not explicitly guarantee equality between men and women and allows for certain provisions that are seen as discriminatory against women under Sharia law.
+>
+> 3. **Lack of Enforcement Mechanisms**: Like many declarations, the Cairo Declaration lacks enforcement mechanisms, which means that member states are not legally bound to adhere to its principles.
+>
+> Overall, the Cairo Declaration on Human Rights in Islam represents an attempt by member states of the OIC to articulate human rights principles within an Islamic framework. However, its compatibility with international human rights standards and its implementation in practice continue to be subjects of debate and criticism.
+
+### Jurisdictional
+
+There is integration in Western countries, primarily concerning the scope of the application of Islamic laws. In these countries, where Muslim communities exist, the question arises as to whether religious laws can be applied to a community of Muslim people who are not the majority.
+
+In France, including the island of Mayotte, Islamic law does not have any legal authority, even in areas where there is a majority of Muslim inhabitants. Instead, French civil law applies uniformly to all individuals, regardless of their religious beliefs. This principle of legal unity means that the same laws govern everyone, and there is no special consideration given to any particular religion. In public life, citizens of all religious backgrounds are subject to the same laws and regulations, and there is no provision for the prioritization of religious rules. While Muslim believers are free to practice their religion in their personal lives, such as following dietary restrictions, these practices must adhere to the overarching legal framework established by French civil law.
+
+In Canada, particularly in Ontario, individuals have the option to request the application of Sharia law for certain matters. For example, Muslim individuals may seek to have their family law cases heard by Muslim judges. Similarly, in Great Britain, Sharia law is applicable in specific areas such as family law and divorce, as well as some contract laws. While the application of Sharia law is not extensive in these countries, there are provisions for addressing individual concerns and questions within the legal framework.
+
+> In both Canada and the United Kingdom, there are religious arbitration tribunals, including those operating under Islamic law principles, known as Sharia councils or tribunals. These councils primarily handle family law matters such as marriage, divorce, and inheritance, based on Islamic legal principles. However, it's essential to note that decisions made by these tribunals are not legally binding unless both parties agree to abide by them. Additionally, these decisions must comply with the laws of the country and cannot override the rights guaranteed by the national legal system. If a decision made by a Sharia tribunal is challenged or found to contravene national law, it can be appealed or reviewed by the national courts.
+
+#### Laïcité in France
+
+In France, they are staunch advocates of secularism, known as laïcité. The principle dictates that the state remains neutral and independent, standing apart from all religions. There is no official religion or church recognized by the state. For citizens, religion is considered a matter of private life, not public life. Laïcité does not aim to oppose religions; rather, it prohibits the state from establishing relations with religions and religious institutions. Individuals are not permitted to request that the administration accommodate their religious beliefs.
+
+For example, in France, holidays primarily reflect Christian traditions due to the historical majority of Christians in the country. Therefore, religious holidays of other faiths are not officially recognized, and these days are treated as regular working days. However, individuals do have the right to request time off for religious observance, which is considered within the context of standard vacation or personal leave allowances.
+
+If you choose to wear a hijab, you are permitted to do so in the private sector, except in situations where there may be safety risks, such as working in a kitchen where there is a potential fire hazard. However, wearing a hijab while working in the public sector is not permitted, as public servants are expected to adhere to the principle of religious neutrality outlined in French law. According to French statutes, individuals representing the state should remain neutral in matters of religion. Therefore, employees in the public sector are prohibited from displaying any religious symbols while on duty.
+
+> In France, the law regarding the wearing of hijabs, or headscarves worn by Muslim women, is governed primarily by the principle of laïcité, or secularism. Laïcité is enshrined in the French Constitution and aims to ensure the separation of religion and state in public institutions.
+>
+> There have been several laws and regulations enacted in France that restrict the wearing of religious symbols, including hijabs, in certain public settings:
+>
+> 1. **2004 Law on Secularism and Conspicuous Religious Symbols in Schools**: This law prohibits the wearing of conspicuous religious symbols, including hijabs, in public primary and secondary schools. It applies to both students and staff members.
+>
+> 2. **2010 Law Banning Face Coverings in Public Spaces**: Commonly known as the "burqa ban," this law prohibits the wearing of face-covering veils, including the niqab and burqa, in public spaces. While the law does not specifically mention hijabs, it effectively restricts the wearing of full-face veils in public areas.
+>
+> 3. **2016 Administrative Court Ruling on Burkini Bans**: In 2016, several municipalities in France implemented bans on burkinis, full-body swimsuits worn by some Muslim women. However, these bans were challenged in administrative courts, with some courts ruling that they violated fundamental freedoms, including the freedom of religion.
+>
+> Overall, while there is no specific law in France banning the wearing of hijabs in public spaces, the principle of laïcité and certain laws and regulations restrict the wearing of conspicuous religious symbols in certain contexts, particularly in public schools and government institutions. However, the interpretation and enforcement of these laws have been subject to debate and legal challenges, reflecting broader discussions about religious freedom, cultural diversity, and secularism in French society.
+
+*Mayotte, an island in the Indian Ocean close to Madagascar, is an exception to this principle due to its significant Muslim community, which comprises the majority of the population. As a result, certain aspects of Islamic law are applied, such as the choice to marry either in front of a secular judge or before a qadi, a specialized Islamic judge.*
+
+> Mayotte, as an overseas department and region of France, is subject to French law, including the principle of laïcité, or secularism. Therefore, laïcité is applicable in Mayotte, just as it is in mainland France.
+>
+> Laïcité in Mayotte means that the state remains neutral and independent from religious affairs. There is no official religion or church recognized by the state, and religious practices are considered a matter of private life, not public life. Like in mainland France, there may be regulations regarding the wearing of religious symbols in certain public institutions, such as schools.
+>
+> While Mayotte has a predominantly Muslim population, reflecting its cultural and historical ties to the Comoros archipelago, the principle of laïcité still applies in governmental and public settings. This means that public institutions in Mayotte operate without religious affiliation, and individuals are expected to separate their religious beliefs from their roles as citizens in public life.
+
+In France, the issue of coexistence presents challenges, particularly concerning dietary practices. While individuals have the right to adhere to the dietary rules of their religion, they cannot compel public institutions to accommodate specific religious dietary requirements. For instance, in schools, students are not required to consume foods that conflict with their religious beliefs, such as pork for Muslims. However, they do not have the right to request substitutes or demand that meals be served in accordance with halal or other religious guidelines.
