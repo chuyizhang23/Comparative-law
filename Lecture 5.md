@@ -87,3 +87,54 @@ When it comes to applying Islamic rules, believers encounter various scenarios t
 When analyzing a case, legal scholars consider these five possibilities: obligation, recommendation, prohibition, not recommended, and tolerance. This comprehensive framework guides believers in understanding and applying Islamic law to different situations.
 
 ### Sunnah
+
+The Sunnah refers to the traditions and practices of early Muslim communities, primarily in Arabia. It encompasses the Hadith, which are interpretations and anecdotes about the Prophet Muhammad's actions and sayings. Essentially, the Sunnah serves as a living tradition of Islam's early legal schools.
+
+This tradition consists of prescriptions given by the Prophet or his successors concerning both religious and state matters. It's like a set of customs that guide behavior, derived from the Quran's principles applied in real-life situations by the Prophet and his family.
+
+In essence, the Quran provides theoretical principles, while the Sunnah offers practical applications to concrete scenarios. For example, while the Quran stipulates that Muslims must pray five times a day, the Sunnah provides guidance on how to reconcile this obligation with daily life circumstances.
+
+In non-Muslim countries or situations where immediate prayer isn't feasible, such as during surgery, the Sunnah offers interpretations and solutions. This could include praying before or after the scheduled time or engaging in personal communication with God instead of formal prayer.
+
+> In Islam, it is obligatory for Muslims to perform five daily prayers known as Salah or Salat. These prayers are performed at specific times throughout the day, starting before sunrise and continuing until late evening. The five daily prayers are Fajr (pre-dawn), Dhuhr (noon), Asr (afternoon), Maghrib (just after sunset), and Isha (night). These prayers are considered one of the Five Pillars of Islam and are a fundamental practice for Muslims to maintain a connection with Allah (God) and fulfill their religious duties.
+
+In legal terms, the Sunnah operates similarly to the rule of precedent in common law systems. When faced with a contemporary issue, scholars refer to previous cases and their solutions. They may either directly apply a similar solution or adapt it to fit the current circumstances through interpretation. This process ensures continuity and relevance in addressing new challenges within Islamic jurisprudence.
+
+### Ijma
+
+"Ijma" essentially means consensus. It refers to the unanimous agreement among scholars or interpreters on a particular rule or interpretation within Islamic jurisprudence. This unanimity gives Ijma significant weight, as it indicates a widely accepted understanding or ruling.
+
+It's important to note that Ijma deals with interpretations developed after the death of the Prophet Muhammad. While the Sunnah comprises the practices and teachings of the Prophet during his lifetime, Ijma involves interpretations made by his successors. This places it lower in the hierarchy of Islamic sources compared to the Quran and Sunnah.
+
+The Quran holds the highest authority as it is believed to be directly revealed by God. The Sunnah, which consists of the Prophet's interpretations and teachings, is also highly regarded because it stems from divine revelation. Ijma, while significant due to its consensus among scholars, is not considered on par with the Quran and Sunnah in terms of authority.
+
+In resolving legal or religious matters, scholars often refer to all three sources. However, in cases of contradiction between them, priority is given to the Quran and Sunnah over Ijma. This ensures adherence to the fundamental principles laid out in divine revelation while still acknowledging the importance of scholarly consensus. Thus, while Ijma is a valuable source of guidance, it must be scrutinized in light of the Quran and Sunnah to ensure its correctness.
+
+### Qiyas
+
+Qiyas, meaning analogy, is a method of analysis within Islamic law where comparisons are drawn between texts and interpretations to derive rulings. Let's illustrate this with an example: the question of whether Muslims can drink beer. 
+
+First, we examine the text, which clearly prohibits the consumption of alcohol for Muslims. The rationale behind this prohibition is to prevent intoxication, as losing control goes against the principles of self-discipline and adherence to religious obligations. 
+
+Now, let's apply Qiyas. Beer typically contains alcohol, so it falls under the general prohibition of alcoholic beverages. However, there are non-alcoholic beers available, often called Islamic beer. These beverages lack alcohol and are permissible for Muslims to drink. This analysis is based on the principle that what's prohibited is the consumption of alcohol, not beer itself.
+
+> "Islamic beer" is a term that doesn't have a specific meaning within Islamic law or culture. Generally, beer, which contains alcohol, is considered haram (forbidden) in Islam because the consumption of alcohol is prohibited according to Islamic teachings. However, some companies or individuals may use the term "Islamic beer" to refer to non-alcoholic or alcohol-free beer, which is made to resemble traditional beer but without the presence of alcohol. This type of beverage may be marketed towards Muslim consumers who wish to enjoy the taste of beer without violating Islamic dietary restrictions. Nonetheless, opinions on the permissibility of consuming non-alcoholic beer vary among Islamic scholars and communities.
+
+Qiyas involves reflecting on the purpose and context of the text to understand its underlying reasons. It's not just about blindly applying rules but understanding the principles behind them.
+
+This method isn't limited to dietary matters. It also applies to other aspects of Islamic law, like fasting during Ramadan. For instance, children below a certain age aren't required to fast, and exceptions are made for the sick or pregnant women. These exceptions are justified based on preserving health or protecting life.
+
+> In Islam, there are certain exemptions from fasting during Ramadan, which include:
+>
+> 1. Children who have not reached puberty are not obligated to fast.
+> 2. Those who are mentally ill or mentally incapacitated are exempt.
+> 3. People who are traveling long distances, especially if it would be excessively burdensome to fast while traveling.
+> 4. Pregnant or nursing women, if fasting would endanger their health or the health of their child.
+> 5. Women who are menstruating or experiencing postpartum bleeding are exempt from fasting until they are no longer in this state.
+> 6. Those who are elderly or chronically ill and for whom fasting would be excessively difficult or harmful.
+>
+> It's important to note that individuals who are exempt from fasting during Ramadan are often expected to make up for missed fasts at a later time or to provide compensation, such as feeding a needy person for each day missed.
+
+In essence, Qiyas allows for reasoned interpretations and exceptions, ensuring that Islamic law remains adaptable to various circumstances through analogy and thoughtful analysis.
+
+## Different branches of law
