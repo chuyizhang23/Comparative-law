@@ -24,7 +24,7 @@ Considering the varying opinions on wearing veils, the Minister of Home Affairs,
 
 You have certain points of view given by liberal Muslim muftis, and one of them was very famous. Some years ago, he was the mufti of a big mosque in Marseille. This Imam is considered a leader of liberal interpretations of Islam in Western countries. He stated that Muslims living in Western countries must adapt their faith to the civil law of the country where they reside. We have to carefully consider the obligations that believers must absolutely follow and determine which rules can be adapted based on the local context. Wearing a veil is not a religious command; it is considered a tradition that existed in ancient Arabia during the time of the Prophet. He emphasized that all interpretations of Islamic law are linked to geographical criteria. These rules were established in societies that mandated veiling for women. Therefore, living in Western countries, there is absolutely no obligation for women to wear a veil. The fundamental practices of the Muslim religion do not dictate the wearing of a veil.
 
-> A mufti is an Islamic scholar who is qualified to interpret Islamic law (Sharia) and issue legal opinions (fatwas) on specific religious matters. These legal opinions often address questions related to religious practices, social issues, ethics, and personal conduct in accordance with Islamic principles. Muftis play an important role in providing guidance to Muslims on how to apply Islamic teachings to their daily lives.
+> A ==mufti== is an Islamic scholar who is qualified to interpret Islamic law (Sharia) and issue legal opinions (fatwas) on specific religious matters. These legal opinions often address questions related to religious practices, social issues, ethics, and personal conduct in accordance with Islamic principles. Muftis play an important role in providing guidance to Muslims on how to apply Islamic teachings to their daily lives.
 >
 > An Imam is an Islamic leadership position, often the worship leader of a mosque and the community. In Sunni Islam, the Imam leads the prayers; in Shia Islam, the Imam leads the community both politically and religiously. The term can also refer more broadly to a knowledgeable person who leads prayers, teaches Islam, and serves as a spiritual guide.
 
@@ -112,9 +112,9 @@ In resolving legal or religious matters, scholars often refer to all three sourc
 
 ### Qiyas
 
-Qiyas, meaning analogy, is a method of analysis within Islamic law where comparisons are drawn between texts and interpretations to derive rulings. Let's illustrate this with an example: the question of whether Muslims can drink beer. 
+Qiyas, meaning analogy, is a method of analysis within Islamic law where comparisons are drawn between texts and interpretations to derive rulings. Let's illustrate this with an example: the question of whether Muslims can drink beer.
 
-First, we examine the text, which clearly prohibits the consumption of alcohol for Muslims. The rationale behind this prohibition is to prevent intoxication, as losing control goes against the principles of self-discipline and adherence to religious obligations. 
+First, we examine the text, which clearly prohibits the consumption of alcohol for Muslims. The rationale behind this prohibition is to prevent intoxication, as losing control goes against the principles of self-discipline and adherence to religious obligations.
 
 Now, let's apply Qiyas. Beer typically contains alcohol, so it falls under the general prohibition of alcoholic beverages. However, there are non-alcoholic beers available, often called Islamic beer. These beverages lack alcohol and are permissible for Muslims to drink. This analysis is based on the principle that what's prohibited is the consumption of alcohol, not beer itself.
 
@@ -138,3 +138,147 @@ This method isn't limited to dietary matters. It also applies to other aspects o
 In essence, Qiyas allows for reasoned interpretations and exceptions, ensuring that Islamic law remains adaptable to various circumstances through analogy and thoughtful analysis.
 
 ## Different branches of law
+
+### Institutional and constitutional law
+
+#### Quran
+
+In the majority of Muslim countries, public, institutional, and constitutional law often refer to Sharia as a source, or even the main source, of law. The situation varies from country to country. For instance, in Saudi Arabia, the Quran serves as the constitution. This implies that public law in Saudi Arabia is structured according to the principles originating from the Quran.
+
+*In Saudi Arabia, there exists a distinctive system due to its monarchy. Unlike some monarchies where kingship is hereditary, in Saudi Arabia, succession to the throne follows a system based on lineage. When a king passes away, his successor is not necessarily his eldest son but rather his brother. In a scenario where there are multiple brothers, all are potential successors to the throne. There is a family council within the royal family tasked with determining the succession upon the king's demise. Typically, the succeeding brother of the deceased king assumes the throne, but exceptions may occur, for example, if a brother is deemed unfit due to mental health issues or if there are conflicts within the royal family. Therefore, succession often proceeds from brother to brother until the last brother, where a decision is made collectively considering various factors.*
+
+> In Saudi Arabia, the rule of inheritance of the throne follows a specific system known as "agnatic seniority," which means that the throne passes from one male member of the ruling family to another based on seniority among the descendants of the founding king, King Abdulaziz Al Saud.
+>
+> The basic principles of succession in Saudi Arabia are as follows:
+>
+> 1. **Primogeniture**: The throne passes from the reigning king to his eldest living son, provided he is deemed fit to rule by the Allegiance Council and other senior members of the royal family.
+>
+> 2. **Seniority**: If the eldest son is unable or unfit to rule, the throne passes to the next eldest son who is deemed fit. If there are no eligible sons, the throne passes to the eldest living brother of the king, and then to the next eldest brother, and so on, based on seniority.
+>
+> 3. **Allegiance Council**: The Allegiance Council is responsible for determining the eligibility of candidates for the throne and confirming the choice of the king's successor. It is composed of senior members of the Al Saud family.
+>
+> 4. **Consultation and Consensus**: The process of succession involves consultation and consensus-building among members of the royal family to ensure stability and continuity in leadership.
+>
+> 5. **Male-Line Descendants**: In Saudi Arabia, only male-line descendants of King Abdulaziz Al Saud are eligible to inherit the throne. Female members of the royal family do not have succession rights to the throne.
+>
+> Overall, the succession system in Saudi Arabia is designed to maintain stability and continuity within the ruling Al Saud family while adhering to the principles of Islamic law and tradition.
+
+In Saudi Arabia, customs play a significant role in addressing succession matters alongside formal procedures. However, it's important to note that this is a unique case. In most Muslim countries, there is a written system. Nevertheless, the preamble of their constitutions typically acknowledges Islam in some form. This signifies that Islam is the foundational source of their legal system. Consequently, legislators and executive authorities must draw inspiration from Islamic tradition and law when drafting and implementing legislation.
+
+> The Quran provides guidelines on inheritance, which are known as "Islamic inheritance laws" or "Quranic inheritance laws." These laws dictate how a deceased person's estate should be distributed among their heirs. The Quran outlines specific shares for different relatives, ensuring fair and just distribution of wealth within the family.
+>
+> Some key principles of Islamic inheritance laws include:
+>
+> 1. **Prescribed Shares**: The Quran prescribes fixed shares for certain heirs, such as spouses, parents, children, and siblings. These shares are expressed as fractions or percentages of the deceased's estate.
+>
+> 2. **Automatic Succession**: Islamic inheritance laws specify automatic succession, meaning that heirs are entitled to their prescribed shares of the estate without the need for a will or testamentary document.
+>
+> 3. **Priority of Heirs**: Certain relatives have priority over others in inheritance. For example, spouses and children are given priority over more distant relatives like siblings or cousins.
+>
+> 4. **Prohibited Heirs**: There are categories of heirs who are prohibited from inheriting, such as non-Muslims, murderers of the deceased, or those who intentionally abandon Islam.
+>
+> 5. **Optional Bequests**: While the Quranic inheritance laws prescribe fixed shares for certain heirs, there is also provision for optional bequests (wasiyah) of up to one-third of the estate. This allows the deceased to allocate a portion of their wealth to individuals or causes outside the prescribed heirs.
+>
+> These inheritance laws are intended to ensure fairness and justice in the distribution of wealth and property among family members, as well as to uphold the rights of heirs as prescribed in Islamic jurisprudence.
+
+#### International treaties
+
+Sometimes it is asserted that Islam is not only a source but the main source of law. This means that even if the Constitution recognizes several other sources, such as international treaties, Islam remains the primary inspiration for judges, legislators, and members of the executive office. Nowadays, due to globalization, Muslim countries operate similarly to other nations worldwide. This means there is recognition of international sources of law as well.
+
+After the mention of the Quran or Islamic law, there can also be references to specific international treaties. For example, there may be a reference to the Universal Declaration of Human Rights of 1948 within the United Nations system. Additionally, there may be references to other global texts, such as the Treaty of New York regarding the protection of children or texts related to environmental protection and human rights.
+
+Sometimes, there may be references to specific international texts that provide protections, but these are not universal. They apply to several territories but are not universally applicable. For instance, the European Declaration of Human Rights is international because multiple states are involved, yet it is not universal as it applies only to the European continent and the countries that are members of the Council of Europe.
+
+*The Universal Declaration of Human Rights:*
+
+> The Universal Declaration of Human Rights (UDHR) was adopted by the United Nations General Assembly on December 10, 1948. It is a milestone document that proclaims the inalienable rights which everyone is inherently entitled to as a human being regardless of race, color, religion, sex, language, political or other opinion, national or social origin, property, birth, or other status. The UDHR consists of 30 articles outlining a comprehensive set of fundamental human rights, including civil, political, economic, social, and cultural rights.
+>
+> Some key provisions of the Universal Declaration of Human Rights include:
+>
+> 1. The right to life, liberty, and security of person (Article 3)
+> 2. The prohibition of slavery and servitude (Article 4)
+> 3. The right to freedom of thought, conscience, and religion (Article 18)
+> 4. The right to freedom of opinion and expression (Article 19)
+> 5. The right to work, to free choice of employment, and to just and favorable conditions of work (Article 23)
+> 6. The right to education (Article 26)
+> 7. The right to participate in government and to equal access to public service (Article 21)
+>
+> The UDHR serves as a common standard of achievement for all peoples and nations and has been translated into over 500 languages. It has inspired the development of numerous international human rights treaties and conventions, as well as national constitutions and laws, contributing to the promotion and protection of human rights worldwide.
+
+*The United Nations Convention on the Rights of the Child:*
+
+> The Treaty of New York refers to the United Nations Convention on the Rights of the Child (CRC), which was adopted by the United Nations General Assembly on November 20, 1989, in New York City. The CRC is a comprehensive international treaty that sets out the civil, political, economic, social, and cultural rights of children.
+>
+> Key provisions of the Convention on the Rights of the Child include:
+>
+> 1. The right to life, survival, and development (Article 6)
+> 2. The right to a name and nationality, and to preserve their identity (Article 7)
+> 3. The right to freedom of expression (Article 13)
+> 4. The right to education (Article 28)
+> 5. The right to health care (Article 24)
+> 6. The right to protection from all forms of violence, abuse, neglect, and exploitation (Article 19)
+> 7. The right to participate in decisions affecting them (Article 12)
+>
+> The Convention also establishes mechanisms for monitoring and enforcing children's rights, including the Committee on the Rights of the Child, which reviews reports submitted by countries on their implementation of the CRC.
+>
+> The Treaty of New York, or the Convention on the Rights of the Child, is the most widely ratified human rights treaty in history, with 196 countries having ratified or acceded to it. It represents a landmark commitment by the international community to promote and protect the rights of children worldwide.
+
+Similarly, in Islamic countries, there are instances where states have decided to sign the Muslim Declaration of Human Rights. This declaration includes articles that align with ideas found in other international texts but also incorporates specific aspects. For instance, the Muslim Declaration of Human Rights acknowledges the specificity of the Muslim religion.
+
+> The Muslim Declaration of Human Rights (MDHR) is a document that outlines the human rights principles from an Islamic perspective. It was drafted in 1981 by the Islamic Council of Europe and endorsed by the Islamic Conference of Foreign Ministers. The MDHR seeks to articulate human rights standards that are consistent with Islamic teachings and values while also affirming the universality of human rights principles.
+>
+> Key features of the Muslim Declaration of Human Rights include:
+>
+> 1. Recognition of the inherent dignity and equal rights of all individuals, regardless of race, ethnicity, religion, or gender.
+> 2. Emphasis on the importance of justice, equality, and non-discrimination in accordance with Islamic principles.
+> 3. Protection of religious freedom and the right to practice one's faith without coercion or discrimination.
+> 4. Support for social justice, including the rights to education, work, and a decent standard of living.
+> 5. Promotion of peace, tolerance, and mutual respect among individuals and communities.
+>
+> The Muslim Declaration of Human Rights aims to provide a framework for understanding human rights from an Islamic perspective and to contribute to the dialogue on human rights within the Muslim world and globally. While not legally binding like international human rights treaties, the MDHR serves as an important statement of principles and values within the Islamic community.
+
+While the Universal Declaration of Human Rights affirms the freedom of religion and the right to believe or not believe in religion, the international Muslim declaration recognizes the specificity of Islam. This means that while states recognize the existence of different religions, this particular declaration highlights the unique aspects of the Islamic religion among its adherents.
+
+This nuanced approach differs from other international declarations, where the emphasis is on freedom of opinion and religion, ensuring individuals have the right to express various opinions, including religious beliefs. However, in the international Muslim declaration of human rights, there is a focus on protecting the Muslim faith. Thus, the aim is not just to protect religion generally but to specifically safeguard the rights of those practicing Islam.
+
+#### Political principles
+
+In Islamic constitutional law, the text of the Constitution can reference various political principles, such as the parliamentary system, separation of powers, representative system, the principle of democracy, and the role of parliament. However, these principles may be interpreted and applied differently across different countries. For instance, in Bahrain, Iran, Pakistan, and Saudi Arabia, the political organization and principles of the state are largely influenced by Sharia law and the Quran. This means that Islamic principles directly shape many branches of law and their application in daily life. For example, family law in these countries is heavily influenced by Islamic legal principles concerning matters such as the status of women and rules of filiation.
+
+In these nations, traditional Islamic law dictates that paternity is established through marriage, with children considered part of the father's family lineage. Consequently, inheritance laws often favor male heirs over females. Legal rights, including inheritance, are typically conferred based on patrilineal descent. Therefore, legal disputes may arise regarding the rights of female heirs, especially in cases where there are no male offspring, as inheritance customs often prioritize male relatives.
+
+> 1. **Sons and Daughters**:
+>    - Sons typically receive double the share of daughters. For example, if a deceased individual leaves behind both sons and daughters, each son may inherit twice the share of each daughter.
+>    - If there are only daughters and no sons, they collectively inherit two-thirds of the estate.
+>    - If there are only sons and no daughters, they inherit the entire estate.
+>
+> 2. **Parents**:
+>    - Both the father and mother are entitled to inherit from their deceased child's estate.
+>    - The father usually receives twice the share of the mother. If the deceased individual has both parents, the father would inherit twice the share of the mother.
+>
+> 3. **Spouse**:
+>    - The surviving spouse is entitled to inherit a portion of the estate, which varies depending on the presence of other heirs.
+>    - If the deceased individual leaves behind children, the spouse's share is typically determined based on the number of children. For example, if there are children, the spouse may inherit one-eighth of the estate if there is one child and one-fourth if there are multiple children.
+>    - If there are no children, the spouse's share may increase, potentially up to one-half or more of the estate.
+>
+> 4. **Siblings**:
+>    - In the absence of children, parents, or spouses, siblings may inherit from the estate.
+>    - Brothers typically receive double the share of sisters. If there are both brothers and sisters, the brothers collectively inherit twice the share of the sisters.
+>
+> 5. **Grandparents and More Distant Relatives**:
+>    - If there are no immediate family members (children, parents, spouse, siblings), more distant relatives may inherit from the estate, such as grandparents, aunts, uncles, and cousins.
+>    - The shares for more distant relatives are determined based on their relationship to the deceased individual and the specific rules of inheritance outlined in Sharia law.
+>
+> It's important to note that the distribution of inheritance under Sharia law is subject to interpretation by Islamic jurists and may vary based on cultural and regional practices. Additionally, individuals may have the option to deviate from the default rules of inheritance through estate planning mechanisms such as wills, as long as they adhere to the principles of Sharia law.
+
+In countries like Saudi Arabia, where strict adherence to traditional Islamic law is prevalent, families often negotiate marriage contracts to safeguard the rights of wives in the event of widowhood. Without such contracts, widows may face legal and social challenges due to the patriarchal nature of inheritance laws. In some cases, daughters may be excluded from inheritance altogether, receiving their share of inheritance only upon marriage. Consequently, marriage contracts may include provisions ensuring daughters receive inheritance rights irrespective of their marital status.
+
+> In some Muslim cultures, it is common for families to negotiate and sign marriage contracts, known as "nikah" contracts, on behalf of the bride and groom before the wedding. These contracts outline the rights and responsibilities of both parties within the marriage and may cover various aspects of married life, such as financial matters, division of household duties, and dispute resolution mechanisms.
+>
+> The contents of these marriage contracts can vary widely depending on cultural and religious traditions, as well as legal requirements in the country where the marriage takes place. In some cases, the contract may include provisions related to the bride's dowry (mahr), inheritance rights, and other important aspects of the marriage.
+>
+> While marriage contracts are more commonly associated with Islamic marriages, they are not universally practiced in all Muslim communities, and their use may depend on factors such as cultural customs, family preferences, and legal requirements. Additionally, the extent to which women are involved in the negotiation and signing of marriage contracts can vary, with some contracts being negotiated primarily between families and others involving input from the bride and groom themselves.
+
+However, in countries such as Tunisia and Morocco, the Constitution may draw inspiration from the Quran and Sharia, but the family law is not solely governed by Islamic principles. Instead, legislation enacted by parliament incorporates both Islamic principles and modern legal norms, promoting greater gender equality in matters of inheritance and family law. This shift reflects a departure from strict adherence to traditional Islamic law and a move towards a legal framework that balances Islamic values with principles of equality and justice.
+
+### The notion of "fatwa"
