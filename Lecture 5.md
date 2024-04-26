@@ -141,7 +141,7 @@ In essence, Qiyas allows for reasoned interpretations and exceptions, ensuring t
 
 ### Institutional and constitutional law
 
-#### Quran
+#### Sharia
 
 In the majority of Muslim countries, public, institutional, and constitutional law often refer to Sharia as a source, or even the main source, of law. The situation varies from country to country. For instance, in Saudi Arabia, the Quran serves as the constitution. This implies that public law in Saudi Arabia is structured according to the principles originating from the Quran.
 
