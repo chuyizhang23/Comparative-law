@@ -50,7 +50,7 @@ Hisbah means the rule of moral rectitude. The idea behind it is to provide the p
 
 > Hisbah is an Islamic concept that refers to the duty of enjoining good and forbidding wrong. Rooted in the Quran and Sunnah, it encompasses the promotion of ethical conduct and the prevention of immoral or harmful behavior within an Islamic society. The term "Hisbah" comes from the Arabic root "hasaba," which means to reckon or to account, implying the act of holding individuals and society accountable to Islamic principles.
 >
-> Key Aspects of Hisbah
+> Key Aspects of Hisbah:
 >
 > 1. **Theological Basis:**
 >    - Hisbah is based on various Quranic verses and Hadiths that emphasize the importance of promoting virtue and preventing vice. For example, the Quran states, "Let there arise out of you a group of people inviting to all that is good, enjoining what is right, and forbidding what is wrong" (Quran 3:104).
@@ -67,7 +67,7 @@ Hisbah means the rule of moral rectitude. The idea behind it is to provide the p
 >    - Hisbah practices, especially when enforced by state authorities, have been subject to criticism and controversy. Issues include the potential for human rights abuses, infringement on personal freedoms, and the imposition of strict interpretations of morality.
 >    - Critics argue that the application of Hisbah can sometimes lead to the persecution of individuals for behaviors deemed unacceptable by conservative interpretations of Islamic law.
 >
-> Conclusion
+> Conclusion:
 >
 > Hisbah represents a significant aspect of Islamic governance and social ethics, emphasizing the collective responsibility to uphold moral standards and prevent wrongdoing within the community. However, its implementation and impact can vary greatly depending on the socio-political context and the interpretations of Islamic law in different regions.
 
@@ -108,3 +108,80 @@ Of course, this does not apply to all Muslim countries. It is important to remem
 > Stoning is widely condemned by international human rights organizations and many countries for its brutal and inhumane nature. Efforts continue to abolish this form of punishment in places where it is still legally sanctioned.
 
 ### The notion of diya
+
+Diya is a form of tort law, specifically relating to compensation for physical harm or injury. It represents the "price of blood," meaning it is a type of monetary compensation paid in cases of bodily injury or death. Essentially, Diya serves as financial reparation to the victim or their family for the harm caused, functioning within the legal framework to address responsibility and restitution.
+
+> **Diya** (also spelled **Diyya**) is a concept in Islamic law that refers to compensation paid to the victim or the victim's heirs in the case of bodily harm or death. It is often described as "blood money" and is an alternative to the concept of retributive justice (qisas), where the punishment would match the crime committed, such as "an eye for an eye."
+>
+> Key Aspects of Diya:
+>
+> 1. **Compensation for Harm or Death:**
+>    - Diya is a financial compensation paid to the victim or their family. The amount is determined based on the severity of the harm or the type of death.
+>
+> 2. **Determination of Amount:**
+>    - The amount of diya can vary significantly. It is usually influenced by the victim's social status, gender, and religion. For instance, in some interpretations, the diya for a woman might be half that of a man, and the diya for a non-Muslim might differ from that for a Muslim.
+>
+> 3. **Types of Crimes Covered:**
+>    - Diya is applicable in cases of intentional and unintentional harm. For intentional harm, it serves as a form of reparative justice, whereas for unintentional harm, it provides financial compensation for accidental injuries or deaths.
+>
+> 4. **Legal Framework:**
+>    - Diya is deeply rooted in Sharia (Islamic law). Different schools of Islamic jurisprudence (Hanafi, Maliki, Shafi'i, Hanbali) have various interpretations and rules regarding the application and calculation of diya.
+>
+> 5. **Modern Application:**
+>    - In many contemporary Muslim-majority countries, diya is incorporated into the legal system. For example, Saudi Arabia and Iran have specific laws detailing the application and amounts of diya. In some cases, it can be paid as an alternative to criminal prosecution, serving both as a legal and a cultural practice.
+>
+> Examples and Contexts:
+>
+> - **Saudi Arabia:** The amount of diya for a Muslim man is often standardized, and specific amounts are prescribed for various types of harm and for individuals of different statuses.
+> - **Pakistan:** The legal system incorporates diya, allowing for compensation to be determined through the courts.
+> - **United Arab Emirates:** The legal framework includes provisions for diya, and amounts are typically defined by law.
+>
+> Diya plays a crucial role in Islamic legal traditions, balancing retributive justice with reparative measures, and its application varies widely across different Muslim-majority societies.
+
+It means, for example, if there is an accident and I lose a hand, there is a specific price for that loss. There is a kind of tariff system, and the judge will resolve the case by considering various concrete factors. For instance, if it is the hand I use to write versus my other hand, the compensation might differ. The judge will also consider whether I need my hand for my daily life or my job. If I am a worker who uses my hands to build objects, the compensation will be higher than for someone who does not work with their hands. Thus, there is a system of monetary compensation in case of physical injury.
+
+In some Muslim countries, like Afghanistan, there is a distinction in the amount of monetary compensation between men and women. For the same injury, such as the loss of a hand, a man will receive a higher compensation than a woman, reflecting a stronger legal protection for men. Additionally, there can be differentiation in compensation amounts between Muslims and non-Muslims. For example, the hand of a Muslim might be valued higher than that of a non-Muslim. This differentiation means that in cases of accidents and subsequent monetary compensation, there can be variations based on these factors. It is important to note that this does not apply to all Muslim countries; it is a possibility allowed by the classical tort law system. Some Muslim countries practice this system, while others do not, leading to different applications and interpretations.
+
+For example, in Iran, the difference between Muslim and non-Muslim compensation does not exist. This means that in Iran, compensation would be the same for a Muslim or a non-Muslim. For decades, even centuries, Iran has recognized the presence of non-Muslim minorities living within its territory, and these minorities are protected by Islamic law. While the majority of the population in Iran is Muslim, specifically of the Shiite branch, there are also local minorities, including followers of Zoroastrianism. Zoroastrianism is one of the oldest religions in the world, practiced for 3,000 to 4,000 years, and it has a traditional presence in Iran. Additionally, Iran has Christian minorities, primarily Armenians. Many Armenian merchants came to Iran during the 19th and 20th centuries for business. Following the Armenian genocide during World War I, some survivors settled in Iran. They have now lived there for more than a century and are recognized as a minority. This recognition ensures that in cases of monetary compensation, these minorities are treated equally with the Muslim majority.
+
+> **Zoroastrianism** is an ancient religion founded by the prophet Zoroaster (Zarathustra) around 3,500 years ago in Persia (modern-day Iran). It centers on the worship of Ahura Mazda, the god of light and goodness, in opposition to Angra Mainyu (Ahriman), the spirit of evil. Key texts include the Avesta, with the Gathas being its oldest part.
+>
+> Core Beliefs:
+>
+> - **Dualism:** The ongoing battle between good (Ahura Mazda) and evil (Angra Mainyu).
+> - **Ethics:** Emphasis on Good Thoughts, Good Words, and Good Deeds.
+> - **Fire Worship:** Fire symbolizes purity and the divine, and is central to rituals.
+>
+> Practices:
+>
+> - **Rituals:** Include the Yasna ceremony and rites of passage.
+> - **Fire Temples:** Sacred fires are kept burning continuously.
+>
+> Historical and Modern Influence:
+>
+> - Dominated ancient Persian empires (Achaemenid, Parthian, Sassanian).
+> - Influenced other major religions like Judaism, Christianity, and Islam.
+> - Modern communities mainly in India (Parsis) and Iran, facing challenges in maintaining traditions.
+
+But in Afghanistan, it's not the case. In Afghanistan, you still have this distinction between Muslim and non-Muslim, and in Iran, it used to be the case, also in Pakistan, but there was a reform about a few years ago, and after this reform, also in Pakistan, they decided to make an equality between Muslims and non-Muslims.
+
+> In Pakistan, the concept of Diya (blood money) has been reformed significantly to address issues of gender and religious equality. Historically, the amount of Diya paid for a female victim was half that of a male victim, and the amount for non-Muslims was different from that for Muslims, reflecting broader societal inequalities.
+>
+> Key Reforms:
+>
+> 1. **Gender Equality:**
+>    - The Protection of Women (Criminal Laws Amendment) Act, 2006, was a landmark piece of legislation aimed at eliminating gender disparity in Diya compensation. This act mandated that the Diya for a woman should be equal to that of a man, aligning compensation for female victims with that of male victims.
+>
+> 2. **Religious Equality:**
+>    - In 2004, the Pakistani government took significant steps to reform Diya laws to ensure that the amount of Diya paid was the same regardless of the victim's religion. This move was crucial in promoting equality among all citizens and ensuring that non-Muslim citizens received equal treatment under the law.
+>
+> 3. **Legal Codification:**
+>    - The Qisas and Diyat Ordinance of 1990 laid the groundwork for these reforms by codifying the principles of Islamic criminal law, including provisions for Diya. Over time, amendments and additional legislation have sought to refine and enforce these principles more equitably.
+>
+> Impact:
+>
+> These reforms represent a significant shift towards gender and religious equality in Pakistan's legal system, aligning with international human rights standards. They reflect ongoing efforts to modernize the legal framework and ensure that all citizens, regardless of gender or religion, receive equal justice.
+>
+> These reforms demonstrate Pakistan's commitment to addressing historical inequalities and ensuring that its legal practices are more inclusive and just.
+
+### The notion of contract in the Islam law system
