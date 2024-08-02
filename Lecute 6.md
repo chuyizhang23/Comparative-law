@@ -185,3 +185,46 @@ But in Afghanistan, it's not the case. In Afghanistan, you still have this disti
 > These reforms demonstrate Pakistan's commitment to addressing historical inequalities and ensuring that its legal practices are more inclusive and just.
 
 ### The notion of contract in the Islam law system
+
+#### Matrimonial contracts
+
+In contract law, there is a specific topic concerning matrimonial contracts. These are agreements signed between individuals before a wedding. A matrimonial contract is a written financial agreement signed in the presence of two witnesses. It generally concerns the payment of what is called "mahr," which means the price of the bride. This price is the amount that the husband or his family must pay to the bride's ~~father~~ when a woman is married. The payment can be made in money, property, or various other forms of assets.
+
+> ==**Mahr**==, also known as **dower** or **bride price**, is a mandatory gift given by the groom to the bride at the time of marriage in Islamic law. It is a fundamental aspect of an Islamic marriage contract and represents the groom's commitment and responsibility towards the bride. The concept of mahr is derived from the Quran and Hadith, and it is a legal and financial right of the bride.
+>
+> Key Aspects of Mahr:
+>
+> 1. **Definition and Purpose:**
+>    - **Mahr** is a sum of money or possessions paid by the groom to the bride upon marriage. It can be immediate (given at the time of marriage) or deferred (promised to be given at a later date).
+>    - The purpose of mahr is to provide financial security to the bride and to serve as a token of respect and commitment from the groom.
+>
+> 2. **Quranic Basis:**
+>    - The concept of mahr is mentioned in the Quran in several verses, such as in Surah An-Nisa (4:4): "And give the women [upon marriage] their [bridal] gifts graciously. But if they give up willingly to you anything of it, then take it in satisfaction and ease."
+>
+> 3. **Types of Mahr:**
+>    - **Prompt Mahr (Mahr Mu'ajjal):** This is given to the bride at the time of the marriage ceremony.
+>    - **Deferred Mahr (Mahr Muwajjal):** This is a promised amount to be paid at a later date, often upon divorce or the death of the husband.
+>
+> 4. **Determination of Amount:**
+>    - The amount and form of mahr are typically agreed upon by the bride and groom (or their families) during the marriage contract negotiations. It can range from a nominal amount to substantial wealth, depending on the agreement and cultural practices.
+>
+> 5. **Legal and Cultural Variations:**
+>    - While the basic concept of mahr is consistent across Islamic cultures, its application and significance can vary widely. In some cultures, it may be a mere symbolic gesture, while in others, it could be a substantial financial arrangement.
+>
+> 6. **Rights and Obligations:**
+>    - Mahr is the exclusive right of the bride, and she has full autonomy over how it is used. The groom is legally obligated to fulfill the mahr agreement as part of the marriage contract.
+>
+> Contemporary Context:
+> In modern times, the concept of mahr continues to be a crucial element of Islamic marriages, although its practical application can vary based on regional, cultural, and socio-economic factors. It remains a significant symbol of the groom’s commitment and the bride’s financial security.
+
+When the family of the husband cannot pay the price, it indicates that they are very poor. There is social pressure for families to marry within the same social level, and part of this pressure includes the expectation to pay the bridal price. Sometimes, families are forced to sell properties to afford this payment, as it is seen as a matter of social honor and tradition.
+
+*In this respect, Islamic countries are similar to China? Or is the professor confusing Islamic countries with China?*
+
+In reality, this principle, which is one of the main tenets of the Islamic law system, is applied variably across different states. For example, in Pakistan, Afghanistan, and Iran, this rule is strictly enforced and practiced. Before a wedding, there is typically a lengthy negotiation between the groom's family and the bride's family to determine the bride price and the bride's financial status. At this stage, provisions for the bride's future, including her potential status as a widow, are considered. The contract often includes guarantees that, should she become a widow, she will have financial protection, a home, and sufficient funds for her livelihood. As discussed earlier, the situation differs for women with sons versus those without children. A widow with no children is entirely dependent on her husband's family’s willingness to support her. Consequently, some widows are well cared for by respectful families, while others without children may be treated poorly, living as servants under the control of their in-laws. To avoid such uncertainties, some families include detailed provisions in the matrimonial contract to ensure the widow's well-being and prevent unpleasant surprises.
+
+In some countries, like Afghanistan or Pakistan, these rules are strictly applied. In other countries, such as Morocco or Tunisia, these rules exist but primarily as social practices. In Morocco or Tunisia, matrimonial contracts and the bride price involve negotiation, but the focus is more on tradition than legal obligation. In these contexts, the bride price is symbolic rather than mandatory. For example, in urban areas of Morocco, the bride price is often not practiced at all, reflecting the modern lifestyle of the population. When it is practiced, it is more of a social gesture than a legal requirement, with gifts being symbolic rather than substantial.
+
+In contrast, in rural areas, especially among farmers, the bride price remains significant. It is more commonly practiced because it provides essential resources for the new couple to start their life together. In these areas, the bride price might include property such as fields or houses. The husband's family might provide a house and a field, while the bride's family might contribute another field and essential household items. This practice remains important in rural areas as it helps the couple establish a livelihood. However, in urban areas, where people live in a more globalized environment, the practice is largely symbolic and not strictly followed.
+
+#### Contract about property
