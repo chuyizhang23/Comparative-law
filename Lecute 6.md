@@ -227,4 +227,33 @@ In some countries, like Afghanistan or Pakistan, these rules are strictly applie
 
 In contrast, in rural areas, especially among farmers, the bride price remains significant. It is more commonly practiced because it provides essential resources for the new couple to start their life together. In these areas, the bride price might include property such as fields or houses. The husband's family might provide a house and a field, while the bride's family might contribute another field and essential household items. This practice remains important in rural areas as it helps the couple establish a livelihood. However, in urban areas, where people live in a more globalized environment, the practice is largely symbolic and not strictly followed.
 
-#### Contract about property
+#### Contracts about property
+
+A contract regarding property transfer can occur in three ways, each with its own type of contract. The first way is purchase, where someone buys the property from another person. The second way is inheritance, where the property is received through the succession of someone who has died. The third way is donation, where the property is given without any payment. In a donation, the owner transfers the property to another person as a gift. Each of these methods involves a specific type of contract tailored to the nature of the transaction.
+
+Regarding inheritance, in many Muslim countries, even the more liberal ones, the system generally favors men over women. This means that a sister typically receives about half of what her brother receives. This inequality exists in many countries. Currently, in Morocco, there are movements advocating for real equality between brothers and sisters, and a commission is working on this issue. The same is happening in Tunisia. This inequality stems from the traditional view that property and land transmission are expressions of bloodline, which is considered to be primarily through the father's side. As a result, the most important familial link is with the father's side, leading to the practice where a sister receives only half of what her brother receives. It is generally the same for the wife. When the wife becomes a widow, even if she can receive something from her husband, it is usually a smaller portion compared to what the sons or brothers of the husband receive. This highlights the importance of the matrimonial contract. The matrimonial contract provides a way to anticipate and mitigate the risk of the bride having no means of support when she becomes a widow.
+
+The norm is that the wife or sister receives only half of what a man would receive. Additionally, when it comes to witnesses, a woman's testimony is often considered to be worth half that of a man's. This means that if there is one male witness and one female witness, the man's testimony will be given greater weight, with the man's testimony being valued at 2 and the woman's at 1. This is a general principle, but it is not systematically applied in all Muslim countries. Some countries do accept the equal value of testimonies from both men and women.
+
+> In some Islamic countries, a man's testimony is considered more valuable than that of a woman, often based on traditional interpretations of Islamic law. Here are a few examples:
+>
+> 1. **Saudi Arabia**:
+>    - In Saudi Arabia, traditional interpretations of Sharia law hold that the testimony of a man is generally considered equivalent to that of two women in certain legal matters, such as in financial transactions and criminal cases. This is based on the Quranic verse in Surah Al-Baqarah (2:282), which mentions that two women can serve as witnesses if one forgets, the other can remind her.
+>
+> 2. **Iran**:
+>    - In Iran, the legal system also follows the principle that a man's testimony is worth more than a woman's in certain cases. This is particularly evident in criminal cases, where the testimony of two women is often required to counterbalance the testimony of one man.
+>
+> 3. **Pakistan**:
+>    - While Pakistan's legal system is influenced by both Islamic and common law principles, in certain areas of Islamic family law and Hudood Ordinances, the testimony of a man is considered equivalent to that of two women. This applies in cases related to financial transactions and some criminal offenses.
+>
+> 4. **United Arab Emirates (UAE)**:
+>    - In the UAE, particularly in the Sharia courts, the testimony of one man can be considered equal to that of two women in specific cases. This is particularly applicable in financial and certain criminal cases.
+>
+> 5. **Yemen**:
+>    - In Yemen, traditional Sharia law is applied in many aspects of the legal system. Here, the testimony of two women is often required to equal that of one man, especially in cases involving financial transactions and certain types of legal disputes.
+
+#### Contracts for business
+
+In business law, the traditional principle was that both written and oral contracts were accepted. When dealing with oral contracts, proof could be problematic, and witnesses were used to resolve this issue. In some countries, all witnesses are considered equal. However, in other countries, the testimony of a non-Muslim or a woman was traditionally considered unequal compared to that of a man. This principle was prevalent in many Muslim countries. Recent reforms have changed this, as seen in Pakistan, where the testimony of a non-Muslim now holds the same value as that of a Muslim. However, this equality was not recognized for centuries.
+
+### Criminal law in Islamic law system
