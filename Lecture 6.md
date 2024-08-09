@@ -1,4 +1,4 @@
-# Leture 6
+# Lecture 6
 
 ## Different branches of law (continue)
 
