@@ -195,3 +195,85 @@ Traditionally, contracts were not commonly used, which highlights the importance
 It's interesting to observe this difference because, in countries that follow the continental law system, there is a strong emphasis on documentation. This system relies heavily on paper, resulting in a multitude of documents and requirements to submit various forms and proofs. For example, in countries like France or Italy, even a relatively simple legal case may involve an extensive file filled with paperwork. Each party tends to submit numerous documents, hoping that these will support their case and lead to a favorable judgment. Additionally, judges in these systems often request expert opinions or additional evidence, further contributing to the volume of paperwork involved.
 
 If we compare this with the legal systems in Muslim countries, the process is quite different. In these systems, the only substantial documentation produced is the final judgment, with minimal paperwork leading up to it. The burden of proof largely relies on witnesses, and an important element of the Muslim legal system is the use of oaths. When a judge is uncertain about a decision, an oath may be required. For instance, a witness or one of the parties involved may be asked to swear an oath on the Quran. In this context, making a false oath is considered blasphemy, a serious offense that can be severely punished. This is a key distinction in the Islamic legal system, where oaths carry significant weight and are taken very seriously. In contrast, in many other countries, such as France, witnesses are also required to take an oath during criminal trials, pledging to tell the truth, the whole truth, and nothing but the truth. While this is a strict obligation and making a false oath can lead to prosecution and penalties, it is not considered blasphemy. However, in Islamic law, a false oath is seen as a grave offense because it involves swearing on the Quran. As a result, people generally take oaths very seriously, as making a false oath can lead to severe consequences.
+
+> In Islamic law, the process of taking an oath as a witness is a solemn and highly significant act, reflecting the gravity with which the judicial system treats the giving of testimony. Here are the detailed aspects of the oath-taking process in Islamic law:
+>
+> 1. **The Nature of the Oath (Yamin)**:
+>    - The oath, or "Yamin" in Arabic, is a declaration made by a witness invoking the name of Allah, swearing to tell the truth. This is not just a legal formality but a religious obligation, as the witness is made acutely aware that they are under oath before God, who is all-seeing and all-knowing.
+>    - The typical formulation of the oath might be: "I swear by Allah that I will tell the truth." This direct invocation of God emphasizes the religious duty to speak truthfully.
+>
+> 2. **Scriptural Basis**:
+>    - The Quran emphasizes the importance of truthful testimony in several verses. For instance:
+>      - Surah Al-Ma'idah (5:106) states: "O you who have believed, when [the time] death approaches any of you, [appoint] two just men from among you as witnesses when you make bequests; or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer, and let them both swear by Allah if you doubt [their testimony, saying], 'We will not exchange it [i.e., our oath] for a price, even if he should be a near relative, and we will not withhold the testimony of Allah. Indeed, we would then be of the sinful.'"
+>      - Surah Al-Baqarah (2:283) also addresses the importance of witnesses and the integrity required in their testimonies.
+>
+> 3. **Legal and Moral Consequences**:
+>    - **False Oath (Yamin Ghamus)**: Taking a false oath is considered a grievous sin in Islam, known as "Yamin Ghamus," which literally means a "dipping oath," referring to one that plunges the person into sin. The Prophet Muhammad condemned false testimony and false oaths, linking them to severe consequences in the afterlife.
+>    - Islamic jurisprudence categorizes bearing false witness as a major sin (kabirah), and it can lead to both worldly penalties (depending on the legal context) and spiritual repercussions, such as divine punishment.
+>
+> 4. **Contextual Application in Courts**:
+>    - In Islamic courts, the procedure often requires the witness to take an oath before giving their testimony. The judge (qadi) may ask the witness to swear to Allah that they are telling the truth. This is particularly critical in cases where the testimony directly affects the outcome of the case, such as in matters of financial disputes, accusations of serious crimes, or familial issues.
+>    - In some cases, if one party swears an oath and the other party refuses to do so, the judgment may be made in favor of the party that swore the oath.
+>
+> 5. **Cultural Variations**:
+>    - While the basic principles of oath-taking are consistent across Islamic jurisprudence, cultural practices may influence how these oaths are administered in different countries or regions. For instance, in some communities, additional rituals or phrases may be added to the oath to emphasize its seriousness.
+>
+> 6. **Role of the Judge**:
+>    - The judge in Islamic law plays a crucial role in ensuring that the oath is taken seriously. The judge may remind the witness of the religious and legal importance of their testimony and the severe consequences of lying under oath.
+>
+> This detailed framework shows how the oath in Islamic law is deeply intertwined with religious beliefs and judicial practices, underscoring the profound responsibility placed on witnesses to uphold the truth.
+
+## Introduction of the Chinese law system
+
+When discussing the Chinese legal system, my presentation will focus on mainland China, excluding Taiwan, which has a legal system that can sometimes differ. I will specifically address the general legal system in mainland China and will not cover the systems that exist in certain regions. For example, I will not discuss Hong Kong, which, after returning to China from British colonial rule, was granted a special legal system. This system is a blend of the former British-influenced legal framework, particularly in business law, and the legal system of mainland China. The same applies to Macau, which was a Portuguese colony before it returned to China. Both regions have unique legal systems due to their special status. Additionally, I will not cover the specific legal status of certain cities, such as Shanghai, which also has a special legal framework with particular nuances, especially in business law. My focus will be on the general legal system in mainland China.
+
+The Chinese legal system has recently undergone changes with the introduction of a new civil code in January 2021. This new code has been implemented in response to China's expanding international business activities, particularly through the Belt and Road Initiative, which has led to increased economic activities by Chinese companies in various countries. Consequently, the civil code has been adapted to align with these developments.
+
+> The new Chinese Civil Code, which came into effect on January 1, 2021, marks a significant milestone in China's legal system. It is the first comprehensive civil code in the country’s history and consolidates various existing civil laws into a unified code, covering a wide range of areas such as property rights, contracts, torts, marriage and family, inheritance, and personal rights.
+>
+> Key Features of the Civil Code:
+>
+> 1. **Comprehensive Coverage**:
+>    - The Civil Code is divided into seven parts: General Principles, Property, Contracts, Personality Rights, Marriage and Family, Inheritance, and Tort Liability. It integrates and modernizes previous laws, such as the Marriage Law, Inheritance Law, and the General Principles of Civil Law, among others.
+>
+> 2. **Protection of Personality Rights**:
+>    - One of the significant innovations of the Civil Code is the introduction of a dedicated section on personality rights, which includes provisions to protect personal dignity, privacy, and individual image rights. This reflects an increased emphasis on personal rights in response to the growing public concern over privacy and personal data protection.
+>
+> 3. **Marriage and Family**:
+>    - The Civil Code maintains traditional aspects of marriage law but introduces changes, such as the requirement for a 30-day cooling-off period before a divorce can be finalized, aimed at reducing impulsive divorces.
+>
+> 4. **Property Rights**:
+>    - The code strengthens the protection of private property rights, reflecting China's economic evolution towards greater recognition of individual property ownership. It also provides clearer regulations regarding property inheritance and real estate ownership.
+>
+> 5. **Contract and Tort Law**:
+>    - The Civil Code consolidates and expands the rules on contracts and torts, providing a more comprehensive legal framework for civil disputes. It aims to enhance the enforceability of contracts and clarify the legal responsibilities in tort cases.
+>
+> 6. **Social and Economic Reforms**:
+>    - The code supports ongoing social and economic reforms by establishing clearer rules for civil behavior and transactions, aligning with China’s broader goals of legal modernization and the rule of law.
+>
+> Impact and Significance:
+>
+> The enactment of the Civil Code is seen as a crucial step in strengthening the rule of law in China. It provides a more systematic and coherent legal framework for civil matters, which is expected to improve legal certainty and stability in civil relations. The code also reflects China’s evolving social and economic conditions, incorporating modern concepts of rights and responsibilities.
+>
+> The Chinese Civil Code of 2021 represents a major development in China's legal system, aiming to provide a comprehensive legal foundation for civil relations in the modern era.
+
+It is also important to note that the Chinese legal system is inspired by the continental law system, meaning it operates based on written laws. For instance, the legal framework includes various codes that guide legal processes and regulations.
+
+## The sources of Chinese law system
+
+1. Written legislative law
+   - Written legislative law refers to the laws that are passed by the national parliament and enforced by the national government. This is why we can say that China operates under the continental law system, where the written laws enacted by legislative bodies hold primary importance.
+
+2. The interpretation of law by the national judicial court
+   - The second source of law in China is the interpretation of law by the national judicial courts, and the significance of this judicial interpretation is increasing. Historically, during the era of the strict communist system, the Chinese legal framework was primarily based on the laws passed by the legislative body, the parliament. While there was, of course, a judicial system and trials to interpret the law, the role of judges in interpreting and adapting the law was quite limited, as outlined in traditional communist texts globally. However, with the liberalization of the economy in China, the role of judges has become more prominent, similar to what has happened in many other countries. As a result, the importance of judicial interpretation of laws and contracts by judges has also been increasing.
+
+3. Customs
+   - The third source of law in the Chinese continental law system is provided by Article No. 10 of the Civil Code. According to this article, judges can refer to customs to resolve certain cases, but they must adhere to very strict conditions. The first condition is that the custom cannot contradict the principles of public order or fair social behavior. The second condition is that a judge may only refer to customs if the law does not provide a solution to the issue at hand. In other words, if the law is silent on a particular matter, the judge can consider customs, but only if these customs do not violate public order or principles of fair social behavior.
+   - This use of customs is primarily applied in specific areas within the Republic that have a system of home rule, often because minority populations live there. For example, in matters of family law, judges may sometimes refer to local customs. However, this is only permissible if the customs do not conflict with public order or fair social behavior.
+
+4. Specific rules for local minorities
+   - The fourth source of law relates to the fact that in certain local areas where minorities reside, local authorities may be granted permission by national law to adapt specific rules that might otherwise contradict the laws enacted by the national parliament. This is a form of home rule. In such cases, local authorities are required to apply the local customs recognized within their jurisdiction. This essentially means that the third source—customs—is not as significant on its own, because when customs are applied, it is usually through their incorporation into local law by local authorities. The intention behind Article 10 was to allow judges in local areas to apply local customs, especially for minority communities. However, in practice, the local authorities often take on this role by enforcing specific laws for their areas that are inspired by and respectful of local customs. As a result, while the application of specific customs by judges does occur, it is not as common because local authorities have already integrated these customs into the local legal framework.
+
+> Article 10
+>
+> Civil disputes shall be resolved in accordance with law. Where the law does not specify, custom may be applied, provided that public order and good morals may not be offended.
