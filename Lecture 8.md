@@ -141,6 +141,8 @@ One of the characteristics of the Chinese institutional system is its extensive 
 
 ### Political institutions
 
+#### The communist party
+
 You may be surprised to learn that political institutions are not the only significant entities in China's governance. For the first time, among public institutions, we must study the specific role of the Communist Party. This characteristic is common to communist countries in general. As previously discussed, one of the main principles of communist theory is that to create an ideal communist society succeeding the capitalist one, a period of dictatorship is necessary—the dictatorship of the proletariat (working class). To implement this dictatorship, Marx, Lenin, Stalin, and others considered it essential to assert the uniqueness and necessity of the Communist Party. This meant that, within the theoretical framework of communism, freedom of opinion and expression were not permissible, and the existence of multiple political parties was unacceptable. Consequently, in all communist countries, the principle was established that only one party could exist—the Communist Party—since it represented the working class. Other political parties were either dissolved or prohibited. For example, during elections, there was often only one candidate—the candidate of the Communist Party—with no opposition. Occasionally, there might be multiple candidates, but all from the Communist Party. During the period of the USSR, in each electoral district, elections for deputies or members of parliament typically featured only one candidate, who was a member of the Communist Party.
 
 Another characteristic of the Communist Party, which still exists to some extent in China, is the alignment between each level of public administration and the corresponding level within the Party's internal hierarchy. This means that individuals often held dual roles: one as a public servant—for example, as an academic director within a geographical area—and simultaneously holding an equivalent position within the Communist Party. Consequently, the same person would be both a director in the public administration and a corresponding official within the Party's organizational structure. As a result, the Communist Party was not only the sole political party but also deeply intertwined with the state apparatus. Many public servants were also members of the Party hierarchy, which meant that political liberalism was absent. All instruments of power were concentrated in the hands of Party representatives, eliminating the possibility of political pluralism.
@@ -148,3 +150,125 @@ Another characteristic of the Communist Party, which still exists to some extent
 Additionally, there were variations in how strictly the principle of a single Communist Party was applied among different communist countries. In some countries, such as the USSR, Albania, and Romania, the Communist Party was the only legal political party, and the existence of any other parties was prohibited. In contrast, other communist countries, like East Germany, had a slightly different organization. For example, in East Germany, the constitution recognized the leading role of the Communist Party as the representative of the working class. However, alongside the Communist Party, there existed a political organization called the National Front.
 
 Within this National Front, four pre-communist political parties were included as member parties. These parties signed a charter acknowledging the leading role of the Communist Party. They were tolerated as "brother parties" and were required to recognize the supremacy of the Communist Party and share power with it. For instance, in elections, the allocation of parliamentary seats was predetermined: if there were 100 seats, 90 would be allocated to the Communist Party, meaning only Communist Party candidates would fill those seats. The remaining 10 seats were given to these brother parties, each presenting its own candidate in specific constituencies. These candidates represented their respective parties while accepting the leadership of the Communist Party.
+
+In East Germany, among the parties permitted by the Communist Party, there was, for example, the Liberal Democratic Party of Germany. Before the Second World War and the Nazi dictatorship, Germany had liberal parties that defended liberal economic and social principles. These liberal parties were banned by the Nazis. After the war, when Nazism was defeated, the old parties were reestablished. In West Germany, the Free Democratic Party (FDP) was founded; it had representatives and ministers within the liberal democratic political institutions. However, in East Germany, when the Liberal Democratic Party was reestablished, it soon came under the control of the Communist Party. Throughout the decades of the German Democratic Republic, this Liberal Democratic Party existed only because it was a partner of the Communist Party. In reality, this party had no autonomy regarding its political beliefs, objectives, or program. It was merely an element within the communist organization through the National Front. Similarly, the Social Democratic Party was one of the main parties in West Germany and remains so today. However, in East Germany, the Social Democratic Party was effectively absorbed into the Communist Party. There were also two other parties that existed before the war and were reestablished at the time of the creation of the German Democratic Republic.
+
+China has a similar system where the Communist Party plays a central role. The Communist Party is considered the pioneering institution leading the working class and is responsible for guiding the development of socialism in the country. With a population of approximately 1.4 billion inhabitants, the CPC has around 95 million members.
+
+As previously mentioned, there is a hierarchical structure within both the state administration and the Communist Party. At every level of government—from small municipalities to the National People's Congress—public servants and elected representatives hold positions that correspond to roles within the Communist Party's hierarchy. This creates a close connection between the administrative and political levels within the Party, resulting in a dual administration: one by the state through public servants, and one by the Communist Party through its representatives.
+
+In addition to the Communist Party, China also has eight other political parties, referred to as democratic parties. Some of these parties existed during the time of the Republic, before the Communist rise to power in 1949. These eight parties function similarly to the so-called "brother parties" in East Germany, as mentioned earlier. They acknowledge the leading role of the Communist Party and accept the distribution of certain elected positions in coordination with it.
+
+> In addition to the Communist Party of China (CPC), there are **eight other legally recognized political parties** in China. These parties participate in a system known as "multi-party cooperation and political consultation under the leadership of the CPC." While they are not opposition parties in the Western sense, they play a consultative role in governance. Here are the eight parties:
+>
+> 1. **Revolutionary Committee of the Chinese Kuomintang (RCCK)**  
+   *Founded in 1948, the RCCK consists mainly of former members of the Kuomintang (KMT) who remained on the mainland after the Chinese Civil War. It focuses on promoting national reunification and socialist modernization.*
+>
+> 2. **China Democratic League (CDL)**  
+   *Established in 1941, the CDL is composed primarily of intellectuals and academics in the fields of culture, education, and science. It aims to promote democratic principles and social development.*
+>
+> 3. **China Democratic National Construction Association (CDNCA)**  
+>    *Founded in 1945, the CDNCA's membership includes entrepreneurs and professionals in economics and business. The party contributes to economic policy and development strategies.*
+>
+> 4. **China Association for Promoting Democracy (CAPD)**  
+>    *Established in 1945, the CAPD is made up mainly of educators, writers, and workers in the cultural sector. It focuses on educational reform and cultural advancement.*
+>
+> 5. **Chinese Peasants' and Workers' Democratic Party (CPWDP)**  
+>    *Founded in 1930, the CPWDP includes professionals in healthcare, science, and technology. The party emphasizes rural development and public health initiatives.*
+>
+> 6. **China Zhi Gong Party (CZGP)**  
+>    *Established in 1925, the CZGP consists largely of returned overseas Chinese and their relatives. It works to promote the interests of the Chinese diaspora and national unity.*
+>
+> 7. **Jiusan Society**  
+>    *Founded in 1945, the Jiusan Society's members are predominantly scientists and engineers. The party is dedicated to promoting science, technology, and socialist democracy.*
+>
+> 8. **Taiwan Democratic Self-Government League (TDSL)**  
+>    *Established in 1947, the TDSL is composed of Taiwanese living on the mainland. The party advocates for peaceful reunification with Taiwan and represents the interests of Taiwanese compatriots.*
+>
+> These parties participate in the Chinese People's Political Consultative Conference (CPPCC) and have representation in the National People's Congress (NPC). They collaborate with the CPC to contribute to policymaking and national development but do not function as opposition parties.
+
+This arrangement means that the vast majority of seats in the National People's Congress, as well as in local provincial and municipal bodies, are held by candidates from the Communist Party. In most cases, candidates run unopposed, so there is no competition. A small number of seats are allocated to members of these eight democratic parties, but they operate under the premise of accepting the Communist Party's pioneering and leadership role. In practice, these parties do not present significantly different or independent political programs. Their policies largely align with those of the Communist Party, with only minor variations in focus.
+
+> In China's National People's Congress (NPC), the majority of deputies are members of the Communist Party of China (CPC). As of the 14th NPC, which convened in March 2023, there are a total of 2,977 deputies. Approximately 74% of these deputies are CPC members, amounting to around 2,202 individuals.
+
+As a result, there is little true political pluralism in this system. The political landscape is heavily concentrated in the hands of the Communist Party, which remains the dominant political organization in the country.
+
+When we compare this with the situation in Western countries—specifically liberal democracies—we observe that their constitutions typically do not mention specific political parties. In many Western nations, constitutions make no reference to political parties at all. This reflects the liberal conception that political parties are formed by the people as they see fit and can dissolve if they lose popular support. The state is not involved in the establishment or regulation of these parties.
+
+For example, in the United States, the Constitution does not mention political parties. In a liberal system, citizens vote for individuals, and if these individuals are members of political parties, those parties exist as a result of free association. However, these parties have no official status within the Constitution. Political liberalism maintains that matters of public freedom and expression are not within the purview of the state to regulate. Such freedoms are inherent and exist independently of state control.
+
+In some liberal countries, particularly in major European nations like France and Germany, the constitution acknowledges the existence of political parties and affirms their role in shaping policies and participating in elections. For example, Article 4 of the French Constitution states that political parties are freely established and may participate in elections and governance. The only limitation for political parties in France is that, to be legal, they must respect the principles enshrined in the Constitution and adhere to public order. This means that one cannot create a political party that seeks to undermine democracy or the Constitution itself.
+
+Similarly, in Germany, there is general freedom to establish political parties, but it is prohibited to form parties that do not respect the constitutional framework and fundamental principles, such as equality and individual liberties protected by the Constitution. However, in these cases, the Constitution does not designate any specific party as the primary or official party, nor does it endorse a party as the leader of the working class or any other singular focus.
+
+In liberal countries, political parties are sometimes not explicitly mentioned in the Constitution because they are considered a matter of individual freedom rather than state control. In other instances, the Constitution provides a general framework regarding the constitutional status of political parties, requiring them to respect constitutional principles and general freedoms, but it does not protect or favor the existence of any particular party.
+
+In contrast to liberal countries, communist nations like China explicitly recognize in their constitutions the specific roles attributed to an official party—the Communist Party—which maintains close ties with the government and administration. The constitution may also acknowledge the existence of other parties that are affiliated with the Communist Party.
+
+Historically, in countries like East Germany and presently in China, these smaller political parties exist solely because the Communist Party permits their existence. In both cases, it is not possible for individuals to independently establish new political parties. China has eight such parties, most of which were established during the Republic before the revolution of 1949. These parties continued to exist because the Communist Party allowed them to, on the condition that they accepted control by and collaboration with the Communist Party. Consequently, it is entirely out of the question for someone to declare an intention to create a new party or for groups to form a party with specific aims, such as advocating for the rule of law, protecting public freedoms, or defending minority rights. This is not permissible. Individuals can only be members of parties that are recognized by the constitution or by law, all under the supervision of the Communist Party.
+
+Thus, in this regard, the organizational structure is entirely different from that which exists in liberal countries. However, this is not unique to China; rather, China is applying the same system that existed in other communist countries, such as the former USSR, East Germany, Poland, and others. Consequently, there is very strict control over freedom of opinion and freedom of speech, enforced through the specific role attributed to the Communist Party.
+
+#### The national parliament
+
+The national parliament is called the **National People's Congress** (NPC), which is the official name. Members of the NPC are elected for five-year terms. The vast majority of representatives are members of the Communist Party, while some are members of one of the eight other parties previously mentioned. In the different provinces, there are equivalents of the National People's Congress known as **local people's congresses**. These bodies are elected under similar conditions and are responsible for the administration of their respective areas, such as provinces, autonomous regions, and municipalities.
+
+The National People's Congress holds legislative power in China, meaning that all laws are enacted by this body. The NPC also possesses constitutional authority; when it is necessary to amend the Constitution, the NPC undertakes this responsibility. Thus, the National People's Congress serves as both a legislative assembly and a constitutional assembly when constitutional revisions are required. Additionally, the NPC is responsible for appointing the highest state authorities, including the President of the People's Republic of China, the Vice President, the Premier of the State Council, the Vice Premiers, the President of the Supreme People's Court, and the Procurator-General of the Supreme People's Procuratorate. However, in practice, these nominations are significantly influenced by the Communist Party of China, which effectively oversees the selection process.
+
+Laws, constitutional reforms, the budget, and the appointment of high-level leaders are all formally voted on by the Parliament, which is elected by the people. However, in reality, the concrete decisions—such as who will be President or Prime Minister—are actually made within the Communist Party. This is because the Party serves as the pioneering and leading force of the working class. Furthermore, there is a corresponding hierarchical structure between the administrative or institutional levels and the levels within the Communist Party. Therefore, there is an appearance and a reality: the appearance is that we have a Parliament elected by the people that votes on legislation and appointments, and this is formally true. But in reality, political choices are made by the highest levels of the Party leadership. This was also the case in all other communist countries.
+
+This phenomenon is not unique to the Chinese system; rather, it is linked to the coexistence in China today of, on one hand, a political and administrative organization that is still inspired by the communist conception of state and administration, and on the other hand, a legal system—particularly in the areas of international trade and economy—that is more economically liberal and connected with the forces of globalization and international competition. This is the main characteristic of China today. From an economic or business perspective, China is a very liberal country, even though there is still some state control. Furthermore, the conception of the economy and the legal instruments employed align with the general movement of globalization. During the period of strict communism, there were no private enterprises; only public entities existed. Nowadays, while state-owned enterprises still exist, there are many private companies that have achieved significant success both domestically and internationally. However, it is also true that China's political and administrative organizations continue to function according to the general concepts of Marxism and communist ideology. This duality is truly the defining characteristic of China.
+
+Within the Parliament exists a body known as the **Standing Committee**. We discussed this Standing Committee before the break. This committee is responsible for interpreting the Constitution and laws, as previously noted. Additionally, it functions similarly to a constitutional council. If there is a question concerning the constitutionality of a law, this committee conducts the review. This method was common in many countries before the Second World War; since then, constitutional courts have become more prevalent. In China, it is the Parliament that exercises control over the constitutionality of laws. This is rare nowadays but was a frequent practice for several decades before the Second World War. Moreover, the Standing Committee also performs oversight functions, such as supervising the judicial administration.
+
+Finally, within the Parliament, there are ten special committees. These committees are groups of representatives responsible for examining specific subjects. For example, there is a Committee on Financial and Economic Affairs, a Committee on Constitutional and Legal Affairs, a Committee on Foreign Affairs, among others. Members of these committees work together to prepare and review legislative proposals before they are debated in the main chamber of the Parliament. These committees also maintain communication with various ministers. For instance, the Financial and Economic Affairs Committee maintains regular contact with the Ministry of Finance. This enables the Minister of Finance and officials from the ministry to communicate with Parliament by providing documents, explaining policy details, engaging in discussions, and promoting legislative developments. Similar interactions occur within all of the committees.
+
+> The **National People's Congress (NPC)** of China, the country's highest legislative body, has **ten special committees** that play crucial roles in the legislative process. These committees are responsible for drafting laws, reviewing legislation, and overseeing various aspects of national policy. They are re-established every five years during the first session of a new NPC. Below is a list of the ten special committees and information about when they were established:
+>
+> 1. **Constitution and Law Committee**
+>    - **Established:** Originally founded as the Legislative Affairs Committee in 1983 during the 6th NPC. It was reorganized and renamed the Constitution and Law Committee in **March 2018** during the 13th NPC.
+>    - **Function:** Responsible for constitutional matters and legal affairs, including reviewing draft laws to ensure they comply with the Constitution.
+>
+> 2. **Ethnic Affairs Committee**
+>    - **Established:** **1983**, during the 6th NPC.
+>    - **Function:** Handles legislation and policies related to China's ethnic minorities, promoting ethnic unity and equality.
+>
+> 3. **Internal and Judicial Affairs Committee**
+>    - **Established:** **1983**, during the 6th NPC.
+>    - **Function:** Oversees internal security, judicial reforms, law enforcement, and civil affairs.
+>
+> 4. **Financial and Economic Affairs Committee**
+>    - **Established:** **1983**, during the 6th NPC.
+>    - **Function:** Focuses on economic policies, financial legislation, state budgets, and economic development plans.
+>
+> 5. **Education, Science, Culture, and Public Health Committee**
+>    - **Established:** **1983**, during the 6th NPC.
+>    - **Function:** Deals with legislation related to education, science and technology, culture, public health, and sports.
+>
+> 6. **Foreign Affairs Committee**
+>    - **Established:** **1983**, during the 6th NPC.
+>    - **Function:** Manages foreign policy legislation and international relations, including treaties and diplomatic matters.
+>
+> 7. **Overseas Chinese Affairs Committee**
+>    - **Established:** **1983**, during the 6th NPC.
+>    - **Function:** Addresses issues concerning overseas Chinese nationals, including their rights and contributions to national development.
+>
+> 8. **Environment Protection and Resources Conservation Committee**
+>    - **Established:** **1993**, during the 8th NPC.
+>    - **Function:** Responsible for environmental legislation, resource conservation, and sustainable development initiatives.
+>
+> 9. **Agriculture and Rural Affairs Committee**
+>    - **Established:** **March 2018**, during the 13th NPC.
+>    - **Function:** Focuses on agricultural policies, rural development, and farmers' welfare.
+>
+> 10. **Social Development Affairs Committee**
+>     - **Established:** **March 2018**, during the 13th NPC.
+>     - **Function:** Handles legislation related to social development, public services, employment, and social security.
+>
+> **Background on Establishment:**
+>
+> - The first **six committees** were established in **1983** to enhance the NPC's legislative efficiency and address specific areas of governance.
+> - The **Environment Protection and Resources Conservation Committee** was added in **1993** in response to growing environmental concerns.
+> - In **March 2018**, during the **13th NPC**, two new committees were formed—the **Agriculture and Rural Affairs Committee** and the **Social Development Affairs Committee**—to address emerging national priorities. Additionally, the **Legislative Affairs Committee** was reorganized into the **Constitution and Law Committee** to strengthen constitutional oversight.
+>
+> These special committees are integral to China's legislative process, providing expertise and focused deliberation on complex issues. They are reconstructed every five years to coincide with the term of the NPC deputies, ensuring that they reflect the current legislative agenda and national priorities.
