@@ -64,7 +64,7 @@ Procedural and Substantive Law are two branches of law which can not function in
 
 Substantive Law can be described as a body of rules which sets out the rights and obligations of members of society. On the other hand, Procedural Law encompasses legal rules to enforce and defend such rights and obligations. For instance, it is a substantive law that defines murder as a criminal offence. Meanwhile, the Procedural Law describes the way the arrests have to be made, witnesses are questioned and evidences are collected.
 
-#### Civil Law and Civil Procedure versus Criminal Law and Criminal Procedure
+### Civil Law and Civil Procedure versus Criminal Law and Criminal Procedure
 
 Civil Law is a form of private law and involves the relationships between individual citizens The Civil law attempts to resolve disagreements between individuals or organizations and to provide remedies. It should be emphasized that unlike criminal law, the civil law does not intend to punish the offender. Contract disputes, property disputes, divorce cases, child custody and other private matters are the issues regulated by Civil Law.
 
@@ -76,7 +76,7 @@ The prosecutor prepares evidences and charges against the accused criminal. Ther
 
 In fact, the offence might be criminal and civil violation at the same time. For example, in case of car accident when there is an injured person, the driver is subject to criminal as well as civil procedure.
 
-#### Civil procedure in Common and Continental Legal Systems
+### Civil procedure in Common and Continental Legal Systems
 
 The significant differences in civil procedure of Common and Continental Legal Systems are stipulated mainly by the adherence either to the so-called “inquisitorial” or “adversarial” systems. Despite the fact that there have been a lot of borrowings recently in both systems, “inquisitorial” tradition is broadly defined as a prerogative of Continental Law trials, whereas Common Law trials follow “adversarial” system.
 
@@ -233,7 +233,7 @@ A civil case trial in a civil law system is distinct from that in common law jur
 >
 > A civil case trial in a civil law system is characterized by an active judicial role, a focus on written evidence, and a less adversarial atmosphere. The judge directs the proceedings to uncover the truth, applying codified laws to reach a decision. This approach aims to enhance efficiency, reduce litigation costs, and provide a predictable legal environment.
 
-#### Criminal procedure in Common and Continental Legal Systems
+### Criminal procedure in Common and Continental Legal Systems
 
 A lot of differences in civil procedure of Common and Continental Legal Systems discussed above can be applied to criminal procedure as well. The explanation beyond this is what tradition, adversarial or inquisitorial, the Legal System follows. For example, the role of impartial referee assigned to the judge in common civil procedure is the same for judge in common criminal procedure. Alternatively, in both continental civil and criminal cases the judge acts as an inquisitor. Moreover, the witness testimony in criminal procedure of both legal systems follows the same pattern as in civil procedure. However, there are some distinctive differences which uniquely determine criminal procedure in Common and Continental Legal Systems.
 
@@ -318,5 +318,7 @@ Finally, it is wrongly believed that there are no concepts of jury trial and pre
 > **Conclusion**
 >
 > In criminal cases within civil law systems, lay advisers serve as an integral part of the judicial panel, working alongside professional judges to decide cases. They replace the traditional jury found in common law systems, providing a means for public participation and helping to ground legal decisions in community values. While they share in the decision-making process, their verdicts are part of a collective outcome and not solely determinative. This system upholds principles like the presumption of innocence and seeks to balance legal expertise with societal input, ensuring fair and transparent judicial proceedings.
+
+### Conclusion
 
 In conclusion, I would like to say that as our world tends to move toward globalization the borders between Continental and Common Law Legal systems, and as a result, between procedures of those systems become feebly marked. As an example, Continental Legal System has started to rely more on previous cases whereas a lot of importance is attached to statutes in modern common law countries. Base themselves upon that fact, a lot of legal scholars speak out in support of convergence theory which suggests a creation of single legislation for all countries throughout the world. Will this theory ever become a reality? Time will show. However, to my point of view, before it becomes possible we have to reach the convergence of cultures, ideologies, moral values and political attitudes.
