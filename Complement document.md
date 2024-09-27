@@ -322,3 +322,109 @@ Finally, it is wrongly believed that there are no concepts of jury trial and pre
 ### Conclusion
 
 In conclusion, I would like to say that as our world tends to move toward globalization the borders between Continental and Common Law Legal systems, and as a result, between procedures of those systems become feebly marked. As an example, Continental Legal System has started to rely more on previous cases whereas a lot of importance is attached to statutes in modern common law countries. Base themselves upon that fact, a lot of legal scholars speak out in support of convergence theory which suggests a creation of single legislation for all countries throughout the world. Will this theory ever become a reality? Time will show. However, to my point of view, before it becomes possible we have to reach the convergence of cultures, ideologies, moral values and political attitudes.
+
+## Common law system
+
+### Comparisons of modern English, American, and Commonwealth law
+
+The legal systems rooted in the English common law have diverged from their parent system so greatly over time that, in many areas, the legal approaches of common-law countries differ as much from one another as they do from civil-law countries. Indeed, England and the United States have so many legal differences that they are sometimes described as “two countries separated by a common law.” The most striking differences are found in the area of public law. England has no written constitution and restricts judicial review, whereas every court in the United States possesses the power to pass judgment on the conformity of legislation and on other official actions to constitutional norms. Throughout the 20th century and beyond, many areas of U.S. law were “constitutionalized” by the increasing exercise of judicial power. Other factors that account for much of the distinctiveness of public law in the United States include its complex federal system and its presidential, rather than parliamentary, form of government. In the area of private law, however, family resemblances between the common-law systems are much greater. Yet even there, despite broad basic similarities, the common-law countries have developed distinctive variations over time.
+
+### Personal law
+
+The law of personal status (nationality, capacity, domicile, etc.) has been transformed by the advancement of the principle of equality of the sexes. In the area of divorce law, the intense legislative activity of the 1960s and ’70s left most common-law countries with systems of “mixed grounds” for divorce. One can obtain a divorce based upon the fault of the other spouse or upon some no-fault ground, such as separation or breakdown of the marriage. Some American states have eliminated fault grounds entirely. The major differences between common-law systems appear in the legal treatment of the economic consequences of divorce. Most common-law countries follow the English model that permits judges to use their own discretion in reallocating the property and income of the spouses in a way that seems fair, whereas some American states adhere to the principle of equal rather than discretionary division of assets. Following the Supreme Court’s decision in *Obergefell v. Hodges* (2015), same-sex marriages became legal in the United States. Same-sex marriages were legalized in England and Wales in 2013 and in Scotland in 2014.
+
+### Property and succession
+
+The basic principles of property and succession are much the same everywhere, but the newer countries have special laws on forests, mines, and water rights. In Australia, for example, the crown reserves all mineral rights to itself. The transfer of land in England is governed by a system of title registration. In Canada and the United States, the separate deeds are recorded and title insurance is widely used to protect the purchaser. In England since the 1960s, there has been a significant development of the law relating to restitution, the right to recover property mistakenly transferred to another. Owing nothing to statute and much to the writings of academic lawyers, this demonstrates the continued liveliness of the common-law tradition of decision-based legal development.
+
+Succession on intestacy is broadly similar throughout common-law countries but varies everywhere in detail. The widow, for example, may get more in one country and the children more in another. All children of both sexes generally take equal shares. In regard to intestate succession, nearly all American states protect the surviving spouse against disinheritance by securing to him or her a fixed indefeasible share of the decedent’s estate. In England and most Commonwealth countries, however, not only the spouse but also children and certain other dependents of the deceased are permitted to petition the court for discretionary financial provision out of an estate if, in the judgment of the court, the testator did not make reasonable provision for them.
+
+> **Succession on intestacy** is the legal process that determines how a deceased person's estate is distributed when they die **without a valid will**. In such cases, the estate is divided according to the laws of intestate succession, which vary by jurisdiction but generally prioritize close relatives. Typically, assets are allocated to the surviving spouse, children, parents, siblings, or more distant relatives in a specific order defined by statute. This means the deceased's personal wishes are not considered, and the estate is distributed based on the legal hierarchy established by the state or country.
+
+In most American states and some Canadian provinces, there are homestead laws, which protect the family house or a certain minimum sum of money from the claims of creditors.
+
+> **Homestead laws** are statutes designed to protect a homeowner's primary residence from certain types of creditors, property taxes, and circumstances like the death of a spouse. These laws provide financial safeguards by:
+>
+> 1. **Exempting a Portion of Home Equity**: They allow homeowners to exempt a specific amount of their home's value from claims by unsecured creditors, reducing the risk of losing their homes due to debt.
+>
+> 2. **Offering Property Tax Relief**: Some homestead laws include tax exemptions that lower property taxes for eligible homeowners, such as seniors, veterans, or those with disabilities.
+>
+> 3. **Protecting Surviving Family Members**: They ensure that a spouse or minor children can continue to live in the family home after the death of the homeowner, preventing forced sales.
+>
+> **Key Points:**
+>
+> - **Variation by Jurisdiction**: Homestead laws differ significantly between countries and even among states within the U.S., with varying exemption amounts and eligibility criteria.
+>
+> - **Automatic or Application Required**: In some places, homestead protection is automatic upon purchasing a home, while in others, homeowners must file a declaration to receive the benefits.
+>
+> - **Limitations**: Homestead exemptions typically do not protect against all creditors (e.g., mortgages, taxes, or mechanic's liens) and have limits on the amount of equity protected.
+>
+> **Example**:
+>
+> - **Texas**: Offers one of the most generous homestead protections in the U.S., allowing homeowners to exempt the entire value of their primary residence from most creditors.
+>
+> **Purpose**:
+>
+> Homestead laws aim to promote family stability, encourage homeownership, and provide a safety net that prevents individuals from becoming homeless due to economic hardship or the death of a family member.
+
+### Tort law
+
+Tort law (i.e., the law relating to private civil wrongs) is largely common law, as opposed to statute-based law, in England, Canada, and the United States. Several major reforms have been introduced along the same lines in different countries. Allowing claims by dependents of persons tortuously killed and removing the immunity of the crown or government or charitable institutions from tort claims provide examples. The liability of manufacturers to the ultimate consumer was first laid down by U.S. and then by English judges. After a slow start (compared with Europe), the protection of employees proceeded apace in the United States in the second half of the 20th century so as to cover almost any accident occasioned in the workplace, however unrelated to the employer’s business or fault. In the wider world also, the growth of insurance subtly affected tort law by shifting liability to those most able to pay for coverage.
+
+In the field of libel, U.S. practice is less strict than the English. In the United States public figures cannot sue for honest but unfair and untrue criticisms of their activities, whereas in England published facts must be true and comments fair. In some Australian states truth is not necessarily a defense to an action.
+
+A notable U.S. tort is interference with privacy. Examples include a stranger’s using one’s photograph for advertising without permission, using electronic eavesdropping in one’s home or searching it, or taking photographs of persons in embarrassing situations. In England privacy is still seen as related to commercial considerations; it is possible to buy privacy but not to enjoy it as a right.
+
+### Contracts
+
+Contract law is basically similar in the common-law countries. The most interesting difference relates to the question of enforcement of contracts by third parties who are not actually parties to the contract but are persons for whose benefit the contract was made. English law excludes such rights, except in an occasional statute. The Indian Contract Code of 1872 generally allows it, as does U.S. state law. In all countries, legislation now protects consumers against the power of large commercial corporations and regulates the operation of credit transactions.
+
+English law has largely repealed the laws requiring written evidence of ordinary contracts, sometimes to the surprise of consumers. Written evidence is often called for in the United States.
+
+The various areas of special contracts, such as those applying to employment, sale of land, and agency, are broadly similar everywhere but are regulated by local legislation and by a wealth of labour legislation.
+
+### Criminal law and procedure
+
+In regard to criminal law, the substance of the law is much the same throughout the common-law countries. In both the United Kingdom and the United States, the 20th century was a period during which it was thought that undesirable behaviour could be eliminated by rigorous law enforcement. In the early part of the century, this led to the criminalization of much personal behaviour—including some sexual practices, gambling, and the use of alcohol and drugs—that was previously beyond the reach of the law, the most noteworthy example being the prohibition of alcoholic beverages in the United States from 1919 to 1933. At the beginning of the 21st century, some such behaviours were being treated as medical or psychological problems rather than as criminal ones.
+
+The death penalty, which had been slowly removed in most U.S. states since the end of the 19th century, was revived during the 1970s after the Supreme Court ruled its use constitutional. Capital punishment was eliminated in the United Kingdom in 1965.
+
+More important differences appear in the rules of criminal procedure. In England, this rests on modern legislation. Accused persons may now testify at the trial or not, as they wish; they are entitled to legal counsel; and they are assisted out of public funds when they are accused of serious crimes and are unable to afford to pay the costs themselves.
+
+Canada has a Dominion Criminal Code, which covers major crimes. It also has a Canadian Bill of Rights and provincial laws, such as the Ontario Human Rights Code. India has an overriding Bill of Rights.
+
+In the United States criminal procedure has become a constitutional matter, with a kind of federal common law of criminal procedure overriding state law in many instances. Thus, due process of law under the Fourteenth Amendment to the federal Constitution and the Federal Rules of Criminal Procedure confer protection on accused persons.
+
+English courts are reluctant to admit recordings of private conversations unless supported by direct evidence of persons present, and this is generally the position taken in the United States, although emergency wiretapping and other electronic monitoring are permitted with the permission of a court or in some cases involving national security. The USA PATRIOT Act (2001) and subsequent reauthorizations significantly expanded the search and surveillance powers of law-enforcement agencies in the United States to include limited monitoring of telephone and electronic communications without probable cause (a showing of facts that would lead a reasonable person to believe that the surveillance would likely uncover evidence of criminal activity). English and U.S. law generally exclude confessions unless they are made freely and spontaneously. If evidence is found by unlawful means—such as by searching a house without a warrant—English law permits such evidence to be used, but U.S. law generally does not, though significant exceptions were created by the Supreme Court from the late 20th century. The main difference between English and U.S. safeguards is that English protections rest on statute or case law and may be changed by ordinary statute, whereas U.S. safeguards are constitutional and cannot be relaxed unless the Supreme Court later reverses its interpretation or the Constitution is amended.
+
+### The future of the common law
+
+In the past, the law performed the function of a referee in a free economy and was called in to apply generally accepted ideas of right and wrong to individual disputes. Today, law often forms an instrument of governmental policy or results from social pressures on the government. Law, therefore, is increasingly administrative.
+
+Another tendency, and one that is likely to be reinforced, is an increasing reliance on statute law and codification as instruments of legal development. At one time the English Law Commission considered drafting a contract code, and the law of tort has been the subject of several statutes. When the United Kingdom entered the European Economic Community, it was thought that there might be pressures to make English law more accessible by codifying it along the lines of the continental model. Harmonization of the laws of the member states, however, did not require this, and Britain’s withdrawal from the EU in 2020 made the point moot. The introduction of human rights as a basic element in the domestic law of the United Kingdom has brought about change, as has the growth of international tribunals. In the United States the legal sovereignty of the states impedes such a radical change, but uniform state laws are becoming more common.
+
+In view of the general tendency in modern society of shielding the individual as fully as possible from the consequences of chance accidents, the judge-made law of tort may eventually be replaced, as it was for a time in New Zealand, by a comprehensive system of official or private insurance similar to the present compulsory third-party risk insurance available for motor vehicles. The New Zealand experience, however, suggests that this is an expensive alternative. Public law is also gaining on private law in other fields—in real-property development, for example, public zoning or urban planning rules are already more important than the traditional restrictions imposed by individual neighbouring landowners. Public-welfare laws on child care and adoption, pensions, and social security are often more important than the older private law based on the rights of spouses and children.
+
+English and American law can still be recognized as partners sharing a common root in the common law before the 18th century. But they are increasingly diverging, and English law, with or without the European Union, now shows much more specific similarities to the law in other countries of continental Europe than would hitherto have been admitted.
+
+### Example of anglo-saxon system:  Miranda v. Arizona (June 13, 1966)
+
+#### Facts
+
+The Supreme Court’s decision in Miranda v. Arizona addressed four different cases involving custodial interrogations. In each of these cases, the defendant was questioned by police officers, detectives, or a prosecuting attorney in a room in which he was cut off from the outside world. In none of these cases was the defendant given a full and effective warning of his rights at the outset of the interrogation process. In all the cases, the questioning elicited oral admissions and, in three of them, signed statements that were admitted at trial.
+
+- Miranda v. Arizona: Miranda was arrested at his home and taken in custody to a police station where he was identified by the complaining witness. He was then interrogated by two police officers for two hours, which resulted in a signed, written confession. At trial, the oral and written confessions were presented to the jury. Miranda was found guilty of kidnapping and rape and was sentenced to 20-30 years imprisonment on each count. On appeal, the Supreme Court of Arizona held that Miranda’s constitutional rights were not violated in obtaining the confession.
+
+#### Issues
+
+Whether “statements obtained from an individual who is subjected to custodial police interrogation” are admissible against him in a criminal trial and whether “procedures which assure that the individual is accorded his privilege under the Fifth Amendment to the Constitution not to be compelled to incriminate himself” are necessary.
+
+#### Supreme Court holding
+
+The Court held that “there can be no doubt that the Fifth Amendment privilege is available outside of criminal court proceedings and serves to protect persons in all settings in which their freedom of action is curtailed in any significant way from being compelled to incriminate themselves.” As such, “the prosecution may not use statements, whether exculpatory or inculpatory, stemming from custodial interrogation of the defendant unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination. By custodial interrogation, we mean questioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of his freedom of action in any significant way.”
+
+The Court further held that “without proper safeguards the process of in-custody interrogation of persons suspected or accused of crime contains inherently compelling pressures which work to undermine the individual’s will to resist and to compel him to speak where he would otherwise do so freely.” Therefore, a defendant “must be warned prior to any questioning that he has the right to remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney, and that if he cannot afford an attorney one will be appointed for him prior to any questioning if he so desires.”
+
+The Supreme Court reversed the judgment of the Supreme Court of Arizona in Miranda, reversed the judgment of the New York Court of Appeals in Vignera, reversed the judgment of the Court of Appeals for the Ninth Circuit in Westover, and affirmed the judgment of the Supreme Court of California in Stewart.
+
+Miranda v. Arizona: After Miranda’s conviction was overturned by the Supreme Court, the State of Arizona retried him. At the second trial, Miranda’s confession was not introduced into evidence. Miranda was once again convicted and sentenced to 20-30 years in prison.
