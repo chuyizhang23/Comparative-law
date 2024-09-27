@@ -428,3 +428,14 @@ The Court further held that “without proper safeguards the process of in-custo
 The Supreme Court reversed the judgment of the Supreme Court of Arizona in Miranda, reversed the judgment of the New York Court of Appeals in Vignera, reversed the judgment of the Court of Appeals for the Ninth Circuit in Westover, and affirmed the judgment of the Supreme Court of California in Stewart.
 
 Miranda v. Arizona: After Miranda’s conviction was overturned by the Supreme Court, the State of Arizona retried him. At the second trial, Miranda’s confession was not introduced into evidence. Miranda was once again convicted and sentenced to 20-30 years in prison.
+
+## Chinese law system
+
+China’s laws and regulations can be divided into four levels in terms of effectiveness in a descending hierarchy:
+
+1. The Constitution;
+2. Laws;
+3. Administrative regulations, judicial interpretation, military regulations;
+4. Local laws and regulations, departmental regulations.
+
+![Chinese Legal System](Images/chinese_legal_system.jpg "Chinese Legal System")
