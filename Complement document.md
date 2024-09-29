@@ -439,3 +439,75 @@ China’s laws and regulations can be divided into four levels in terms of effec
 4. Local laws and regulations, departmental regulations.
 
 ![Chinese Legal System](Images/chinese_legal_system.jpg "Chinese Legal System")
+
+### What’s the Chinese legal system?
+
+According to China’s Constitution and the Legislation Law, the effectiveness levels (from high to low) and the authorities enacting the above laws and regulations are as follows:
+
+- Level 1:
+
+  The Constitution, formulated by the National People’s Congress (NPC), prevails over all other laws and regulations.
+
+- Level 2:
+
+  The Laws are formulated by the NPC (basic laws) and its Standing Committee (general laws).
+
+- Level 3:
+
+  1. Administrative regulations are formulated by the State Council (i.e., the central government).
+  2. Judicial interpretations (see above) are formulated by the Supreme People’s Court (SPC) and the Supreme People’s Procuratorate (SPP).
+  3. Military regulations are formulated by the Central Military Commission (CMC).
+
+- Level 4:
+
+  1. Local laws and regulations are formulated by the Provincial People’s Congress and its Standing Committee, with the effect covering the areas under its jurisdiction;
+  2. Departmental regulations are formulated by the departments directly under the State Council, with the effect covering the national matters falling within their functions and powers.
+
+### Legislation
+
+The Legislation Law was promulgated in 2000 and amended in 2015 respectively. The latest revision entered into force on March 15, 2015.
+
+There are 105 articles in total.
+
+The key points are as follows:
+
+1. This Law shall apply to the enactment, amendment, and repeal of laws, administrative regulations, local regulations, autonomous regulations, and separate regulations.
+
+2. The National People’s Congress and its Standing Committee shall exercise the legislative power of the State.
+
+3. The National People’s Congress shall enact and amend the basic laws on criminal matters, civil matters, and state authorities, among others.
+
+4. The Standing Committee of the National People’s Congress shall enact and amend laws other than those developed by the National People’s Congress.
+
+5. The State Council shall enact administrative regulations in accordance with the Constitution and laws. The following matters may be governed by administrative regulations:
+
+   1. matters requiring the development of administrative regulations to implement the provisions of laws;
+   2. matters within the administrative functions and powers of the State Council as set out in Article 89 of the Constitution.
+
+6. The people’s congress and its standing committee of a province, autonomous region, or municipality directly under the Central Government may, according to the specific circumstances and actual needs of the administrative region, enact local regulations, provided that such regulations do not contravene the Constitution, laws, and administrative regulations.
+
+7. The ministries and commissions of the State Council, the People’s Bank of China, the State Audit Administration, and other divisions with administrative functions directly under the State Council may, in accordance with the laws and the administrative regulations, decisions, and orders of the State Council, enact rules within their respective power.
+
+8. The hierarchy of legal effects:
+
+   1. The Constitution shall have the supreme legal effect;
+   2. the effect of laws shall be higher than that of administrative regulations, local regulations, and rules;
+   3. the effect of administrative regulations shall be higher than that of local regulations and rules;
+   4. the effect of local regulations shall be higher than that of the rules of local governments at the same level and at a lower level;
+   5. the effect of the rules enacted by the people’s government of a province or autonomous region is higher than that of the rules enacted by the people’s government of a districted city or an autonomous prefecture within the administrative region of the province or autonomous region;
+   6. the rules of different departments of the State Council shall be equally effective;
+   7. the laws, administrative regulations, local regulations, autonomous regulations, separate regulations, and rules shall not be retroactive, except for the special provisions developed for the better protection of the rights and interests of citizens, legal persons, and other organizations.
+
+### Judicial interpretation
+
+Judicial interpretation is a series of binding rules formulated by the Supreme People’s Court (SPC) and the Supreme People’s Procuratorate (SPP).
+
+Judicial interpretation is the official interpretation made by the SPC and the SPP on the application of certain laws, and, therefore, has legal binding force.
+
+The power of the SPC and the SPP to formulate judicial interpretation derives from the provisions of China’s Legislation Law (立法法). According to the Legislation Law, the judicial interpretation of the SPC and the SPP should be made for specific legal provisions, and it should conform to the legislative purpose, principle and original intention of the legal provisions in question.
+
+In order to make it clear how to formulate judicial interpretation, the SPC promulgated the Provisions of the Supreme People’s Court on Judicial Interpretation (最高人民法院关于司法解释工作的规定) in 2007. Likewise, the SPP also promulgated the Provisions of the Supreme People’s Procuratorate on Judicial Interpretation (最高人民检察院司法解释工作规定) in 2006, as amended in 2015 and 2019.
+
+The SPC’s judicial interpretation covers matters in civil and commercial law, criminal law and administrative law, while the SPP’s judicial interpretation mainly focuses on criminal cases. As for foreign parties, civil and commercial disputes are of their utmost concern in their contacts with China, so we will mainly introduce how the SPC formulate the judicial interpretation.
+
+In addition, it should be noted that once the SPC’s judicial interpretation being implemented, all courts nationwide are bound by it. If a court makes a judgment based on the judicial interpretation, it shall invoke the judicial interpretation in the judgment.
