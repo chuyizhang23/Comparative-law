@@ -511,3 +511,245 @@ In order to make it clear how to formulate judicial interpretation, the SPC prom
 The SPC’s judicial interpretation covers matters in civil and commercial law, criminal law and administrative law, while the SPP’s judicial interpretation mainly focuses on criminal cases. As for foreign parties, civil and commercial disputes are of their utmost concern in their contacts with China, so we will mainly introduce how the SPC formulate the judicial interpretation.
 
 In addition, it should be noted that once the SPC’s judicial interpretation being implemented, all courts nationwide are bound by it. If a court makes a judgment based on the judicial interpretation, it shall invoke the judicial interpretation in the judgment.
+
+## Islamic law system
+
+**Sharia**, the fundamental religious concept of Islam—namely, its law.
+
+The religious law of Islam is seen as the expression of God’s command for Muslims and, in application, constitutes a system of duties that are incumbent upon all Muslims by virtue of their religious belief. Known as the sharīʿah (literally, “path leading to the watering place”), the law represents a divinely ordained path of conduct that guides Muslims toward a practical expression of religious conviction in this world and the goal of divine favour in the world to come.
+
+### Nature and significance of Islamic law
+
+In classical form, the sharia differs from Western systems of law in two principal respects. In the first place, the scope of the sharia is much wider, since it regulates the individual’s relationship not only with neighbours and with the state, which is the limit of most other legal systems, but also with God and with the individual’s own conscience. Ritual practices—such as the daily prayers (ṣalāt), almsgiving (zakāt), fasting (ṣawm), and pilgrimage (hajj)—are an integral part of sharia law and usually occupy the first chapters in legal manuals. The sharia is concerned as much with ethical standards as with legal rules, indicating not only what an individual is entitled or bound to do in law but also what one ought, in conscience, to do or to refrain from doing. Accordingly, certain acts are classified as praiseworthy (mandūb), which means that their performance brings divine favour and their omission divine disfavour, and others as blameworthy (makrūh), which has the opposite implications. However, in neither case is there any legal sanction of punishment or reward, nullity or validity. The sharia is thus not merely a system of law but also a comprehensive code of behaviour that embraces both private and public activities.
+
+The second major distinction between the sharia and Western legal systems is a consequence of the Islamic concept of the law as the expression of the divine will. With the death of the Prophet Muhammad in 632, direct communication of the divine will to human beings ceased, and the terms of the divine revelation were henceforth fixed and immutable. The overall image of the sharia is thus one of unchanging continuity, an impression that generally holds true for some areas of the law, such as ritual law. However, revelation can be interpreted in varying ways, and, over time, the diversity of possible interpretations has produced a wide array of positions on almost every point of law. In the premodern period the ʿulamāʾ (Muslim religious scholars) held a monopoly over interpretation of the law, but since the 19th century their monopoly has been challenged by Westernized elites and laypeople. The question of which interpretations become normative at any given time is complex. Early Western studies of Islamic law held the view that while Islamic law shaped Muslim societies, the latter had no influence on Islamic law in return. However, this position has become untenable. Social pressures and communal interests have played an important role in determining the practice of Islamic law in particular contexts—both in the premodern period and to an even greater extent in the modern era.
+
+### The substance of traditional sharia law
+
+Sharia duties are broadly divided into those that an individual owes to God (the ritual practices, or ʿibādāt) and those that the individual owes to other human beings (interpersonal matters, or muʿāmalāt). Only the latter category of duties, which constitutes law in the Western sense, is described here.
+
+#### Penal law
+
+Offenses against another person, from homicide to assault, are punishable by retaliation (qiṣāṣ), the offender being subject to precisely the same treatment as the victim. This type of offense is regarded as a civil injury rather than a crime in the technical sense, since it is not the state but only the victim or the victim’s family who has the right to prosecute and to opt for compensation or blood money (diyah) in place of retaliation.
+
+For a handful of specific crimes, the punishment is fixed (ḥadd): death for apostasy, amputation of the hand for theft and of the hand and foot for highway robbery, death by stoning for extramarital sexual relations (zinā) when the offender is married and 100 lashes when the offender is unmarried, and 80 lashes for an unproved accusation of unchastity (qadhf) and for the drinking of any intoxicant.
+
+Beyond the ḥadd crimes, both the determination of offenses and decisions regarding the punishment meted out for them lie within the discretion of the executive or the courts.
+
+#### Law of transactions
+
+A legal capacity to transact belongs to any person “of prudent judgment” (rāshid), a quality that is normally deemed to accompany physical maturity or puberty. The law presumes that:
+
+1. boys below the age of 12 and girls below the age of 9 have not attained puberty and;
+2. by the age of 15 puberty has been attained for both sexes.
+
+Persons who are not rāshid, on account of minority or mental deficiency, are placed under interdiction: their affairs are managed by a guardian, and they cannot transact effectively without the guardian’s consent.
+
+The basic principles of the law are laid down in the four root transactions:
+
+1. sale (bayʿ), transfer of the ownership or corpus of property for a consideration;
+2. hire (ijārah), transfer of the usufruct (right to use) of property for a consideration;
+3. gift (hibah), gratuitous transfer of the corpus of property, and
+4. loan (ʿāriyah), gratuitous transfer of the usufruct of property.
+
+These basic principles are then applied to the various specific transactions of, for example, pledge, deposit, guarantee, agency, assignment, land tenancy, partnership, and charitable foundations (waqf). Waqf is a uniquely Islamic institution in which founders relinquish their ownership of real property to God and dedicate the income or usufruct of the property in perpetuity to some pious or charitable purpose. This may include settlements in favour of the founder’s own family.
+
+The doctrine of ribā significantly influences the Islamic law of transactions. Basically, this is the prohibition of usury, but the notion of ribā was rigorously extended to cover, and therefore preclude, any form of interest on a capital loan or investment. And since this doctrine was coupled with the general prohibition on gambling transactions, Islamic law does not, in general, permit any kind of speculative transaction the results of which, in terms of the material benefits accruing to the parties, cannot be precisely forecast.
+
+> **Buying Stocks According to Sharia Law**
+>
+> In Islamic finance, buying stocks is generally permissible (**halal**) under certain conditions that align with Sharia law principles. However, not all stocks are considered halal, and Muslims must ensure that their investments comply with Islamic ethical and legal guidelines.
+>
+> **Key Principles of Sharia-Compliant Investing**
+>
+> 1. **Prohibition of Riba (Interest):**
+>    - Engaging in transactions involving interest is prohibited.
+>    - Investments should avoid companies heavily reliant on interest-based income.
+>
+> 2. **Avoidance of Gharar (Excessive Uncertainty) and Maysir (Gambling):**
+>    - Investments should not involve excessive risk or speculative practices.
+>    - Transactions must be clear, with all terms agreed upon upfront.
+>
+> 3. **Exclusion of Haram (Prohibited) Activities:**
+>    - Companies involved in alcohol, gambling, pork products, pornography, tobacco, and conventional financial services (like traditional banking and insurance) are to be avoided.
+>
+> **Conditions for Permissible Stock Investments**
+>
+> 1. **Primary Business Must Be Halal:**
+>    - The company's main activities should be permissible under Sharia law.
+>    - Sectors like technology, manufacturing, healthcare, and education are typically acceptable.
+>
+> 2. **Financial Screening Criteria:**
+>    - **Debt Ratio:** The company's total interest-bearing debt should not exceed a certain percentage of its total assets or market capitalization (commonly benchmarked at 33%).
+>    - **Interest Income:** Income from non-compliant activities should be minimal (often less than 5% of total revenue).
+>    - **Liquidity Ratio:** Some scholars recommend that the company's illiquid assets should be greater than its liquid assets to prevent the trading of pure money, which can resemble usury.
+>
+> 3. **Purification Process:**
+>    - If a portion of the company's income comes from non-compliant sources, investors should calculate the amount of impermissible income they've received and donate an equivalent amount to charity without expecting a reward.
+>
+> **Investment Vehicles**
+>
+> - **Sharia-Compliant Stocks:**
+>   - Stocks that have been screened and approved by Sharia scholars.
+>   - Many financial institutions and Islamic indexes provide lists of compliant companies.
+>
+> - **Islamic Mutual Funds and ETFs:**
+>   - Funds managed according to Islamic principles.
+>   - They pool money to invest in a diversified portfolio of Sharia-compliant stocks.
+>
+> - **Sukuk (Islamic Bonds):**
+>   - Islamic financial certificates similar to bonds but structured to avoid interest payments.
+>   - Returns are generated from shared ownership in tangible assets or specific projects.
+>
+> **Consultation and Due Diligence**
+>
+> - **Seek Guidance from Knowledgeable Sources:**
+>   - Consult with Islamic finance experts or Sharia scholars to ensure compliance.
+>   - Stay informed about updates in Sharia rulings related to finance.
+>
+> - **Use of Sharia Advisory Boards:**
+>   - Many Islamic financial institutions have Sharia boards that review and certify investment products.
+>
+> **Conclusion**
+>
+> Muslims are permitted to buy stocks provided the investments adhere to Sharia law. This involves careful selection of companies, avoiding those engaged in prohibited activities, and ensuring that financial dealings do not involve interest or excessive uncertainty. By following these guidelines, Muslim investors can participate in the stock market while remaining true to their religious principles.
+
+#### Family law
+
+A patriarchal outlook is the basis of the traditional Islamic law of family relationships. Fathers have the right to contract their daughters, whether minor or adult, in marriage, but jurists agree that an adult woman who is no longer a virgin must give her explicit consent to a marriage. The question of whether a virgin daughter has the right to object to a marriage contracted for her by her father has been the subject of debate among jurists, given that a widely accepted saying of Muhammad seems to imply this right. Some jurists have held that the daughter’s objection should be taken into account but is not binding, while others have considered such an objection to preclude the marriage. In Ḥanafī and Shiʿi law, an adult woman may conclude her own marriage contract, but her guardian may have the marriage annulled if his ward has married beneath her social status.
+
+> **Major Schools of Islamic Law**
+>
+> Islamic law, known as **Sharia**, is derived from the Quran and the Hadith (sayings and actions of the Prophet Muhammad). Over time, scholars developed different interpretations and methodologies for applying these sources to legal issues, leading to the formation of various **schools of thought (madhhabs)**. The major schools are divided into two main branches: **Sunni** and **Shia**.
+>
+> **Sunni Schools of Law**
+>
+> There are four major Sunni madhhabs:
+>
+> 1. **Ḥanafī School**
+>    - **Founder**: Imam Abu Hanifa (699–767 CE)
+>    - **Characteristics**: Emphasizes reason and analogy (qiyās) when deriving legal rulings. Known for flexibility and adaptability.
+>    - **Geographical Influence**: Widely followed in South Asia (Pakistan, India, Bangladesh), Turkey, the Balkans, Central Asia, and parts of the Arab world.
+>
+> 2. **Mālikī School**
+>    - **Founder**: Imam Malik ibn Anas (711–795 CE)
+>    - **Characteristics**: Places great weight on the practices of the people of Medina (amal ahl al-Madina) as a source of Sunnah. Considers public welfare (maslahah) in legal judgments.
+>    - **Geographical Influence**: Predominant in North Africa (Morocco, Algeria, Tunisia, Libya), West Africa, and parts of the Arabian Peninsula.
+>
+> 3. **Shāfiʿī School**
+>    - **Founder**: Imam Al-Shafi'i (767–820 CE)
+>    - **Characteristics**: Systematized the principles of Islamic jurisprudence. Balances the use of Quran, Hadith, consensus (ijma'), and analogy.
+>    - **Geographical Influence**: Followed in East Africa, Egypt, Yemen, Indonesia, Malaysia, and parts of the Middle East.
+>
+> 4. **Hanbalī School**
+>    - **Founder**: Imam Ahmad ibn Hanbal (780–855 CE)
+>    - **Characteristics**: Emphasizes strict adherence to the Quran and Hadith. Uses analogy sparingly and rejects juristic preference.
+>    - **Geographical Influence**: Dominant in Saudi Arabia and Qatar; influences Islamic thought in other Gulf countries.
+>
+> **Shia Schools of Law**
+>
+> 1. **Jaʿfarī School**
+>    - **Founder**: Imam Ja'far al-Sadiq (702–765 CE)
+>    - **Characteristics**: Based on the teachings of the Prophet and the Twelve Imams. Employs reason (ʿaql) extensively in jurisprudence.
+>    - **Geographical Influence**: Main legal school for Shia Muslims, especially in Iran, Iraq, Lebanon, and Bahrain.
+>
+> 2. **Zaydī School**
+>    - **Founder**: Imam Zayd ibn Ali (695–740 CE)
+>    - **Characteristics**: Closely aligned with Sunni jurisprudence, particularly the Hanafi school. Emphasizes the importance of justice and the leadership of a qualified imam.
+>    - **Geographical Influence**: Predominant in Yemen.
+>
+> **Other Notable Schools**
+>
+> - **Ibadi School**
+>   - **Characteristics**: An early Islamic school distinct from both Sunni and Shia branches. Emphasizes the Quran and Hadith but has unique legal interpretations.
+>   - **Geographical Influence**: Mainly found in Oman and parts of North and East Africa.
+>
+> **Conclusion**
+>
+> These schools represent different methodologies in interpreting Islamic law. While they may vary in legal opinions and practices, all aim to apply the principles of Islam to guide the lives of Muslims. The diversity among these schools reflects the rich intellectual tradition within Islamic jurisprudence.
+
+In traditional Islamic family law, husbands have the right of polygamy and may be validly married at the same time to a maximum of four wives. Upon marriage, a husband is obliged to pay his wife a dower, the amount of which may be fixed by agreement or by custom. During the marriage, he is bound to maintain and support her, provided that she shows no recalcitrance toward him. A wife who rejects her husband’s dominion by leaving the family home without just cause forfeits her right to maintenance.
+
+A divorce may be effected simply by the mutual agreement of the spouses. Such a divorce, known as khulʿ, requires the payment of some financial consideration by the wife to the husband for her release—most commonly a return of the dower. In addition, according to all schools except the Ḥanafī school, a wife may obtain a judicial decree of divorce on the grounds of some matrimonial offense committed by the husband, such as cruelty, desertion, or failure to provide. However, the husband alone has the power to terminate a marriage unilaterally by repudiation (ṭalāq) of his wife. Ṭalāq is an extrajudicial process: a husband may repudiate his wife at will, and his motive for doing so is not subject to scrutiny by the court or any other official body. A repudiation repeated three times constitutes a final and irrevocable dissolution of the marriage. However, a single pronouncement may be revoked at will by the husband during the wife’s waiting period (ʿiddah), which lasts for three months following the repudiation (or any other type of divorce pronouncement) or, if the wife is pregnant, until the birth of the child.
+
+The legal position of children within the family group with regard to guardianship, maintenance, and right of succession depends on their legitimacy. A child is legitimate if it can be reasonably assumed to have been conceived during the lawful wedlock of the parents. For a legal relationship to exist between a father and his illegitimate child, the father must publicly claim the child as his own, but there is always a legal tie between a mother and her illegitimate child. Guardianship of a child (the right to make decisions concerning, e.g., education and marriage) and of the property of minor children belongs to the father or another close male agnate relative. However, the right of custody (ḥaḍānah) of young children whose parents are divorced or separated belongs to the mother or another female maternal relative.
+
+#### Law of succession
+
+An individual’s power of testamentary disposition is basically limited to one-third of his or her net estate (i.e., the assets remaining after the payment of funeral expenses and debts). Two-thirds of the estate passes to the legal heirs of the deceased under the compulsory rules of inheritance.
+
+There is a fundamental divergence between the Sunni and Shiʿi schemes of inheritance. Sunni law is essentially a system of inheritance by male agnate relatives, or ʿaṣabah—i.e., relatives who, if they are more than one degree removed from the deceased, trace their connection to the deceased through male links. Among the ʿaṣabah, priority is determined by:
+
+1. class, with descendants excluding ascendants, who in turn exclude brothers and their issue, who in turn exclude uncles and their issue;
+2. degree, with relatives nearer in degree to the deceased excluding the more remote within each class; and
+3. strength of blood ties, with germane, or full-blood, connections excluding consanguine, or half-blood, connections among collateral relatives.
+
+This agnatic system is mitigated by allowing surviving spouses and a limited number of females and nonagnates—daughters; sons’ daughters; mothers; grandmothers; germane, consanguine, and uterine sisters; and uterine brothers—to inherit a fixed fractional portion of the estate in certain circumstances. But the females among these relatives receive only half the share of the male relatives of the same class, degree, and blood tie, and no female excludes from inheritance any male agnate, however remote. No other female or nonagnatic relative has any right of inheritance in the presence of a male agnate. If, for example, the deceased is survived by his wife, his daughter’s son, and a distant agnatic cousin, the wife will be restricted to one-fourth of the inheritance, the grandson will be excluded altogether, and the cousin will inherit three-fourths of the estate.
+
+Shiʿi law rejects the criterion of the agnatic tie and regards both maternal and paternal connections as equally strong grounds of inheritance. In the Shiʿi system, as in Sunni law, the surviving spouse always inherits a fixed portion, but all other relatives, including females and nonagnates, are divided into three classes:
+
+1. parents and lineal descendants;
+2. grandparents, brothers and sisters, and their issue; and
+3. uncles and aunts and their issue.
+
+Any relative of class 1 excludes any relative of class 2, who in turn excludes any relative of class 3. Within each class, the nearer in degree excludes the more remote, and the full-blood excludes the half-blood. While, therefore, a male relative normally takes double the share of the corresponding female relative, females and nonagnates are much more favourably treated in Shiʿi law than they are in Sunni law. In the case mentioned above, the wife would receive one-fourth, but the remaining three-fourths would go to the daughter’s son, or indeed to the daughter’s daughter, and not to the agnatic cousin.
+
+Under Shiʿi law the only restriction upon testamentary power is the one-third rule, whereas Sunni law does not allow any bequest in favour of a legal heir. Under both systems, however, bequests that infringe these rules are not necessarily void and ineffective; when testators have acted beyond their powers, the bequests may still be ratified by the legal heirs. Further protection is afforded to the rights of the legal heirs by the doctrine of death sickness. Any gifts made by a dying person in contemplation of death are subject to precisely the same limitations as bequests and, if they exceed these limits, will be effective only with the consent of the legal heirs.
+
+#### Procedure and evidence
+
+Traditionally, sharia law was administered by the court of a single qadi, who was the judge of the facts as well as the law, although on difficult legal issues he might seek the advice of a professional jurist or jurisconsult (mufti). There was no hierarchy of courts and no organized system of appeals. Through his clerk (kātib), the qadi controlled court procedure, which was normally characterized by a lack of ceremony or sophistication. Legal representation was not unknown, but the parties would usually appear in person and address their pleas orally to the qadi.
+
+The first task of the qadi was to decide which party bore the burden of proof. This was not necessarily the party who brought the suit; rather, it was the party whose contention was contrary to the initial legal presumption applying to the case. In the case of an alleged criminal offense, the relevant presumption was the innocence of the accused, and, in a suit for debt, the presumption was that the alleged debtor was free from debt. Hence, the burden of proof would rest upon the prosecution in the first case and upon the claiming creditor in the second. The burden of proof might of course shift between the parties several times during the same suit—for example, when an alleged debtor would plead a counterclaim against the creditor.
+
+The standard of proof required—whether on an initial, intermediate, or final issue—was rigid and basically the same in both criminal and civil cases. In the absence of a confession or an admission by the defendant, the plaintiff or prosecutor was required to produce two witnesses to testify orally to their direct knowledge of the truth of his contention. Written evidence and circumstantial evidence, even of the most compelling kind, were normally inadmissible. Moreover, the oral testimony (shahādah) usually had to be given by two male adult Muslims of established integrity and character. In certain cases, however, the testimony of women was acceptable (two women being required in place of one man), and, in most claims of property, the plaintiff could satisfy the burden of proof through one witness and his own solemn oath as to the truth of his claim.
+
+If the plaintiff or prosecutor produced the required degree of proof, judgment would be given in his favour. If he failed to produce any substantial evidence at all, judgment would be given in the defendant’s favour. If he produced some evidence but the evidence did not fulfill the strict requirements of shahādah, the defendant would be offered the oath of denial. Properly sworn, this oath would secure judgment in his favour; but if he refused it, judgment would be given in the plaintiff’s favour, provided, in some cases, that the latter himself would swear an oath.
+
+In sum, the traditional system of procedure was largely self-operating. After his initial decision as to the incidence of the burden of proof, the qadi merely presided over the predetermined process of the law: witnesses were or were not produced; the oath was or was not administered and sworn; and the verdict followed automatically. This formalistic law of evidence was not, however, universally held. Dissenting jurists, such as the influential 14th-century Ḥanbalī scholar Ibn Taymiyyah, believed that any type of evidence, including circumstantial evidence and the testimony of any witness, was admissible to help the qadi reach the correct decision.
+
+### Sharia law in contemporary Islam
+
+#### Scope and mode of administration
+
+During the 19th century the impact of Western civilization on Muslim society brought about radical changes in the fields of civil and commercial transactions and criminal law. In these areas, the sharia courts were felt to be wholly out of touch with the needs of the time, not only because of their system of procedure and evidence but also because of the substance of the sharia doctrine, which they were bound to apply. As a result, the criminal and general civil law of the sharia was abandoned in most Muslim countries and replaced by new codes, based on European models, with a new system of secular tribunals to apply them. Thus, with the notable exception of the Arabian Peninsula, where the sharia is still formally applied in its entirety, the application of sharia law in Islam has been broadly confined, from the beginning of the 20th century, to family law, including the law of succession at death and the particular institution of waqf endowments.
+
+Nor, even within this circumscribed sphere, is sharia law today applied in the traditional manner. Throughout the Middle East, sharia family law is now generally expressed in the form of modern codes, and it is only in the absence of a specific relevant provision of the code that recourse is had to the traditionally authoritative legal manuals. In India and Pakistan, much of family law is today embodied in statutory legislation, and, since the law is there administered as a case-law system, the authority of judicial decisions has superseded that of the legal manuals.
+
+In addition, in most Muslim countries, the court system has been reorganized to include, for instance, the provision of appellate jurisdictions. In Egypt and Tunisia, the sharia courts as a separate entity have been abolished, and sharia law is now administered through a unified system of national courts. In India and, since partition, in Pakistan, it has always been the case that sharia law has been applied by the same courts that apply the general civil and criminal law.
+
+Finally, in many countries, special codes have been enacted to regulate the procedure and evidence of the courts that today apply sharia law. Across the Middle East, documentary and circumstantial evidence are now generally admissible; witnesses are put under oath and may be cross-examined; and the traditional pattern in which evidence is brought only by one side while the other side, in suitable circumstances, takes the oath of denial has largely broken down. In sum, the court has a much wider discretion in assessing the weight of the evidence than it had under the traditional system of evidence. In India and Pakistan the courts apply the same rules of evidence to cases of Islamic law as they do to civil cases generally. The system is basically English law, codified in the Indian Evidence Act of 1872.
+
+#### Reform of sharia law
+
+Traditional Islamic family law reflected to a large extent the patriarchal nature of Arabian tribal society in the early centuries of Islam. Not unnaturally, certain institutions and standards of that law have been deemed out of line with the circumstances of contemporary Muslim societies, particularly in urban areas, where tribal ties have disintegrated and movements for the emancipation of women have arisen. At first, this situation seemed to create the same apparent impasse between the changing circumstances of modern life and an allegedly immutable law that had caused the adoption of Western codes in civil and criminal matters. Hence, the only solution that seemed possible to Turkey in 1926 was the total abandonment of the sharia and the adoption of the Swiss Civil Code (chosen for its simplicity and modernity) in its place. No other Muslim country, however, has as yet followed this example. Instead, traditional sharia law has been adapted in a variety of ways to meet present social needs.
+
+A central reformist concern in the Middle East has been the question of the juristic basis of reforms: granted their social desirability, reforms have had to be justified in terms of Islamic jurisprudential theory in order to frame them as a new, but nonetheless legitimate, version of the sharia. In the early stages of the reform movement, the doctrine of taqlīd (unquestioning acceptance) was still formally observed, and the juristic basis of reform lay in the doctrine of siyāsah, or “government,” which allows the political authority (who, of course, has no legislative power in the real sense of the term) to make administrative regulations of two principal types.
+
+The first type concerns procedure and evidence and restricts the jurisdiction of the sharia courts in the sense that these courts are instructed not to hear cases that do not fulfill defined evidential requirements. Thus, according to an Egyptian law enacted in 1931, no disputed claim of marriage was to be entertained if the marriage could not be proved by an official certificate of registration, and no such certificate could be issued if the bride was younger than 16 or the bridegroom younger than 18 years of age at the time of the contract. Accordingly, the marriage of a minor contracted by the guardian was still perfectly valid but would not, if disputed, be the subject of judicial relief from the courts. In theory, the doctrine of the traditional authorities was not contradicted, but, in practice, the law represented an attempt to abolish the institution of child marriage.
+
+The second type of administrative regulation was a directive to the courts as to which particular rule among existing variants they were to apply. This directive allowed the political authority to choose from the views of the different schools and jurists the opinion that it deemed best suited to present social circumstances. For example, the traditional Ḥanafī law in force in Egypt did not allow a wife to petition for divorce on the basis of any matrimonial offense committed by the husband, a situation that caused great hardship to abandoned or ill-treated wives. Mālikī law, however, recognized a wife’s right to judicial dissolution of her marriage for reasons such as the husband’s cruelty, failure to provide maintenance and support, or desertion. Accordingly, an Egyptian law of 1920 codified the Mālikī rule as the law henceforth to be applied by the sharia courts.
+
+By way of comparison, in the Indian subcontinent, reform in the matters of child marriage and divorce was effected by statutory enactments that directly superseded the traditional Ḥanafī law. The Child Marriage Restraint Act of 1929 prohibited the marriage of girls younger than 14 and boys younger than 16 under pain of penalties, while the Dissolution of Muslim Marriages Act of 1939, modelled on the English Matrimonial Causes Acts, allowed a Ḥanafī wife to obtain a judicial divorce on the standard grounds of cruelty, desertion, failure to maintain, or the like.
+
+By the 1950s the potential for legal reform under the principle of siyāsah had been exhausted in the Middle East. Since that time, the basic doctrine of taqlīd has been challenged to an ever-increasing degree. On many points, the law recorded in the medieval manuals, insofar as it represents the early jurists’ interpretations of the Qurʾān and Hadith, has been deemed no longer to possess paramount and exclusive authority. Contemporary jurisprudence has claimed the right to renounce those interpretations and to interpret the original texts of divine revelation for itself, independently and afresh in the light of modern social circumstances—in short, to reopen the door of ijtihād that had, in theory, been closed since the 10th century.
+
+The developing use of ijtihād as a means of legal reform may be seen through a comparison of the terms of the Syrian Law of Personal Status (1953) with those of the Tunisian Law of Personal Status (1957) in relation to the two subjects of polygamy and divorce by repudiation (ṭalāq).
+
+As regards polygamy, the Syrian reformers argued that the Qurʾān itself urges a husband not to take additional wives unless he is financially able to make proper provision for the wives’ maintenance and support. Classical jurists had construed this verse as a moral exhortation binding only on the husband’s conscience, but the Syrian reformers maintained that it should be regarded as a positive legal condition precedent to the exercise of polygamy and enforced as such by the courts. This novel interpretation was then coupled with a normal administrative regulation that required the due registration of marriages after the permission of the court to marry had been obtained. The Syrian law accordingly states, “The qadi may withhold permission for a man who is already married to marry a second wife, when it is established that he is not in a position to support them both.”
+
+Far more extreme was the approach of the Tunisian reformers. They argued that, in addition to a husband’s financial ability to support a plurality of wives, the Qurʾān required that co-wives be treated with complete impartiality. This Qurʾānic injunction too should be construed not simply as a moral exhortation but as a legal condition precedent to polygamy, in the sense that no second marriage should be permitted unless and until adequate evidence was forthcoming that the wives would in fact be treated impartially. However, under modern social and economic conditions, such impartial treatment was a practical impossibility. Since the essential conditions for polygamy could not be fulfilled, the Tunisian law succinctly declares: “Polygamy is prohibited.”
+
+With regard to ṭalāq, the Syrian law provides that a wife who has been repudiated without just cause might be awarded by the court compensation from her former husband to the maximum extent of one year’s maintenance. The reform was once again represented as giving practical effect to certain Qurʾānic verses that had been generally regarded by traditional jurisprudence as moral rather than legally enforceable injunctions—namely, verses that enjoin husbands to “make a fair provision” for repudiated wives and to “retain wives with kindness or release them with consideration.” The effect of the Syrian law, then, is to subject the husband’s motive for repudiation to the scrutiny of the court and to penalize him, albeit to a limited extent, for abuse of his power.
+
+Once again, the Tunisian ijtihād concerning repudiation is far more radical. The Tunisian reformers argued that the Qurʾān orders the appointment of arbitrators in the event of discord between husband and wife. A pronouncement of repudiation by a husband clearly indicates a state of discord between the spouses. Equally clearly, the official courts are best suited to undertake the function of arbitration that then becomes necessary according to the Qurʾān. It is on this broad ground that the Tunisian law abolishes the right of a husband to repudiate his wife extrajudicially: “Divorce outside a court of law is without legal effect.” Although the court must dissolve the marriage if the husband persists in his repudiation, it has unlimited power to grant the wife compensation for any damage she has sustained from the divorce—although in practice this power has been used most sparingly.
+
+In Pakistan a new interpretation of the Qurʾān and Hadith was the declared basis of the reforms introduced by the Muslim Family Laws Ordinance of 1961, although the provisions of the ordinance in relation to polygamy and ṭalāq are much less radical than the corresponding Middle Eastern reforms, since a second marriage is simply made dependent on the consent of an Arbitration Council and the effect of a husband’s repudiation is merely suspended for a period of three months to afford opportunity for reconciliation.
+
+Judicial decisions in Pakistan have also unequivocally endorsed the right of independent interpretation of the Qurʾān. For example, in Khurshīd Bībī v. Muḥammad Amīn (1967), the country’s Supreme Court held that a Muslim wife could as a right obtain a divorce simply by payment of suitable compensation to her husband. This decision was based on the court’s interpretation of a relevant Qurʾānic verse. However, under traditional sharia law, this form of divorce, known as khulʿ, in which a wife pays for her release, is a contract between the spouses and, as such, is entirely dependent upon the husband’s free consent.
+
+These are just a few examples of the many far-reaching changes that have been effected in Islamic family law. But the whole process of legal reform as it has unfolded so far still involves great problems of principle and practice. A hard core of traditionalist opinion continues to reject adamantly the validity of reinterpretation of the basic texts of divine revelation. The traditionalists argue that the texts are being manipulated to yield the meaning that suits the preconceived purposes of the reformers; therefore, contrary to fundamental Islamic ideology, it is social desirability and not the will of God that is ultimately determining the law.
+
+As regards the practical effects of legal reform, in many Muslim countries there is a deep social gulf between a Westernized and modernist minority and the conservative mass of the population. Reforms that aim at satisfying the standards of progressive urban society have little significance for the traditionalist communities of rural areas or for Muslim conservatives, whose geographical and social distribution crosses all apparent boundaries. It is also often the case that the qadis, given their background and training, are not wholly sympathetic to the purposes of the modernist legislators—an attitude often reflected in their interpretations of the new codes.
+
+The one supreme achievement of Islamic jurisprudence over the past few decades has been the emergence of a functional approach to the role of law in society. Jurisprudence has discarded the introspective and idealistic attitude that the doctrine of taqlīd had imposed on it since medieval times and now sees its task to be the solution of the problems of contemporary society. It has emerged from a protracted period of stagnation to adopt again the attitude of the earliest Muslim jurists, whose aim was to relate the dictates of the divine will to their own social environment. It is this attitude alone that has ensured the survival of the sharia in modern times as a practical system of law and that provides inspiration for the future.
