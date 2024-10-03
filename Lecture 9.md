@@ -140,3 +140,190 @@ However, the challenge lies in defining what is meant by "daily harmony." While 
 One of the main elements in the Civil Code concerning family law is the regulation of marriage. Marriage is considered an administrative act in China. This means that the official ceremony is conducted before a public officer at a registry office, where the marriage is legally recorded. This is significant because, prior to the revolution, marriage was primarily a religious ceremony. After the revolution, marriage became solely an administrative act conducted by public authorities. While individuals may choose to have a religious ceremony if they wish, it takes place after the official administrative procedure and holds no legal status.
 
 Regarding weddings, there can be specific variations in some ethnic autonomous regions with their own specific administrative systems, such as Tibet or Inner Mongolia, where certain local customs and rules are recognized. These regions may apply specific rules, including those related to marriage. For example, while the general law in China requires women to be at least 20 years old and men 22 years old to marry, in some ethnic communities, the minimum age may be lower due to traditional customs. Additionally, in certain regions, the marriage ceremony may not be limited to an administrative act. Alongside the official administrative ceremony, there may also be a traditional wedding ceremony that reflects local customs, adding a cultural layer to the process.
+
+In family law, there is a fundamental principle of strict equality between the husband and wife, or between the spouses in general. This means that both partners have equal rights and responsibilities within the marriage. The marriage is governed by three key principles:
+
+1. **Respect**: Spouses are required to respect each other, ensuring mutual regard and consideration within the relationship.
+2. **Fidelity**: There is a clear expectation of loyalty, meaning that extramarital affairs are not permitted.
+3. **Love**: The relationship between the spouses is also expected to be based on love, emphasizing the emotional connection within the marriage.
+
+Within family law, there are also provisions concerning the situation of children. For decades, China implemented the one-child policy as an official measure to control population growth. This policy limited most families to having only one child. However, in 2021, a new law was passed allowing families to have up to three children, replacing the previous restriction.
+
+Also within the family law system, divorce is legally permitted in China. Either the husband or the wife can initiate a divorce, reflecting the principle of equality between the spouses mentioned earlier. This ensures that both parties have the same legal rights to seek a divorce if they choose to do so.
+
+### Social law
+
+In social law, two main areas are addressed. On one hand, there is social welfare, which encompasses public insurance systems for health, retirement, and other social protections. One of the key characteristics of the Chinese system is the distinction between urban and rural areas, resulting in different organizational structures, processes, and benefit amounts for social welfare.
+
+Within this social welfare system, there are two components:
+
+1. **Public protection** provided either by the state or employers.
+2. **Individual protection**, where individuals contribute additional payments for complementary coverage beyond what is provided by the public system.
+
+This dual structure reflects the differences in coverage and benefits based on the individual's location and the specific protections available to them.
+
+The second aspect of social law is labor law. One of the main characteristics of the labor law system in China is the presence of specific provisions related to employment contracts. These provisions govern the relationship between the worker and the employer, whether the employer is a public entity or a private company.
+
+In cases of disputes between a worker and their employer, there are several options for resolution. The first step often involves **mediation**, which can occur at two levels:
+
+1. **Mediation within the enterprise**, where the issue is addressed internally between the worker and employer.
+2. **Mediation at the local public level**, where a public administrative body in the local area facilitates the resolution.
+
+If mediation fails at either level, the case can then proceed to a trial in front of the **specialized labor courts** mentioned earlier. These courts are dedicated to resolving labor-related disputes.
+
+One of the key aspects of labor law in China is the issue of strikes. Officially, the right to strike is not prohibited, but in practice, strikes and demonstrations are often treated as illegal. Organizing or participating in non-official protests or strikes can lead to legal prosecution. This contrasts with labor laws in many Western countries, where workers have the proclaimed right to strike or halt work to demand negotiations, and this right is generally protected by law.
+
+In China, however, strikes are more complicated. While the right to strike exists on paper, in practice, it is heavily restricted. Demonstrations and strikes—whether in public or private sectors—can be subject to prosecution by authorities at various levels of government. This reflects a broader characteristic of the Marxist system, where, despite the official recognition of certain rights (such as the right to strike), exercising these rights can be seen as opposing the government. This was a common feature in other Marxist countries like the former USSR, where the right to strike was recognized but not practically allowed, as it was often interpreted as a challenge to state authority.
+
+### Environmental law
+
+#### Constitution
+
+This is, of course, a very contemporary issue. In the Chinese Constitution, there is a strong proclamation regarding the importance of environmental protection. The Constitution states that the state has the obligation to ensure the sustainable use of natural resources. Furthermore, it mandates that the state must promote the sustainable management and conservation of these resources, reflecting a commitment to environmental sustainability at the national level.
+
+The Chinese Constitution also emphasizes the protection of various aspects of nature, including natural and traditional landscapes. This means the state is obligated not to make sweeping changes to the land but to protect certain natural areas and traditional cultural sites. For example, landscapes that are deeply connected to Chinese civilization and heritage must be preserved. The state has a responsibility to ensure that such areas are not destroyed.
+
+The Chinese Constitution also includes a general principle of environmental protection, encompassing the protection of nature and biodiversity. This extends to the protection of animals and various types of plant species. In essence, the Constitution clearly proclaims the state's duty to safeguard the environment, emphasizing the importance of preserving the natural world and its diverse ecosystems.
+
+The Chinese Constitution also affirms the right of the people to access information about the state of the environment in the country. This is significant because it implies that the state's obligation goes beyond merely proclaiming environmental protection—it must also take concrete actions to implement it. Additionally, this right to information means that citizens, as well as organizations such as non-governmental organizations (NGOs) and associations, have the legal right to be informed about environmental conditions.
+
+It's important to note that this principle, as written in the Chinese Constitution, must be understood within the context of a Marxist state. In such a state, there is not necessarily a guaranteed freedom for citizens to hold demonstrations, openly criticize the government, or demand information from authorities. While the Constitution's provision on environmental information may appear liberal from a political standpoint, the reality is shaped by the monopoly of the Communist Party in defining the country's direction. As a result, individuals or organizations that contest government policies on environmental issues or demand information that the administration is not willing to provide may face repercussions. In some cases, this could be seen as an offense against the state. The actual application of this principle can vary, depending on local implementation and the directives of the central government. In essence, while the Constitution presents a liberal framework on paper, its application by the authorities may be much more restrictive.
+
+#### International treaties
+
+A second important point is that China has signed various international treaties focused on the protection of nature and sustainable development. For example, China is a signatory to the Paris Agreement (COP 21), an international treaty that sets objectives for countries regarding sustainable development and environmental protection, particularly in terms of reducing emissions and promoting greener production methods. China has officially committed to implementing these international agreements.
+
+> **Paris Agreement (COP21)**
+>
+> The **Paris Agreement** is a landmark international treaty adopted on December 12, 2015, during the 21st Conference of the Parties (COP21) to the United Nations Framework Convention on Climate Change (UNFCCC), held in Paris, France. It represents a global commitment to combat climate change by limiting global warming and enhancing the ability of countries to deal with its impacts.
+>
+> **Key Objectives of the Paris Agreement**
+>
+> 1. **Limit Global Warming:**
+>    - **Primary Goal:** To keep the increase in global average temperature **well below 2°C** above pre-industrial levels.
+>    - **Ambitious Target:** To pursue efforts to limit the temperature rise to **1.5°C**, recognizing that this would significantly reduce the risks and impacts of climate change.
+>
+> 2. **Enhance Adaptive Capacity:**
+>    - **Resilience Building:** Strengthen the ability of countries to adapt to the adverse effects of climate change.
+>    - **Support Mechanisms:** Provide financial, technical, and capacity-building support to developing nations.
+>
+> 3. **Foster Climate Finance:**
+>    - **Funding Commitment:** Mobilize **$100 billion per year** by 2020 from developed countries to support climate action in developing countries.
+>    - **Long-term Goals:** Continue financial flows beyond 2025 to ensure sustained climate mitigation and adaptation efforts.
+>
+> **Key Features and Mechanisms**
+>
+> 1. **Nationally Determined Contributions (NDCs):**
+>    - **Country Commitments:** Each country submits its own climate action plan outlining its goals for reducing greenhouse gas (GHG) emissions and adapting to climate impacts.
+>    - **Regular Updates:** Countries are required to **update their NDCs every five years**, with each update representing a progression beyond previous efforts.
+>
+> 2. **Transparency and Accountability:**
+>    - **Monitoring Framework:** Establish a robust system for tracking progress towards NDCs, including reporting and verification processes.
+>    - **Global Stocktake:** Every five years, starting in 2023, parties assess collective progress and update actions accordingly.
+>
+> 3. **Loss and Damage:**
+>    - **Support for Vulnerable Countries:** Recognizes the need to address loss and damage associated with the impacts of climate change, though it does not involve liability or compensation.
+>
+> 4. **Climate Finance:**
+>    - **Financial Flows:** Encourage developed countries to provide financial resources to developing countries for mitigation and adaptation.
+>    - **Private Sector Engagement:** Promote investment from the private sector to support climate-related projects.
+>
+> 5. **Adaptation and Resilience:**
+>    - **Strengthening Capacities:** Enhance the ability of communities and ecosystems to withstand climate impacts.
+>    - **Shared Knowledge:** Facilitate the sharing of best practices and technologies for effective adaptation.
+>
+> **Significance of the Paris Agreement**
+>
+> 1. **Universal Participation:**
+>    - **Global Consensus:** Nearly every country in the world has ratified the agreement, making it a truly universal pact to address climate change.
+>    - **Inclusivity:** Includes both developed and developing nations, recognizing the shared responsibility to tackle climate issues.
+>
+> 2. **Flexible and Dynamic Framework:**
+>    - **Bottom-Up Approach:** Allows countries to tailor their commitments based on national circumstances and capacities.
+>    - **Adaptability:** The mechanism for updating NDCs ensures that climate action evolves in line with scientific advancements and changing circumstances.
+>
+> 3. **Long-Term Vision:**
+>    - **Future-Oriented Goals:** Sets the stage for sustained global efforts to transition to low-carbon and climate-resilient economies.
+>    - **Intergenerational Equity:** Aims to safeguard the environment and resources for future generations.
+>
+> **Challenges and Criticisms**
+>
+> 1. **Ambition Gap:**
+>    - **Insufficient Targets:** Current NDCs, while significant, are not yet sufficient to limit warming to 1.5°C or even 2°C.
+>    - **Need for Enhanced Commitments:** Greater ambition and more aggressive action are required from all nations to meet the agreement's goals.
+>
+> 2. **Implementation and Enforcement:**
+>    - **Voluntary Nature:** The Paris Agreement relies on voluntary commitments, lacking strong enforcement mechanisms to ensure compliance.
+>    - **Dependence on Political Will:** Success depends heavily on the political will and cooperation of individual countries.
+>
+> 3. **Climate Finance:**
+>    - **Funding Shortfalls:** Meeting the financial commitments, especially in supporting developing countries, remains a significant challenge.
+>    - **Equitable Distribution:** Ensuring fair and transparent allocation of funds is crucial for effective climate action.
+>
+> 4. **Loss and Damage:**
+>    - **Limited Provisions:** While acknowledged, the mechanisms for addressing loss and damage are not fully developed, leaving vulnerable countries without adequate support.
+>
+> **Progress Since Adoption**
+>
+> 1. **Ratification and Entry into Force:**
+>    - **Global Endorsement:** The Paris Agreement was adopted by 196 parties and entered into force on **November 4, 2016**, after receiving the required number of ratifications.
+>
+> 2. **Global Stocktake:**
+>    - **Periodic Reviews:** The first global stocktake is scheduled for 2023, assessing collective progress and guiding future actions.
+>
+> 3. **Increased Awareness and Action:**
+>    - **Public and Private Engagement:** There has been a surge in climate awareness, with significant involvement from governments, businesses, and civil society.
+>    - **Technological Advancements:** Innovations in renewable energy, energy efficiency, and sustainable practices have accelerated.
+>
+> 4. **Reaffirmation and Strengthening:**
+>    - **Continued Commitment:** Countries continue to reaffirm their dedication to the Paris goals through successive COP meetings, although challenges persist in closing the ambition gap.
+>
+> **Conclusion**
+>
+> The **Paris Agreement (COP21)** is a pivotal step in the global fight against climate change, establishing a unified framework for nations to collectively limit global warming and enhance resilience. While it marks significant progress in international climate policy, its success hinges on the ambition, cooperation, and sustained efforts of all participating countries. Addressing the existing challenges and bridging the ambition gap are essential for achieving the agreement's long-term objectives and ensuring a sustainable future for the planet.
+
+However, many private international organizations have raised concerns about the significant pollution issues in certain parts of China, particularly related to industrial development. Despite the proclamation of these environmental principles and commitments, there are ongoing challenges in fully aligning industrial practices with the goals set by these treaties.
+
+Since 2019, there has been a project to draft a specific Environmental Code in China. Currently, the parliament is reviewing this project through its various commissions, with ongoing discussions between the government and parliament to finalize the code. One of the key issues is how to integrate international environmental protection principles into this new code. As mentioned earlier, China has signed numerous international treaties on sustainable development, environmental protection, and climate change. The challenge now is to incorporate these international commitments into domestic law.
+
+> China has established a comprehensive **Environmental Protection Law (EPL)**, which functions as the country's primary environmental code. This law was significantly revised and officially took effect on January 1, 2023. The EPL consolidates various existing environmental regulations into a unified framework to better address environmental challenges and promote sustainable development.
+>
+> **Key Features of China's Environmental Protection Law**
+>
+> 1. **Comprehensive Coverage:**
+>    - **Pollution Control:** Regulations on air, water, soil pollution, and waste management.
+>    - **Conservation:** Protection of biodiversity, ecosystems, and natural resources.
+>    - **Climate Change:** Measures to reduce greenhouse gas emissions and promote renewable energy.
+>
+> 2. **State Obligations:**
+>    - **Active Protection:** The government is required to take concrete actions to protect the environment, not just declare intentions.
+>    - **Environmental Information:** Ensures public access to environmental data, empowering citizens and organizations to participate in environmental governance.
+>
+> 3. **Public Participation:**
+>    - **Transparency:** Citizens, NGOs, and associations have the right to obtain information about environmental conditions.
+>    - **Consultation:** Involvement of the public in decision-making processes related to environmental policies and projects.
+>
+> 4. **Enforcement and Accountability:**
+>    - **Stricter Penalties:** Increased fines and sanctions for environmental violations.
+>    - **Polluter Pays Principle:** Those causing pollution are responsible for remediation and compensation.
+>
+> 5. **Integration with Other Laws:**
+>    - **Unified Framework:** Combines over 30 existing environmental laws and regulations into a single, coherent legal structure.
+>
+> **Importance of the Environmental Protection Law**
+>
+> - **Enhanced Legal Framework:** Provides a robust basis for environmental protection and sustainable development in China.
+> - **Increased Transparency:** Facilitates greater public oversight and participation in environmental matters.
+> - **Stronger Enforcement:** Improves the government's ability to enforce environmental regulations and hold violators accountable.
+>
+> **Conclusion**
+>
+> China's **Environmental Protection Law** serves as a comprehensive environmental code, reinforcing the nation's commitment to addressing environmental issues through unified legislation, increased transparency, and active public participation. This law marks a significant step towards more effective environmental governance and sustainable development in China.
+
+China has considerable experience with this process, particularly in the realm of economic law. For instance, China has signed many international treaties related to trade and economy, such as those under the World Trade Organization. In response, the Chinese parliament has successfully incorporated these international principles into national business law. It is likely that the Chinese parliament will adopt a similar approach when drafting the Environmental Code.
+
+The key question, in fact, is determining the true legal character of international environmental law. For example, some argue that environmental agreements—especially the Paris Agreement (COP21)—impose binding legal obligations on states, meaning that countries must respect and enforce the provisions outlined in these treaties. In this view, the commitments made under such agreements are mandatory, requiring concrete action from the signatory states.
+
+On the other hand, some believe that these international texts are not truly normative, but rather establish general objectives that states are encouraged to pursue, without absolute legal obligation. This was notably the stance of the U.S. government under President Donald Trump. Upon taking office, one of Trump's first decisions was to withdraw the United States from the Paris Agreement, signaling that the U.S. would not enforce the treaty’s provisions. When Joe Biden was elected, he reversed this decision and rejoined the Paris Agreement, though challenges remained, such as the issue of gas exploitation. This debate illustrates the uncertainty surrounding whether international environmental agreements are legally binding or merely aspirational targets that states are expected, but not obligated, to achieve.
+
+This uncertainty is at the heart of the current debate in China as well. It is still unclear what China’s official stance is on the legal nature of these environmental treaties. While many non-governmental organizations (NGOs) have criticized China for not fully implementing the commitments outlined in such agreements, the ongoing discussion in the Chinese parliament revolves around this very issue: Is international environmental law a set of binding norms, or merely goals that states should aim to reach without legal obligation?
